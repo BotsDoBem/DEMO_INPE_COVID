@@ -1,0 +1,170 @@
+{
+  "ADJ[number=singular,gender=male] novo":[
+    "novo"
+  ],
+  "ADJ[number=plural,gender=male] novo":[
+    "novos"
+  ],
+  "ADJ[number=singular,gender=female] novo":[
+    "nova"
+  ],
+  "ADJ[number=plural,gender=female] novo":[
+    "novas"
+  ],
+  "ADJ[number=singular,gender=male] confirmado":[
+    "confirmado"
+  ],
+  "ADJ[number=plural,gender=male] confirmado":[
+    "confirmados"
+  ],
+  "ADJ[number=singular,gender=female] confirmado":[
+    "confirmada"
+  ],
+  "ADJ[number=plural,gender=female] confirmado":[
+    "confirmadas"
+  ],
+  "ADJ[number=singular,gender=male] causado":[
+    "causado"
+  ],
+  "ADJ[number=plural,gender=male] causado":[
+    "causados"
+  ],
+  "ADJ[number=singular,gender=female] causado":[
+    "causada"
+  ],
+  "ADJ[number=plural,gender=female] causado":[
+    "causadas"
+  ],
+  "ADJ[number=singular,gender=male] ocasionado":[
+    "ocasionado"
+  ],
+  "ADJ[number=plural,gender=male] ocasionado":[
+    "ocasionados"
+  ],
+  "ADJ[number=singular,gender=female] ocasionado":[
+    "ocasionada"
+  ],
+  "ADJ[number=plural,gender=female] ocasionado":[
+    "ocasionadas"
+  ],
+  "ADJ[number=singular,gender=male] representado":[
+    "representado"
+  ],
+  "ADJ[number=plural,gender=male] representado":[
+    "representados"
+  ],
+  "ADJ[number=singular,gender=female] representado":[
+    "representada"
+  ],
+  "ADJ[number=plural,gender=female] representado":[
+    "representadas"
+  ],
+  "ADJ[number=singular,gender=male] diário":[
+    "diário"
+  ],
+  "ADJ[number=plural,gender=male] diário":[
+    "diários"
+  ],
+  "ADJ[number=singular,gender=female] diário":[
+    "diária"
+  ],
+  "ADJ[number=plural,gender=female] diário":[
+    "diárias"
+  ],
+  "ADJ[number=singular,gender=male] total":[
+    "total"
+  ],
+  "ADJ[number=plural,gender=male] total":[
+    "totais"
+  ],
+  "ADJ[number=singular,gender=male] ativo":[
+    "ativo"
+  ],
+  "ADJ[number=plural,gender=male] ativo":[
+    "ativos"
+  ],
+  "ADJ[number=singular,gender=male] contaminado":[
+    "contaminado"
+  ],
+  "ADJ[number=plural,gender=male] contaminado":[
+    "contaminados"
+  ],
+  "ADJ[number=singular,gender=female] contaminado":[
+    "contaminada"
+  ],
+  "ADJ[number=plural,gender=female] contaminado":[
+    "contaminadas"
+  ],
+  "ADJ[number=singular,gender=male] doente":[
+    "doente"
+  ],
+  "ADJ[number=plural,gender=male] doente":[
+    "doentes"
+  ],
+  "ADJ[number=singular,gender=female] doente":[
+    "doente"
+  ],
+  "ADJ[number=plural,gender=female] doente":[
+    "doentes"
+  ],
+  "ADJ[number=singular,gender=male] infectado":[
+    "infectado"
+  ],
+  "ADJ[number=plural,gender=male] infectado":[
+    "infectados"
+  ],
+  "ADJ[number=singular,gender=female] infectado":[
+    "infectada"
+  ],
+  "ADJ[number=plural,gender=female] infectado":[
+    "infectadas"
+  ],
+  "ADJ[number=singular,gender=male] desmatado":[
+    "desmatado"
+  ],
+  "ADJ[number=plural,gender=male] desmatado":[
+    "desmatados"
+  ],
+  "ADJ[number=singular,gender=female] desmatado":[
+    "desmatada"
+  ],
+  "ADJ[number=plural,gender=female] desmatado":[
+    "desmatadas"
+  ],
+  "ADJ[number=singular,gender=male] destruído":[
+    "destruído"
+  ],
+  "ADJ[number=plural,gender=male] destruído":[
+    "destruídos"
+  ],
+  "ADJ[number=singular,gender=female] destruído":[
+    "destruída"
+  ],
+  "ADJ[number=plural,gender=female] destruído":[
+    "destruídas"
+  ],
+  "ADJ[number=singular,gender=male] perdido":[
+    "perdido"
+  ],
+  "ADJ[number=plural,gender=male] perdido":[
+    "perdidos"
+  ],
+  "ADJ[number=singular,gender=female] perdido":[
+    "perdida"
+  ],
+  "ADJ[number=plural,gender=female] perdido":[
+    "perdidas"
+  ],
+  "ADJ[number=singular,gender=male] devastado":[
+    "devastado"
+  ],
+  "ADJ[number=plural,gender=male] devastado":[
+    "devastados"
+  ],
+  "ADJ[number=singular,gender=female] devastado":[
+    "devastada"
+  ],
+  "ADJ[number=plural,gender=female] devastado":[
+    "devastadas"
+  ]
+}

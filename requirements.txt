@@ -1,0 +1,6 @@
+mongoengine==0.19.1
+nltk==3.5
+numpy==1.18.3
+python-twitter==3.5
+requests==2.23.0
+SPARQLWrapper==1.8.5

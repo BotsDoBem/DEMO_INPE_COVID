@@ -1,0 +1,328 @@
+{
+    "TOTAL_CASES(cases=CASES_1);NEW_CASES(cases=CASES_2,highest=True)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , CASES_2 NN[number=CASES_2,gender=male] caso a mais de o que em o dia anterior .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , CASES_2 NN[number=CASES_2,gender=male] caso a mais de o que em o dia anterior .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso , CASES_2 a mais de o que em o dia anterior .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar ao total de CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , com CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso em as \u00faltimas 24 horas .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=True);TOTAL_CASES(cases=CASES_2)":[
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=female] novo NN[number=CASES_1,gender=female] infec\u00e7\u00e3o ADJ[number=CASES_1,gender=female] confirmado , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_2 NN[number=CASES_2,gender=male] caso de #COVID19 .",
+            "frequency":2
+        },
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar ao total de CASES_2 NN[number=CASES_2,gender=male] registro de a doen\u00e7a .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , o que representa DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 em o total de infectados .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 em o total de casos .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_CASES(cases=CASES_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_1 NN[number=CASES_1,gender=male] caso de a doen\u00e7a .",
+            "frequency":1
+        },
+        {
+            "template":"DT[number=CASES_1,gender=male] o NN[number=CASES_1,gender=male] caso de #COVID19 VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] somar CASES_1 em COUNTRY_1 .",
+            "frequency":1
+        },
+        {
+            "template":"N\u00famero de NN[number=plural,gender=male] caso ADJ[number=plural,gender=male] confirmado de infec\u00e7\u00e3o por o v\u00edrus VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] alcan\u00e7ar CASES_1 .",
+            "frequency":1
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 .",
+            "frequency":1
+        },
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 .",
+            "frequency":1
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=True)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , o maior aumento di\u00e1rio registrado at\u00e9 o momento .",
+            "frequency":1
+        },
+        {
+            "template":"O n\u00famero de novos casos tamb\u00e9m \u00e9 o maior j\u00e1 registrado , CASES_1 ADJ[number=CASES_1,gender=female] novo NN[number=CASES_1,gender=female] infec\u00e7\u00e3o ADJ[number=CASES_1,gender=female] confirmado .",
+            "frequency":1
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar novo recorde , CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 em apenas um dia .",
+            "frequency":1
+        },
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso desde ontem , COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] ter mais um recorde de casos de #COVID19 .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_CASES(cases=CASES_1);TOTAL_DEATHS(deaths=DEATHS_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a CASES_1 NN[number=CASES_1,gender=male] caso e VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar DEATHS_1 NN[number=DEATHS_1,gender=female] morte por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"Ao todo , VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso e DEATHS_1 NN[number=DEATHS_1,gender=female] morte .",
+            "frequency":2
+        },
+        {
+            "template":"Em o total , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso e DEATHS_1 NN[number=DEATHS_1,gender=female] morte por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] somar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 e DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] ocasionado por o v\u00edrus .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] alcan\u00e7ar CASES_1 NN[number=CASES_1,gender=male] caso ADJ[number=CASES_1,gender=male] confirmado e DEATHS_1 NN[number=DEATHS_1,gender=female] morte por #COVID19 .",
+            "frequency":2
+        }
+    ],
+    "NEW_DEATHS(deaths=DEATHS_1,highest=True);TOTAL_DEATHS(deaths=DEATHS_2)":[
+        {
+            "template":"Com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar DT[number=singular,gender=male] um NN[number=singular,gender=male] total de DEATHS_2 NN[number=DEATHS_2,gender=male] \u00f3bito por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte por #COVID19 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar DEATHS_2 NN[number=DEATHS_2,gender=male] \u00f3bito .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=True);NEW_DEATHS(deaths=DEATHS_1,highest=True)":[
+        {
+            "template":"Em 24 horas VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte por #COVID19 em COUNTRY_1 .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);TOTAL_CASES(cases=CASES_2)":[
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e TREND_1 de VARIATION_1 em rela\u00e7\u00e3o ao dia anterior , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_2 NN[number=CASES_2,gender=male] caso de #COVID19 .",
+            "frequency":3
+        }
+    ],
+    "TOTAL_DEATHS(deaths=DEATHS_1);NEW_DEATHS(deaths=DEATHS_2,highest=True)":[
+        {
+            "template":"O NN[number=singular,gender=male] n\u00famero ADJ[number=singular,gender=male] total de NN[number=plural,gender=female] morte VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] chegar a DEATHS_1 , com DEATHS_2 ADJ[number=DEATHS_2,gender=male] novo NN[number=DEATHS_2,gender=male] \u00f3bito em as \u00faltimas 24 horas .",
+            "frequency":2
+        },
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=female] registrar DEATHS_1 NN[number=DEATHS_1,gender=female] morte , DEATHS_2 a mais de o que em o dia anterior .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_CASES(cases=CASES_1);CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);NEW_CASES(cases=CASES_2,highest=False)":[
+        {
+            "template":"DT[number=CASES_1,gender=male] o NN[number=CASES_1,gender=male] caso de infec\u00e7\u00e3o por o v\u00edrus VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] alcan\u00e7ar CASES_1 , DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 , ADJ[number=singular,gender=TREND_1] representado por CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso .",
+            "frequency":3
+        },
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] Registrar ao todo CASES_1 NN[number=CASES_1,gender=male] caso de a doen\u00e7a, DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 , ADJ[number=singular,gender=TREND_1] representado por CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso .",
+            "frequency":3
+        }
+    ],
+    "TOTAL_DEATHS(deaths=DEATHS_1);NEW_DEATHS(deaths=DEATHS_2,highest=False);DEATHS_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"DT[number=DEATHS_1,gender=female] o NN[number=DEATHS_1,gender=female] morte por #COVID19 em COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=DEATHS_1,number=DEATHS_1] chegar a DEATHS_1 , com DEATHS_2 ADJ[number=DEATHS_2,gender=male] novo NN[number=DEATHS_2,gender=male] \u00f3bito , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] representar DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 .",
+            "frequency":3
+        }
+    ],
+    "CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);DEATHS_VARIATION_LAST_DAY(trend=TREND_2,variation=VARIATION_2)":[
+        {
+            "template":"Em as \u00faltimas 24 horas , DT[number=singular,gender=male] o NN[number=singular,gender=male] n\u00famero de NN[number=plural,gender=female] infec\u00e7\u00e3o ADJ[number=plural,gender=female] confirmado teve TREND_1 de VARIATION_1 e DT[number=singular,gender=male] o NN[number=singular,gender=male] n\u00famero de NN[number=plural,gender=male] \u00f3bito TREND_2 de VARIATION_2 .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 em a quantidade de NN[number=plural,gender=male] caso e de VARIATION_2 em a quantidade de NN[number=plural,gender=male] \u00f3bito por #COVID19 .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);TOTAL_CASES(cases=CASES_2)":[
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] Registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] totalizar CASES_2 NN[number=CASES_2,gender=male] caso ADJ[number=CASES_2,gender=male] confirmado .",
+            "frequency":2
+        },
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a CASES_2 NN[number=CASES_2,gender=male] infectado por a doen\u00e7a .",
+            "frequency":2
+        }
+    ],
+    "NEW_DEATHS(deaths=DEATHS_1,highest=False);TOTAL_DEATHS(deaths=DEATHS_2)":[
+        {
+            "template":"Com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] somar DEATHS_2 NN[number=DEATHS_2,gender=male] \u00f3bito por o v\u00edrus .",
+            "frequency":2
+        },
+        {
+            "template":"Com DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] \u00f3bito , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a marca de DEATHS_2 NN[number=DEATHS_2,gender=male] morto .",
+            "frequency":2
+        }
+    ],
+    "CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 em um dia em a quantidade de NN[number=plural,gender=male] caso de #COVID19 .",
+            "frequency":1
+        }
+    ],
+    "NEW_DEATHS(deaths=DEATHS_1,highest=True)":[
+        {
+            "template":"COUNTRY_1 tem recorde di\u00e1rio e VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] \u00f3bito por #COVID19 .",
+            "frequency":1
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar maior n\u00famero de mortes di\u00e1rias at\u00e9 o momento , DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] falecimento por #COVID19 .",
+            "frequency":1
+        },
+        {
+            "template":"Foi registrado novo recorde de mortes por #COVID19 em COUNTRY_1 , DEATHS_1 em as \u00faltimas 24 horas .",
+            "frequency":1
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar novo recorde , com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte em as \u00faltimas 24 horas .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEATHS(deaths=DEATHS_1)":[
+        {
+            "template":"Em o total , VP[aspect=simple,tense=present,voice=active,person=DEATHS_1,number=DEATHS_1] ser DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] causado por o v\u00edrus .",
+            "frequency":1
+        },
+        {
+            "template":"N\u00famero de mortes por o v\u00edrus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] chegar a DEATHS_1 .",
+            "frequency":1
+        },
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar \u00e0 marca de DEATHS_1 NN[number=DEATHS_1,gender=female] morte por #COVID19 .",
+            "frequency":1
+        },
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular,gender=male] registrar um total de DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] confirmado por #COVID19 em COUNTRY_1 .",
+            "frequency":1
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);NEW_DEATHS(deaths=DEATHS_1,highest=False);TOTAL_CASES(cases=CASES_2);TOTAL_DEATHS(deaths=DEATHS_2)":[
+        {
+            "template":"De ontem para hoje VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] contabilizar mais CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] totalizar CASES_2 NN[number=CASES_2,gender=male] caso e DEATHS_2 NN[number=DEATHS_2,gender=female] morte por a doen\u00e7a.",
+            "frequency":4
+        }
+    ],
+    "DEATHS_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 em a quantidade de mortos por #COVID19 .",
+            "frequency":1
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);TOTAL_CASES(cases=CASES_2);CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar CASES_2 NN[number=CASES_2,gender=male] caso em o total e TREND_1 de VARIATION_1 em rela\u00e7\u00e3o ao dia anterior .",
+            "frequency":3
+        }
+    ],
+    "DEATHS_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);NEW_DEATHS(deaths=DEATHS_1,highest=False);TOTAL_DEATHS(deaths=DEATHS_2)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 em o n\u00famero de mortes causadas por #COVID19 , com DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] registro em as \u00faltimas 24 horas , totalizando DEATHS_2 NN[number=DEATHS_2,gender=male] \u00f3bito .",
+            "frequency":3
+        }
+    ],
+    "NEW_DEATHS(deaths=DEATHS_1,highest=False);TOTAL_DEATHS(deaths=DEATHS_2);DEATHS_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"Desde ontem , VP[aspect=simple,tense=past,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=DEATHS_1] registrar em COUNTRY_1 DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , que agora VP[aspect=simple,tense=present,voice=active,person=DEATHS_2,number=DEATHS_2] somar DEATHS_2 , representando DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] di\u00e1rio de VARIATION_1 .",
+            "frequency":3
+        }
+    ],
+    "TOTAL_DEATHS(deaths=DEATHS_1);TOTAL_CASES(cases=CASES_1)":[
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=DEATHS_1] registrar , em o total , DEATHS_1 NN[number=DEATHS_1,gender=female] morte e CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 .",
+            "frequency":2
+        }
+    ],
+    "ACTIVE_CASES(active_cases=ACTIVE_CASES_1);ACTIVE_CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1)":[
+        {
+            "template":"Em o momento , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo , o que significa DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 em a quantidade de pessoas ainda doentes por #COVID19 .",
+            "frequency":2
+        },
+        {
+            "template":"COUNTRY_1 ainda VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 de o n\u00famero pessoas atualmente infectadas por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"DT[number=ACTIVE_CASES_1,gender=male] o NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] somar ACTIVE_CASES_1 , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 de os pacientes ainda infectados por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"DT[number=ACTIVE_CASES_1,gender=male] o NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo em COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] totalizar ACTIVE_CASES_1 , o que significa DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 em o total de pessoas ainda infectadas por a doen\u00e7a .",
+            "frequency":2
+        }
+    ],
+    "ACTIVE_CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);ACTIVE_CASES(active_cases=ACTIVE_CASES_1)":[
+        {
+            "template":"VP[aspect=simple,tense=present,voice=passive,person=TREND_1,number=TREND_1,gender=TREND_1] registrar em COUNTRY_1 DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 de os casos ativos de #COVID19 , o que quer dizer que atualmente VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] existir ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente ainda ADJ[number=ACTIVE_CASES_1,gender=male] contaminado .",
+            "frequency":2
+        },
+        {
+            "template":"VP[aspect=simple,tense=past,voice=passive,person=TREND_1,number=TREND_1,gender=female] observar DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 em os casos ativos , o que dizer que COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] apresentar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda ADJ[number=ACTIVE_CASES_1,gender=female] doente .",
+            "frequency":2
+        },
+        {
+            "template":"Com DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 em as \u00faltimas 24 horas , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] possuir ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente ainda ADJ[number=ACTIVE_CASES_1,gender=male] infectado por a doen\u00e7a .",
+            "frequency":2
+        },
+        {
+            "template":"Os casos ativos observaram TREND_1 de VARIATION_1 , o que significa que ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] estar ADJ[number=ACTIVE_CASES_1,gender=female] infectado por #COVID19 .",
+            "frequency":2
+        },
+        {
+            "template":"A quantidade de casos ativos registrou TREND_1 de VARIATION_1 , o que significa que ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] estar ADJ[number=ACTIVE_CASES_1,gender=female] contaminado por #COVID19 em COUNTRY_1 .",
+            "frequency":2
+        },
+        {
+            "template":"Com TREND_1 de VARIATION_1 , agora COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] apresentar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente em acompanhamento .",
+            "frequency":2
+        }
+    ],
+    "DEATHS_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);NEW_DEATHS(deaths=DEATHS_1,highest=False)":[
+        {
+            "template":"De ontem para hoje , COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 de os mortos por #COVID19 , o que representa DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte .",
+            "frequency":2
+        },
+        {
+            "template":"As mortes causadas por a doen\u00e7a tiveram TREND_1 de VARIATION_1 , o que corresponde a DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] \u00f3bito .",
+            "frequency":2
+        }
+    ],
+    "NEW_DEATHS(deaths=DEATHS_1,highest=True);NEW_CASES(cases=CASES_1,highest=True)":[
+        {
+            "template":"COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar novo recorde di\u00e1rio de mortes e casos de #COVID19 , registrando DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] \u00f3bito e CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de a doen\u00e7a .",
+            "frequency":2
+        }
+    ],
+    "NEW_CASES(cases=CASES_1,highest=False);NEW_DEATHS(deaths=DEATHS_1,highest=False);CASES_VARIATION_LAST_DAY(trend=TREND_1,variation=VARIATION_1);DEATHS_VARIATION_LAST_DAY(trend=TREND_2,variation=VARIATION_2)":[
+        {
+            "template":"Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte em 24 horas , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar TREND_1 de VARIATION_1 de os casos e de VARIATION_2 de as mortes confirmadas por #COVID19 .",
+            "frequency":4
+        }
+    ]
+}

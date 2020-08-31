@@ -1,0 +1,254 @@
+{
+    "CAUSE(area=AREA_1,cause=CAUSE_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1)":[
+        {
+            "template":"A principal causa foi CAUSE_1 , somando AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Com AREA_1 , a principal causa de devasta\u00e7\u00e3o foi CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"A principal causa de destrui\u00e7\u00e3o de a Amaz\u00f4nia em o m\u00eas ( AREA_1 ) , foi CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"A maior parte de a \u00e1rea ( AREA_1 ) foi destru\u00edda atrav\u00e9s de CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Com um total de AREA_1 , a principal causa de destrui\u00e7\u00e3o de a Amaz\u00f4nia Legal em o m\u00eas foi CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"O principal tipo foi CAUSE_1 , com AREA_1 de \u00e1rea desmatada .",
+            "frequency":3
+        },
+        {
+            "template":"O principal tipo foi CAUSE_1 , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"CAUSE_1 , com AREA_1 , foi o principal tipo de desmatamento em o per\u00edodo .",
+            "frequency":1
+        },
+        {
+            "template":"CAUSE_1 , foi o principal tipo , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"O principal tipo de desmatamento em o per\u00edodo foi CAUSE_1 , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Com um total de AREA_1 , CAUSE_1 , foi o principal tipo de desmatamento .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,UC=UC_1,year=YEAR_1)":[
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o que teve maior \u00e1rea devastada em o m\u00eas foi UC_1 / STATE_1 , com AREA_1 ADJ[number=AREA_1,gender=male] desmatado .",
+            "frequency":1
+        },
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o que foi mais devastada foi UC_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"UC_1 / STATE_1 foi a Unidade de Conserva\u00e7\u00e3o mais devastada em o m\u00eas de MONTH_1 , com um total de AREA_1 ADJ[number=AREA_1,gender=male] desmatado .",
+            "frequency":1
+        },
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o com maior \u00e1rea desmatada em o m\u00eas foi UC_1 / STATE_1 , com AREA_1 de floresta ADJ[number=AREA_1,gender=male] perdido .",
+            "frequency":1
+        },
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o com maior \u00e1rea perdida por desmatamento em o m\u00eas de MONTH_1 foi UC_1 / STATE_1 com AREA_1 de floresta ADJ[number=AREA_1,gender=male] destru\u00eddo .",
+            "frequency":1
+        },
+        {
+            "template":"Com AREA_1 , UC_1 / STATE_1 foi a Unidade de Conserva\u00e7\u00e3o mais devastada em o m\u00eas .",
+            "frequency":1
+        },
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o onde teve mais desmatamento foi UC_1 / STATE_1 , com AREA_1 de \u00e1rea desmatada .",
+            "frequency":3
+        },
+        {
+            "template":"A Unidade de Conserva\u00e7\u00e3o onde teve mais desmatamento foi UC_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":2
+        },
+        {
+            "template":"Em o m\u00eas de MONTH_1 , a Unidade de Conserva\u00e7\u00e3o mais afetada foi UC_1 / STATE_1 , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"A \u00c1rea Protegida onde mais aconteceu desmatamento foi UC_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_2,city=CITY_1,location=LOCATION_2,month=MONTH_2,state=STATE_2,year=YEAR_2)":[
+        {
+            "template":"O estado com mais desmatamento em o m\u00eas foi STATE_1 ( AREA_1 ) , enquanto o munic\u00edpio mais devastado foi CITY_1 / STATE_2 , com AREA_2 de \u00e1rea desmatada .",
+            "frequency":2
+        },
+        {
+            "template":"O estado de STATE_1 foi o mais desmatado em o m\u00eas de MONTH_1 , com AREA_1 de floresta ADJ[number=AREA_1,gender=male] destru\u00eddo , enquanto CITY_1 / STATE_2 foi o munic\u00edpio com maior desmatamento ( AREA_2 ) em o mesmo per\u00edodo .",
+            "frequency":2
+        },
+        {
+            "template":"O estado mais atingido foi STATE_1 ( AREA_1 ) e o munic\u00edpio com mais desmatamento em o m\u00eas foi CITY_1 / STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1)":[
+        {
+            "template":"Em o m\u00eas de MONTH_1 de YEAR_1 , VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 , de acordo com o monitoramento de INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 em o m\u00eas de MONTH_1 de YEAR_1 , segundo dados de INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"De acordo com os dados de monitoramento de INSTITUTE_1 , VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 em o m\u00eas de MONTH_1 de YEAR_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Um total de AREA_1 de desmatamento em LOCATION_1 foi detectado em o m\u00eas de MONTH_1 de YEAR_1 por INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Segundo INSTITUTE_1 , VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 , em MONTH_1 de YEAR_1 .",
+            "frequency":3
+        },
+        {
+            "template":"Uma \u00e1rea de AREA_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=female] desmatar em LOCATION_1 , em MONTH_1 de YEAR_1 , registrou INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 informou que VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 , em LOCATION_1 , em MONTH_1 de YEAR_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Segundo INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar em LOCATION_1 , em MONTH_1 de YEAR_1 .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1);LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_2,month=MONTH_2,variation=VARIATION_1,year=YEAR_2)":[
+        {
+            "template":"O monitoramento de INSTITUTE_1 mostrou que AREA_1 de LOCATION_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar em MONTH_1 de YEAR_1 , um crescimento de VARIATION_1 com rela\u00e7\u00e3o a o m\u00eas anterior .",
+            "frequency":2
+        },
+        {
+            "template":"Segundo INSTITUTE_1 , em MONTH_1 de YEAR_1 , VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 , um aumento de VARIATION_1 comparado a o m\u00eas anterior .",
+            "frequency":2
+        },
+        {
+            "template":"INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] registrar que VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1,gender=male] desmatar AREA_1 de LOCATION_1 , em MONTH_1 de YEAR_1 , aumentando a \u00e1rea de terra desmatada em VARIATION_1 comparado com o m\u00eas anterior .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_2,location=LOCATION_2,month=MONTH_2,state=STATE_2,year=YEAR_2)":[
+        {
+            "template":"O munic\u00edpio com mais desmatamento em o m\u00eas foi CITY_1 / STATE_1 ( AREA_1 ) e o estado mais atingido em o geral foi DT[number=singular,gender=STATE_2] o STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        },
+        {
+            "template":"O munic\u00edpio mais desmatado foi CITY_1 / STATE_1 ( AREA_1 ), enquanto o estado mais afetado em o geral foi DT[number=singular,gender=STATE_2] o STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
+        {
+            "template":"O munic\u00edpio de CITY_1 / STATE_1 foi o mais afetado , com AREA_1 desmatados .",
+            "frequency":1
+        },
+        {
+            "template":"O munic\u00edpio que teve mais desmatamento em o m\u00eas foi CITY_1 ( STATE_1 ) , com AREA_1 de \u00e1rea desmatada .",
+            "frequency":3
+        },
+        {
+            "template":"A cidade que mais sofreu desmatamento foi CITY_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"Destacou-se CITY_1 ( STATE_1 ) , que teve AREA_1 de \u00e1rea desmatada .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=CITY_1] ser o munic\u00edpio mais afetado ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"O munic\u00edpio que mais sofreu desmatamento foi CITY_1 , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"O munic\u00edpio mais atingido foi CITY_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
+        {
+            "template":"O estado que teve mais desmatamento em o m\u00eas foi STATE_1 , com um total de AREA_1 de floresta destru\u00edda .",
+            "frequency":1
+        },
+        {
+            "template":"O STATE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=STATE_1] ser o estado que mais teve desmatamento ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"O STATE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser o estado que mais teve desmatamento ( AREA_1 ) .",
+            "frequency":2
+        },
+        {
+            "template":"O estado que mais teve desmatamento foi STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"STATE_1 foi o estado mais atingido por o desmatamento , com AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"STATE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=STATE_1] ser o estado que mais VP[aspect=simple,tense=past,voice=active,person=3rd,number=STATE_1] sofrer desmatamento ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"O estado que teve mais \u00e1rea desmatada foi STATE_1 , com AREA_1 de \u00e1rea atingida .",
+            "frequency":1
+        },
+        {
+            "template":"Em o m\u00eas , STATE_1 foi o estado que mais teve desmatamento ( AREA_1 ) .",
+            "frequency":1
+        }
+    ],
+    "LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_2,month=MONTH_2,year=YEAR_2)":[
+        {
+            "template":"INSTITUTE_1 identificou um aumento de VARIATION_1 de \u00e1rea desmatada de LOCATION_1 em o \u00faltimo m\u00eas , totalizando AREA_1 ADJ[number=AREA_1,gender=male] devastado em MONTH_1 de YEAR_1 .",
+            "frequency":2
+        }
+    ],
+    "LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1)":[
+        {
+            "template":"Comparado a o m\u00eas anterior, o desmatamento teve aumento de VARIATION_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Comparado com o m\u00eas anterior , o desmatamento aumentou VARIATION_1 .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=MONTH_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,UC=UC_1,year=YEAR_1)":[
+        {
+            "template":"Em este m\u00eas de MONTH_1 , a Unidade de Conserva\u00e7\u00e3o que VP[aspect=simple,tense=past,voice=active,person=3rd,number=UC_1] sofrer desmatamento recorde VP[aspect=simple,tense=past,voice=active,person=3rd,number=UC_1] ser a UC_1 / STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        }
+    ],
+    "12_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1)":[
+        {
+            "template":"Estes n\u00fameros mostram que teve aumento de VARIATION_1 em o m\u00eas de MONTH_1 de este ano comparado a MONTH_1 de o ano anterior .",
+            "frequency":1
+        }
+    ]
+}

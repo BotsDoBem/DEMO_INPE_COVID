@@ -1,0 +1,26 @@
+{
+  "DT[number=singular,gender=male] um":[
+    "um"
+  ],
+  "DT[number=plural,gender=male] um":[
+    "uns"
+  ],
+  "DT[number=singular,gender=female] um":[
+    "uma"
+  ],
+  "DT[number=plural,gender=female] um":[
+    "umas"
+  ],
+  "DT[number=singular,gender=male] o":[
+    "o"
+  ],
+  "DT[number=plural,gender=male] o":[
+    "os"
+  ],
+  "DT[number=singular,gender=female] o":[
+    "a"
+  ],
+  "DT[number=plural,gender=female] o":[
+    "as"
+  ]
+}

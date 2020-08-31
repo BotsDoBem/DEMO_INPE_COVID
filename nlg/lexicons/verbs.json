@@ -1,0 +1,215 @@
+{
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] registrar":[
+    "registra"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] registrar":[
+    "registrou"
+  ],
+  "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular,gender=male] registrar":[
+    "é registrado"
+  ],
+  "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=plural,gender=male] registrar":[
+    "são registrados"
+  ],
+  "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular,gender=female] registrar":[
+    "é registrada"
+  ],
+  "VP[aspect=simple,tense=present,voice=passive,person=3rd,number=plural,gender=female] registrar":[
+    "são registradas"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=male] registrar":[
+    "foi registrado"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=male] registrar":[
+    "foram registrados"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=female] registrar":[
+    "foi registrada"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=female] registrar":[
+    "foram registradas"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] registrar":[
+    "registrando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] contabilizar":[
+    "contabiliza"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] contabilizar":[
+    "contabilizam"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] contabilizar":[
+    "contabilizou"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=male] contabilizar":[
+    "foi contabilizado"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=male] contabilizar":[
+    "foram contabilizados"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=female] contabilizar":[
+    "foi contabilizada"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=female] contabilizar":[
+    "foram contabilizadas"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] contabilizar":[
+    "contabilizando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] somar":[
+    "soma"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] somar":[
+    "somam"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] somar":[
+    "somou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar":[
+    "somando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] totalizar":[
+    "totaliza"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] totalizar":[
+    "totalizam"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] totalizar":[
+    "totalizou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] totalizar":[
+    "totalizando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] alcançar":[
+    "alcança"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] alcançar":[
+    "alcançam"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] alcançar":[
+    "alcançou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] alcançar":[
+    "alcançando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] chegar":[
+    "chega"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] chegar":[
+    "chegam"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] chegar":[
+    "chegou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] chegar":[
+    "chegando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] reportar":[
+    "reporta"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] reportar":[
+    "reportou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] reportar":[
+    "reportando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] observar":[
+    "observa"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] observar":[
+    "observou"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] observar":[
+    "observando"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] ser":[
+    "é"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] ser":[
+    "são"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] representar":[
+    "representando"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser":[
+    "foi"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser":[
+    "foram"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] acontecer":[
+    "aconteceu"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=male] desmatar":[
+    "foram desmatados"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=female] desmatar":[
+    "foram desmatadas"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=male] desmatar":[
+    "foi desmatado"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=female] desmatar":[
+    "foi desmatada"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ocorrer":[
+    "ocorreu"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] existir":[
+    "existe"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] existir":[
+    "existem"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ter": [
+    "teve"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ter": [
+    "tiveram"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] apresentar": [
+    "apresenta"
+  ],
+   "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] apresentar": [
+    "apresentam"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=male] observar":[
+    "foi observado"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=male] observar":[
+    "foram observados"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=singular,gender=female] observar":[
+    "foi observada"
+  ],
+  "VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=female] observar":[
+    "foram observadas"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] possuir":[
+    "possui"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] possuir":[
+    "possuem"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] estar":[
+    "está"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] estar":[
+    "estão"
+  ],
+  "VP[aspect=progressive,tense=present,voice=active,person=null,number=null] acumular": [
+    "acumulando"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] relatar": [
+    "relatou"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] sofrer": [
+    "sofreu"
+  ],
+  "VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] sofrer": [
+    "sofreram"
+  ],
+  "VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] acumular": [
+    "acumula"
+  ]
+}

@@ -1,0 +1,1559 @@
+<?xml version="1.0" ?>
+<entries>
+    <entry date="2019-06-18 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 divulgou alertas de desmatamento que
+                    VP[aspect=simple,tense=present,voice=active,person=3rd,number=plural] somar AREA_1 em
+                    UC_1 / STATE_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] acumular
+                    DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com NN[gender=female,number=DAILY_ACCUMULATION_1] alerta
+                    no mês .
+                </sentence>
+                <sentence>
+                    UC_1 soma AREA_1 de desmatamento no mês analisado .
+                </sentence>s
+                <sentence>
+                    O desmatamento tem como principal causa CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="18" gender="male" number="singular">18</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">junho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="3.472148256306645" gender="male" number="plural" >3.472148256306645km²</reference>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular" >a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="8" gender="male" number="plural">8</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular" >a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS</reference>
+                    <reference tag="AREA_1" entity="8.334555363319664" gender="male" number="plural">8.334555363319664km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">a mineração</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 18 de junho de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) divulgou alertas de desmatamento que somam 3.472148256306645 km² na
+                    ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS/RO, acumulando 8 dias com alertas no mês.
+                </sentence>
+                <sentence>
+                    A ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS soma 8.334555363319664 km² de desmatamento no mês analisado.
+                </sentence>
+                <sentence>
+                    O desmatamento tem como principal causa a mineração.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-08 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 reportou avisos de desmatamento VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar
+                    AREA_1 em CITY_1 / STATE_1 , que acumulou DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia
+                    de NN[gender=female,number=DAILY_ACCUMULATION_1] alerta .
+                </sentence>
+                <sentence>
+                    CITY_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] somar
+                    AREA_1 de área desmatada em MONTH_1 .
+                </sentence>
+                <sentence>
+                    A principal causa de desmatamento foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="11" gender="male" number="plural">11</reference>
+                    <reference tag="AREA_1" entity="12.007300834420757" gender="male" number="plural">12.007300834420757 km²</reference>
+                    <reference tag="DAY_1" entity="8" gender="male" number="singular">8</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">AM</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Apui" gender="male" number="singular">a cidade de Apuí</reference>
+                    <reference tag="AREA_1" entity="75.16054508934322" gender="male" number="plural">75.16054508934322 km²</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, deixando a terra sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Em 8 de julho de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) reportou avisos de desmatamento somando 12.007300834420757 km²
+                    na cidade de Apuí/AM, que acumulou 11 dias com alertas.
+                </sentence>
+                <sentence>
+                    Apuí soma 75.16054508934322 km² de área desmatada no mês de julho.
+                </sentence>
+                <sentence>
+                    A principal causa de desmatamento foi o desmatamento com solo exposto, deixando a terra sem vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-31 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 informou que houve alertas de
+                    desmatamento que somam AREA_1 em  CITY_1 / STATE_1 , acumulando
+                    DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas no mês na região.
+                </sentence>
+                <sentence>
+                   CITY_1 acumula AREA_1 de desmatamento em MONTH_1 .
+                </sentence>
+                <sentence>
+                    A principal causa dos alertas de desmatamento foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="31" gender="male" number="singular">31</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="12.007300834420757" gender="male" number="plural">12.007300834420757 km²</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta D'oeste" gender="male" number="singular">o município de Alta Floresta D'oeste</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Alta Floresta D'oeste" gender="male" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="AREA_1" entity="12.685352175179451" gender="male" number="plural">12.685352175179451 km²</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, deixando a terra sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 31 de julho de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) informou que houve alertas de
+                    desmatamento que somam 1.315173359776571 km² no município de Alta Floresta D'oeste/RO, acumulando
+                    7 dias com alertas no mês na região.
+                </sentence>
+                <sentence>
+                    Alta Floresta D'oeste acumula 12.685352175179451 km² de desmatamento em julho.
+                </sentence>
+                <sentence>
+                    A principal causa dos alertas de desmatamento foi o desmatamento com solo exposto, deixando a terra sem vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-15 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] relatar
+                    NN[gender=male,number=plural] alerta de desmatamento em CITY_1 / STATE_1 , no dia DAY_1 de MONTH_1 de YEAR_1 ,
+                    VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar AREA_1 , e a região acumulou DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas no mês .
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi CAUSE_1 .
+                </sentence>
+                <sentence>
+                    No mês de MONTH_1 , CITY_1 acumula AREA_1 de área desmatada .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta" gender="female" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="DAY_1" entity="15" gender="male" number="singular">15</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="AREA_1" entity="1.315173359776571" gender="male" number="plural">1.315173359776571 km²</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que deixa a terra sem vegetação</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">julho</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta" gender="male" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="AREA_1" entity="12.685352175179451" gender="male" number="plural">12.685352175179451 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais (INPE) relatou alertas de área desmatada em Alta Floresta D'oeste/RO,
+                    no dia 15 de julho de 2019, somando 1.315173359776571 km², e a região acumulou 7 dias com alertas no mês.
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi o desmatamento com solo exposto, que deixa a terra sem vegetação.
+                </sentence>
+                <sentence>
+                    No mês de julho, Alta Floresta D'oeste acumula 12.685352175179451 km² de área desmatada.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-08-16 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo INSTITUTE_1 , CITY_1 / STATE_1 teve alertas de desmatamento no dia DAY_1 de MONTH_1 de YEAR_1 que somaram AREA_1 .
+                </sentence>
+                <sentence>
+                    CITY_1 acumula AREA_1 em MONTH_1 .
+                </sentence>
+                <sentence>
+                    A principal causa para o desmatamento em DT[number=singular,gender=female] o
+                    NN[gender=female,number=singular] região foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="CITY_1" entity="Santa Maria das Barreiras" gender="male" number="singular">o município de Santa Maria das Barreiras</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">PA</reference>
+                    <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">agosto</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="AREA_1" entity="2.381176608019067" gender="male" number="plural">2.381176608019067 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="9.562673442768272" gender="male" number="plural">9.562673442768272 km²</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">agosto</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, deixando a terra sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo o Instituto Nacional de Pesquisas Espaciais (INPE), o município de Santa Maria das Barreiras/PA teve
+                    alertas de desmatamento no dia 16 de agosto de 2018 que somaram 2.381176608019067 km².
+                </sentence>
+                <sentence>
+                    Santa Maria das Barreiras acumula 9.562673442768272 km² em agosto.
+                </sentence>
+                <sentence>
+                    A principal causa para o desmatamento na região foi o desmatamento com o solo exposto, deixando a terra sem vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-09-10 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] registrar NN[gender=female,number=plural] alerta de desmatamento em  UC_1 / STATE_1 que somaram AREA_1 ,
+                    acumulando DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas no mês .
+                </sentence>
+                <sentence>
+                    Em MONTH_1 , UC_1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] acumular
+                    AREA_1 de área desmatada .
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="10" gender="male" number="singular">10</reference>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">setembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.1339092004039526" gender="male" number="plural">1.1339092004039526 km²</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ITAITUBA II" gender="female" number="singular">a Unidade de Conservação</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">AM</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="6" gender="male" number="plural">6</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">setembro</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ITAITUBA II" gender="female" number="singular">a Unidade de Conservação</reference>
+                    <reference tag="AREA_1" entity="3.6678642045861496" gender="male" number="plural">3.6678642045861496 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, deixando a terra sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 10 de setembro de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou alertas de
+                    desmatamento na FLORESTA NACIONAL DE ITAITUBA II/AM que somaram 1.1339092004039526 km², acumulando 6 dias com alertas no mês.
+                </sentence>
+                <sentence>
+                    Em setembro, a Unidade de Conservação acumula 3.6678642045861496 km² de área desmatada.
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi o desmatamento com solo exposto, deixando a terra sem vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-10-25 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 rastreou alertas de desmatamento em CITY_1 / STATE_1, VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar
+                    AREA_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    CAUSE_1 , foi a principal causa de desmatamento .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="25" gender="male" number="singular">o dia 25</reference>
+                    <reference tag="MONTH_1" entity="10" gender="male" number="singular">outubro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="CITY_1" entity="Feijo" gender="male" number="singular">Feijó</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                    <reference tag="AREA_1" entity="1.100682967815203" gender="male" number="plural">1.100682967815203 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">O desmatamento com solo exposto, que deixa a terra sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 25 de outubro de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) rastreou alertas de desmatamento em Feijó/AC, somando 1.100682967815203 km².
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O desmatamento com solo exposto, que deixa a terra sem vegetação, foi a principal causa de desmatamento.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-09 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em CITY_1 / STATE_1 ,
+                    que acumula DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas no mês .
+                </sentence>
+                <sentence>
+                    No total, AREA_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural,gender=male] desmatar em CITY_1 no mês de MONTH_1 .
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="9" gender="male" number="singular">9</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.114346200086877" gender="male" number="plural" >2.114346200086877 km²</reference>
+                    <reference tag="CITY_1" entity="Humaita" gender="male" number="singular">Humaitá</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">AM</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="3" gender="male" number="plural">3</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="3.025832946917279" gender="male" number="plural" >3.025832946917279 km²</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="CITY_1" entity="Humaita" gender="male" number="singular">Humaitá</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="female" number="singular">o desmatamento com solo exposto, que deixa o solo sem vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 9 de novembro de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou alertas de desmatamento somando 1.1339092004039526 km² em Humaitá/AM, que acumula 3 dias com alertas no mês.
+                </sentence>
+                <sentence>
+                    No total, 3.025832946917279 km² foram desmatados em Humaitá no mês de novembro.
+                </sentence>
+                <sentence>
+                    O principal tipo de desmatamento foi o desmatamento com solo exposto, que deixa o solo sem vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-08-15 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+         </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em UC_1 / STATE_1 .
+                </sentence>
+                <sentence>
+                    O principal tipo foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="15" gender="male" number="singular">15</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">agosto</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.003911446362719" gender="male" number="plural" >1.003911446362719 km²</reference>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">o desmatamento com vegetação, que deixa o solo parcialmente desmatado</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 3 de março de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou alertas de
+                    desmatamento somando 1.003911446362719 km² na RESERVA EXTRATIVISTA CHICO MENDES/AC.
+                </sentence>
+                <sentence>
+                    O principal tipo foi o desmatamento com vegetação, que deixa o solo parcialmente desmatado.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-10 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    O monitoramento de INSTITUTE_1 alertou o desmatamento de AREA_1 no município de CITY_1 / STATE_1 no dia DAY_1 de MONTH_1 de YEAR_1 - CITY_1 já teve alertas de desmatamento em DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia desse mês , totalizando AREA_2 ADJ[number=AREA_2,gender=male] desmatado .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa do alerta diário gerado por INSTITUTE_1 para CITY_1 é CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="1.1843662732562241" gender="male" number="plural">1,18 km²</reference>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">São Félix do Xingu</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">PA</reference>
+                    <reference tag="DAY_1" entity="10" gender="male" number="singular">10</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">a cidade</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                    <reference tag="AREA_2" entity="31.014961152007995" gender="male" number="plural">31 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">a cidade</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento de solo exposto, que deixa a floresta sem nenhuma vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O monitoramento do INPE alertou o desmatamento de 1,18 km² no município de São Félix do Xingu/PA no dia 10 de novembro de 2019 - a cidade já teve alertas de desmatamento em 7 dias desse mês, totalizando 31 km² desmatados.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa do alerta diário gerado pelo INPE para a cidade é o desmatamento de solo exposto, que deixa a floresta sem nenhuma vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-16 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , foi gerado por INSTITUTE_1 alerta de desmatamento de AREA_1 para a cidade de CITY_1 / STATE_1 .
+                </sentence>
+                <sentence>
+                    CITY_1 acumula AREA_1 de área desmatada no mês de MONTH_1 de YEAR_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O principal tipo de degradação que gerou o alerta para CITY_1 / STATE_1 foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 km²</reference>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">a cidade</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 km²</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que remove totalmente a vegetação da floresta</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 16 de novembro de 2019, foi gerado pelo INPE alerta de desmatamento de 1,32 km² para a cidade de Colíder/MT.
+                </sentence>
+                <sentence>
+                    A cidade acumula 1,32 km² de área desmatada no mês de novembro de 2019.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O principal tipo de degradação que gerou o alerta para Colíder/MT foi o desmatamento com solo exposto, que remove totalmente a vegetação da floresta.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-16 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , foi gerado por INSTITUTE_1 alerta de desmatamento de AREA_1 para a cidade de CITY_1 / STATE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O principal tipo de degradação que gerou o alerta para CITY_1 / STATE_1 foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">novembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 km²</reference>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que remove totalmente a vegetação da floresta</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 16 de novembro de 2019, foi gerado pelo INPE alerta de desmatamento de 1,32 km² para a cidade de Colíder/MT.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O principal tipo de degradação que gerou o alerta para Colíder/MT foi o desmatamento com solo exposto, que remove totalmente a vegetação da floresta.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-03 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 registrou alerta de desmatamento de AREA_1 em UC_1 / STATE_1 em DAY_1 de MONTH_1 de YEAR_1 - UC_1 já teve DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas nesse mês .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa para o alerta diário gerado para UC_1 foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    UC_1 / STATE_1 já acumula AREA_1 ADJ[number=AREA_1,gender=male] desmatado no mês de MONTH_1 de YEAR_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.8284082682298486" gender="male" number="plural">2,83 km²</reference>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                    <reference tag="DAY_1" entity="3" gender="male" number="singular">3</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">março</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="UC_1" entity="" gender="female" number="singular">a região</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="2" gender="male" number="plural">2</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a região</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">o desmatamento com vegetação, em que a vegetação não é toda derrubada</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                    <reference tag="AREA_1" entity="2.916004531580576" gender="male" number="plural">2,92 km²</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">março</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais (INPE) registrou alerta de desmatamento de 2,83 km² na RESERVA EXTRATIVISTA CHICO MENDES/AC em 3 de março de 2020 - a região já teve 2 dias com alertas nesse mês.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa para o alerta diário gerado para a região foi o desmatamento com vegetação, em que a vegetação não é toda derrubada.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A RESERVA EXTRATIVISTA CHICO MENDES/AC já acumula 2,92 km² desmatados no mês de março de 2020.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-05 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 identificou no dia DAY_1 de MONTH_1 de YEAR_1 o desmatamento de AREA_1 em UC_1 / STATE_1 - já foram gerados alertas em DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia , somando AREA_2 ADJ[number=AREA_2,gender=male] desmatado nesse mês .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta gerado indica degradação por causa de CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="DAY_1" entity="5" gender="male" number="singular">5</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">abril</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="AREA_1" entity="3.657273194728159" gender="male" number="plural">3,66 km²</reference>
+                    <reference tag="UC_1" entity="PARQUE NACIONAL DO JAMANXIM" gender="male" number="singular">o PARQUE NACIONAL DO JAMANXIM</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">AM</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="2" gender="male" number="plural">2</reference>
+                    <reference tag="AREA_2" entity="3.728677725954658" gender="male" number="plural">3,72 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, associada à atividade de garimpo</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais (INPE) identificou no dia 5 de abril de 2020 o desmatamento de 3,66 km² no PARQUE NACIONAL DO JAMANXIM/AM - já foram gerados alertas em 2 dias, somando 3,72 km² desmatados nesse mês.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta gerado indica degradação por causa da mineração, associada à atividade de garimpo.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-19 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 detectou desmatamento de AREA_1 em CITY_1 / STATE_1 , devido principalmente a CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O município de CITY_1 / STATE_1 soma AREA_1 ADJ[number=AREA_1,gender=male] desmatado no mês de MONTH_1 de YEAR_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="19" gender="male" number="singular">19</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">abril</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1,73 km²</reference>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento de corte raso, que deixa o solo sem nenhuma cobertura vegetal</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1,73 km²</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">abril</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 19 de abril de 2020, o INPE detectou desmatamento de 1,73 km² em Guajará-Mirim/RO, devido principalmente ao desmatamento de corte raso, que deixa o solo sem nenhuma cobertura vegetal.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O município de Guajará-Mirim/RO soma 1,73 km² desmatados no mês de abril de 2020.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-19 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 detectou desmatamento de AREA_1 em CITY_1 / STATE_1 , devido principalmente a CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="19" gender="male" number="singular">19</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">abril</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1,73 km²</reference>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento de corte raso, que deixa o solo sem nenhuma cobertura vegetal</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 19 de abril de 2020, o INPE detectou desmatamento de 1,73 km² em Guajará-Mirim/RO, devido principalmente ao desmatamento de corte raso, que deixa o solo sem nenhuma cobertura vegetal.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , o sistema de monitoramento de INSTITUTE_1 alertou o desmatamento de AREA_1 na cidade de CITY_1 / STATE_1 .
+                </sentence>
+                <sentence>
+                    No mês de MONTH_1 já foram ADJ[number=AREA_1,gender=male] desmatado AREA_1 de floresta em CITY_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta diário de desmatamento gerado por INSTITUTE_1 tem como principal motivo CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.1834475753649714" gender="male" number="plural">2,18 km²</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">Paranaita</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="AREA_1" entity="" gender="male" number="plural">2,18 km²</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">a cidade</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, devido à ação de garimpos na floresta</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Em 1º de maio de 2020, o sistema de monitoramento do Instituto Nacional de Pesquisas Espaciais (INPE) alertou o desmatamento de 2,18 km² na cidade de Paranaita/MT.
+                </sentence>
+                <sentence>
+                    No mês de maio já foram desmatados 2,18 km² de floresta na cidade.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta diário de desmatamento gerado pelo Instituto tem como principal motivo a mineração, devido à ação de garimpos na floresta.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , o sistema de monitoramento de INSTITUTE_1 alertou o desmatamento de AREA_1 na cidade de CITY_1 / STATE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta diário de desmatamento gerado por INSTITUTE_1 tem como principal motivo CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.1834475753649714" gender="male" number="plural">2,18 km²</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">Paranaita</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, devido à ação de garimpos na floresta</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Em 1º de maio de 2020, o sistema de monitoramento do Instituto Nacional de Pesquisas Espaciais (INPE) alertou o desmatamento de 2,18 km² na cidade de Paranaita/MT.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O alerta diário de desmatamento gerado pelo Instituto tem como principal motivo a mineração, devido à ação de garimpos na floresta.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-04 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 gerou alerta para devastação ( AREA_1 ) causada por CAUSE_1 , no dia DAY_1 de MONTH_1 de YEAR_1 em UC_1 / STATE_1 - no mês já são DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas e AREA_2 ADJ[number=AREA_2,gender=male] desmatado .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.172942498413374" gender="male" number="plural">1,17 km²</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, devido à ação de garimpos</reference>
+                    <reference tag="DAY_1" entity="4" gender="male" number="singular">4</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">a FLORESTA NACIONAL DO JAMANXIM</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="4" gender="male" number="plural">4</reference>
+                    <reference tag="AREA_2" entity="8.592691383933117" gender="male" number="plural">8,59 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais (INPE) gerou alerta para devastação (1,17 km²) causada por mineração, devido à ação de garimpos, no dia 4 de maio de 2020 na FLORESTA NACIONAL DO JAMANXIM/MT - no mês já são 4 dias com alertas e 8,59 km² desmatados.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-27 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 identificou o desmatamento de AREA_1 em UC_1 / STATE_1 .
+                </sentence>
+                <sentence>
+                    A principal causa para o alerta de degradação foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="27" gender="male" number="singular">27</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais</reference>
+                    <reference tag="AREA_1" entity="0.0754636401539456" gender="male" number="plural">0,07 km²</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO TRAIRÃO" gender="female" number="singular">a FLORESTA NACIONAL DO TRAIRÃO</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">PA</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que deixa a floresta sem nenhuma vegetação</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    No dia 27 de maio de 2020, o Instituto Nacional de Pesquisas Espaciais identificou o desmatamento de 0,07 km² na FLORESTA NACIONAL DO TRAIRÃO/PA.
+                </sentence>
+                <sentence>
+                    A principal causa para o alerta de degradação foi o desmatamento com solo exposto, que deixa a floresta sem nenhuma vegetação.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-29 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Em DAY_1 de MONTH_1 de YEAR_1 , o monitoramento de INSTITUTE_1 detectou desmatamento ( AREA_1 ) em UC_1 / STATE_1 - a principal causa do alerta foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="29" gender="male" number="singular">29</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="AREA_1" entity="0.7044784478611199" gender="male" number="plural">0,70 km²</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO BOM FUTURO" gender="female" number="singular">a FLORESTA NACIONAL DO BOM FUTURO</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que retira toda a vegetação da floresta</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Em 29 de maio de 2020, o monitoramento do INPE detectou desmatamento (0,70 km²) na FLORESTA NACIONAL DO BOM FUTURO/RO - a principal causa do alerta foi o desmatamento com solo exposto, que retira toda a vegetação da floresta.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 alertou , no dia DAY_1 de MONTH_1 de YEAR_1 , o desmatamento de AREA_1 em UC_1 / STATE_1 .
+                </sentence>
+                <sentence>
+                    O principal motivo do alerta diário gerado por INSTITUTE_1 para UC_1 foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais</reference>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">junho</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="AREA_1" entity="0.0770138642201099" gender="male" number="plural">0,08 km²</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO ARIPUANÃ" gender="female" number="singular">a FLORESTA NACIONAL DO ARIPUANÃ</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">AM</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o INPE</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO ARIPUANÃ" gender="female" number="singular">a FLORESTA NACIONAL DO ARIPUANÃ</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento de corte raso, que retira toda cobertura florestal</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais alertou, no dia 1º de junho de 2020, o desmatamento de 0,08 km² na FLORESTA NACIONAL DO ARIPUANÃ/AM.
+                </sentence>
+                <sentence>
+                    O principal motivo do alerta diário gerado pelo INPE para a FLORESTA NACIONAL DO ARIPUANÃ foi o desmatamento de corte raso, que retira toda cobertura florestal.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 identificou desmatamento de AREA_1 em UC_1 / STATE_1 no dia DAY_1 de MONTH_1 de YEAR_1 - a principal causa do alerta foi CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais</reference>
+                    <reference tag="AREA_1" entity="0.00121863040201726" gender="male" number="plural">0,01 km²</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE JACUNDÁ" gender="female" number="singular">a FLORESTA NACIONAL DE JACUNDÁ</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">junho</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o desmatamento com solo exposto, que acaba com toda vegetação do local</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O Instituto Nacional de Pesquisas Espaciais identificou desmatamento de 0,01 km² na FLORESTA NACIONAL DE JACUNDÁ/RO no dia 1º de junho de 2020 - a principal causa do alerta foi o desmatamento com solo exposto, que acaba com toda vegetação do local.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+</entries>

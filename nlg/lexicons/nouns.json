@@ -1,0 +1,107 @@
+{
+  "NN[number=singular,gender=male] caso":[
+    "caso"
+  ],
+  "NN[number=plural,gender=male] caso":[
+    "casos"
+  ],
+  "NN[number=singular,gender=female] infecção":[
+    "infecção"
+  ],
+  "NN[number=plural,gender=female] infecção":[
+    "infecções"
+  ],
+  "NN[number=singular,gender=female] morte":[
+    "morte"
+  ],
+  "NN[number=plural,gender=female] morte":[
+    "mortes"
+  ],
+  "NN[number=singular,gender=male] óbito":[
+    "óbito"
+  ],
+  "NN[number=plural,gender=male] óbito":[
+    "óbitos"
+  ],
+  "NN[number=singular,gender=male] falecimento":[
+    "falecimento"
+  ],
+  "NN[number=plural,gender=male] falecimento":[
+    "falecimentos"
+  ],
+  "NN[number=singular,gender=male] infectado":[
+    "infectado"
+  ],
+  "NN[number=plural,gender=male] infectado":[
+    "infectados"
+  ],
+  "NN[number=singular,gender=female] infectado":[
+    "infectada"
+  ],
+  "NN[number=plural,gender=female] infectado":[
+    "infectadas"
+  ],
+  "NN[number=singular,gender=male] morto":[
+    "morto"
+  ],
+  "NN[number=plural,gender=male] morto":[
+    "mortos"
+  ],
+  "NN[number=singular,gender=female] morto":[
+    "morta"
+  ],
+  "NN[number=plural,gender=female] morto":[
+    "mortas"
+  ],
+  "NN[number=singular,gender=male] número":[
+    "número"
+  ],
+  "NN[number=singular,gender=male] total":[
+    "total"
+  ],
+  "NN[number=singular gender=male] município":[
+    "município"
+  ],
+  "NN[number=plural gender=male] município":[
+    "municípios"
+  ],
+  "NN[number=singular,gender=male] registro":[
+    "registro"
+  ],
+  "NN[number=plural,gender=male] registro":[
+    "registros"
+  ],
+  "NN[number=singular,gender=male] dia": [
+    "dia"
+  ],
+  "NN[number=plural,gender=male] dia": [
+    "dias"
+  ],
+  "NN[number=singular,gender=male] paciente":[
+    "paciente"
+  ],
+  "NN[number=plural,gender=male] paciente":[
+    "pacientes"
+  ],
+  "NN[number=singular,gender=female] pessoa":[
+    "pessoa"
+  ],
+  "NN[number=plural,gender=female] pessoa":[
+    "pessoas"
+  ],
+  "NN[gender=female number=singular] dia": [
+    "dia"
+  ],
+  "NN[gender=female number=plural] dia": [
+    "dias"
+  ],
+  "NN[gender=female,number=singular] alerta": [
+    "alerta"
+  ],
+  "NN[gender=female,number=plural] alerta": [
+    "alertas"
+  ],
+  "NN[gender=female,number=singular] região": [
+    "região"
+  ]
+}

@@ -1,0 +1,1782 @@
+<?xml version="1.0" ?>
+<entries>
+    <entry date="2020-03-04 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=4)</unit>
+            <unit>NEW_CASES(cases=2,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=4)</unit>
+            <unit>NEW_CASES(cases=2,highest=True)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=4)</unit>
+                    <unit>NEW_CASES(cases=2,highest=True)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , CASES_2 NN[number=CASES_2,gender=male] caso a mais do que no dia anterior .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="4" gender="male" number="plural">4</reference>
+                    <reference tag="CASES_2" entity="2" gender="male" number="plural">2</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra 4 casos de #COVID19, 2 casos a mais do que no dia anterior.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-06 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=13)</unit>
+            <unit>NEW_CASES(cases=9,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=9,highest=True)</unit>
+            <unit>TOTAL_CASES(cases=13)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=9,highest=True)</unit>
+                    <unit>TOTAL_CASES(cases=13)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=female] novo NN[number=CASES_1,gender=female] infecção ADJ[number=CASES_1,gender=female] confirmado , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_2 NN[number=CASES_2,gender=male] caso de #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="9" gender="female" number="plural">9</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                    <reference tag="CASES_2" entity="13" gender="male" number="plural">13</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Com 9 novas infecções confirmadas, o Brasil contabiliza 13 casos de #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-08 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=20)</unit>
+            <unit>NEW_CASES(cases=7,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.54)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=7,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.54)</unit>
+            <unit>TOTAL_CASES(cases=20)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=7,highest=False)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.54)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=20)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , o que representa DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 .</sentence>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_1 NN[number=CASES_1,gender=male] caso da doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="7" gender="male" number="plural">7</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.54" gender="male" number="singular">54%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O país</reference>
+                    <reference tag="CASES_1" entity="20" gender="male" number="plural">20</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra 7 novos casos de #COVID19, o que representa um aumento diário de 54%.</sentence>
+                <sentence>O país totaliza 20 casos da doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-12 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=52)</unit>
+            <unit>NEW_CASES(cases=14,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=52)</unit>
+            <unit>NEW_CASES(cases=14,highest=True)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=52)</unit>
+                    <unit>NEW_CASES(cases=14,highest=True)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , CASES_2 NN[number=CASES_2,gender=male] caso a mais do que no dia anterior .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="52" gender="male" number="plural">52</reference>
+                    <reference tag="CASES_2" entity="14" gender="male" number="plural">14</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil totaliza 52 casos de #COVID19, 14 casos a mais do que no dia anterior.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-17 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=321)</unit>
+            <unit>TOTAL_DEATHS(deaths=1)</unit>
+            <unit>NEW_CASES(cases=121,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=121,highest=True)</unit>
+            <unit>TOTAL_CASES(cases=321)</unit>
+            <unit>TOTAL_DEATHS(deaths=1)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=121,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=321)</unit>
+                    <unit>TOTAL_DEATHS(deaths=1)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , o maior aumento diário registrado até o momento .</sentence>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a CASES_1 NN[number=CASES_1,gender=male] caso e VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar DEATHS_1 NN[number=DEATHS_1,gender=female] morte pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="121" gender="male" number="plural">121</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O país</reference>
+                    <reference tag="CASES_1" entity="321" gender="male" number="plural">321</reference>
+                    <reference tag="DEATHS_1" entity="1" gender="female" number="singular">1</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil reportou 121 novos casos de #COVID19, o maior aumento diário registrado até o momento.</sentence>
+                <sentence>O país chega a 321 casos e contabiliza 1 morte pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-18 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=372)</unit>
+            <unit>TOTAL_DEATHS(deaths=3)</unit>
+            <unit>NEW_DEATHS(deaths=2,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=372)</unit>
+            <unit>NEW_DEATHS(deaths=2,highest=True)</unit>
+            <unit>TOTAL_DEATHS(deaths=3)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=372)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=2,highest=True)</unit>
+                    <unit>TOTAL_DEATHS(deaths=3)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>DT[number=CASES_1,gender=male] o NN[number=CASES_1,gender=male] caso de #COVID19 VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] somar CASES_1 em COUNTRY_1 .</sentence>
+                <sentence>Com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar DT[number=singular,gender=male] um NN[number=singular,gender=male] total de DEATHS_2 NN[number=DEATHS_2,gender=male] óbito pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="372" gender="male" number="plural">372</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="2" gender="female" number="plural">2</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="DEATHS_2" entity="3" gender="male" number="plural">3</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Os casos de #COVID19 somam 372 no Brasil.</sentence>
+                <sentence>Com 2 novas mortes, o país registra um total de 3 óbitos pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-19 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=621)</unit>
+            <unit>TOTAL_DEATHS(deaths=6)</unit>
+            <unit>NEW_CASES(cases=249,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=3,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=249,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=3,highest=True)</unit>
+            <unit>TOTAL_CASES(cases=621)</unit>
+            <unit>TOTAL_DEATHS(deaths=6)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=249,highest=True)</unit>
+                    <unit>NEW_DEATHS(deaths=3,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=621)</unit>
+                    <unit>TOTAL_DEATHS(deaths=6)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Em 24 horas VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte por #COVID19 em COUNTRY_1 .</sentence>
+                <sentence>Ao todo , VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso e DEATHS_1 NN[number=DEATHS_1,gender=female] morte .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="249" gender="male" number="plural">249</reference>
+                    <reference tag="DEATHS_1" entity="3" gender="female" number="plural">3</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="621" gender="male" number="plural">621</reference>
+                    <reference tag="DEATHS_1" entity="6" gender="female" number="plural">6</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Em 24 horas foram registrados 249 novos casos e 3 novas mortes por #COVID19 no Brasil.</sentence>
+                <sentence>Ao todo, foram contabilizados 621 casos e 6 mortes.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-20 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=793)</unit>
+            <unit>TOTAL_DEATHS(deaths=11)</unit>
+            <unit>NEW_CASES(cases=172,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=5,highest=True)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.28)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=172,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.28)</unit>
+            <unit>TOTAL_CASES(cases=793)</unit>
+            <unit>TOTAL_DEATHS(deaths=11)</unit>
+            <unit>NEW_DEATHS(deaths=5,highest=True)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=172,highest=False)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.28)</unit>
+                    <unit>TOTAL_CASES(cases=793)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=11)</unit>
+                    <unit>NEW_DEATHS(deaths=5,highest=True)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e TREND_1 de VARIATION_1 em relação ao dia anterior , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] totalizar CASES_2 NN[number=CASES_2,gender=male] caso de #COVID19 .</sentence>
+                <sentence>O NN[number=singular,gender=male] número ADJ[number=singular,gender=male] total de NN[number=plural,gender=female] morte VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] chegar a DEATHS_1 , com DEATHS_2 ADJ[number=DEATHS_2,gender=male] novo NN[number=DEATHS_2,gender=male] óbito nas últimas 24 horas .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="172" gender="male" number="plural">172</reference>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.28" gender="male" number="singular">28%</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                    <reference tag="CASES_2" entity="793" gender="male" number="plural">793</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="11" gender="female" number="plural">11</reference>
+                    <reference tag="DEATHS_2" entity="5" gender="male" number="plural">5</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Com 172 novos casos e alta de 28% em relação ao dia anterior, o Brasil totaliza 793 casos de #COVID19.</sentence>
+                <sentence>O número total de mortes chega a 11, com 5 novos óbitos nas últimas 24 horas.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-21 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=1021)</unit>
+            <unit>TOTAL_DEATHS(deaths=15)</unit>
+            <unit>NEW_CASES(cases=228,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=4,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.29)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEATHS(deaths=15)</unit>
+            <unit>NEW_DEATHS(deaths=4,highest=False)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+            <unit>TOTAL_CASES(cases=1021)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.29)</unit>
+            <unit>NEW_CASES(cases=228,highest=False)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=15)</unit>
+                    <unit>NEW_DEATHS(deaths=4,highest=False)</unit>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=1021)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.29)</unit>
+                    <unit>NEW_CASES(cases=228,highest=False)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>DT[number=DEATHS_1,gender=female] o NN[number=DEATHS_1,gender=female] morte por #COVID19 em COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=DEATHS_1,number=DEATHS_1] chegar a DEATHS_1 , com DEATHS_2 ADJ[number=DEATHS_2,gender=male] novo NN[number=DEATHS_2,gender=male] óbito , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] representar DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 .</sentence>
+                <sentence>DT[number=CASES_1,gender=male] o NN[number=CASES_1,gender=male] caso de infecção pelo vírus VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] alcançar CASES_1 , DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 , ADJ[number=singular,gender=TREND_1] representado por CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="15" gender="male" number="plural">15</reference>
+                    <reference tag="DEATHS_2" entity="4" gender="male" number="plural">4</reference>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.36" gender="male" number="singular">36%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="1021" gender="male" number="plural">1021</reference>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.29" gender="male" number="singular">29%</reference>
+                    <reference tag="CASES_2" entity="228" gender="male" number="plural">228</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>As mortes por #COVID19 no Brasil chegam a 15, com 4 novos óbitos, representando uma alta diária de 36%.</sentence>
+                <sentence>Os casos de infecção pelo vírus alcançam 1021, uma alta diária de 29%, representada por 228 novos casos.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-22 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=1546)</unit>
+            <unit>TOTAL_DEATHS(deaths=25)</unit>
+            <unit>NEW_CASES(cases=525,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=10,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=10,highest=True)</unit>
+            <unit>TOTAL_DEATHS(deaths=25)</unit>
+            <unit>TOTAL_CASES(cases=1546)</unit>
+            <unit>NEW_CASES(cases=525,highest=True)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=10,highest=True)</unit>
+                    <unit>TOTAL_DEATHS(deaths=25)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=1546)</unit>
+                    <unit>NEW_CASES(cases=525,highest=True)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte por #COVID19 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar DEATHS_2 NN[number=DEATHS_2,gender=male] óbito .</sentence>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso , CASES_2 a mais do que no dia anterior .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="10" gender="female" number="plural">10</reference>
+                    <reference tag="DEATHS_2" entity="25" gender="male" number="plural">25</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O país</reference>
+                    <reference tag="CASES_1" entity="1546" gender="male" number="plural">1546</reference>
+                    <reference tag="CASES_2" entity="525" gender="male" number="plural">525</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil reporta 10 novas mortes por #COVID19, somando 25 óbitos.</sentence>
+                <sentence>O país registra 1546 casos, 525 a mais do que no dia anterior.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-23 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=1924)</unit>
+            <unit>TOTAL_DEATHS(deaths=34)</unit>
+            <unit>NEW_CASES(cases=378,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=9,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.24)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=378,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=1924)</unit>
+            <unit>NEW_DEATHS(deaths=9,highest=False)</unit>
+            <unit>TOTAL_DEATHS(deaths=34)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.24)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=378,highest=False)</unit>
+                    <unit>TOTAL_CASES(cases=1924)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=9,highest=False)</unit>
+                    <unit>TOTAL_DEATHS(deaths=34)</unit>
+                </sentence>
+                <sentence>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.24)</unit>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.36)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] Registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] totalizar CASES_2 NN[number=CASES_2,gender=male] caso ADJ[number=CASES_2,gender=male] confirmado .</sentence>
+                <sentence>Com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] somar DEATHS_2 NN[number=DEATHS_2,gender=male] óbito pelo vírus .</sentence>
+                <sentence>Nas últimas 24 horas , DT[number=singular,gender=male] o NN[number=singular,gender=male] número de NN[number=plural,gender=female] infecção ADJ[number=plural,gender=female] confirmado teve TREND_1 de VARIATION_1 e DT[number=singular,gender=male] o NN[number=singular,gender=male] número de NN[number=plural,gender=male] óbito TREND_2 de VARIATION_2 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="378" gender="male" number="plural">378</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_2" entity="1924" gender="male" number="plural">1924</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="9" gender="female" number="plural">9</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="DEATHS_2" entity="34" gender="male" number="plural">34</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.24" gender="male" number="singular">24%</reference>
+                    <reference tag="TREND_2" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_2" entity="0.36" gender="male" number="singular">36%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>São registrados 378 novos casos de #COVID19 no Brasil, totalizando 1924 casos confirmados.</sentence>
+                <sentence>Com 9 novas mortes, o país soma 34 óbitos pelo vírus.</sentence>
+                <sentence>Nas últimas 24 horas, o número de infecções confirmadas teve alta de 24% e o número de óbitos alta de 36%.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-24 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=2247)</unit>
+            <unit>TOTAL_DEATHS(deaths=46)</unit>
+            <unit>NEW_CASES(cases=323,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=12,highest=True)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+        </meaning>
+        <ordering>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+            <unit>NEW_CASES(cases=323,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=2247)</unit>
+            <unit>TOTAL_DEATHS(deaths=46)</unit>
+            <unit>NEW_DEATHS(deaths=12,highest=True)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_CASES(cases=323,highest=False)</unit>
+                    <unit>TOTAL_CASES(cases=2247)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=46)</unit>
+                    <unit>NEW_DEATHS(deaths=12,highest=True)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 em um dia na quantidade de NN[number=plural,gender=male] caso de #COVID19 .</sentence>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a CASES_2 NN[number=CASES_2,gender=male] infectado pela doença .</sentence>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=female] registrar DEATHS_1 NN[number=DEATHS_1,gender=female] morte , DEATHS_2 a mais do que no dia anterior .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.17" gender="male" number="singular">17%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="323" gender="male" number="plural">323</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="CASES_2" entity="2247" gender="male" number="plural">2247</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="46" gender="female" number="plural">46</reference>
+                    <reference tag="DEATHS_2" entity="12" gender="female" number="plural">12</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil observa aumento de 17% em um dia na quantidade de casos de #COVID19.</sentence>
+                <sentence>Com 323 novos casos, o país chega a 2247 infectados pela doença.</sentence>
+                <sentence>São registradas 46 mortes, 12 a mais do que no dia anterior.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-25 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=2554)</unit>
+            <unit>TOTAL_DEATHS(deaths=59)</unit>
+            <unit>NEW_CASES(cases=307,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=13,highest=True)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=13,highest=True)</unit>
+            <unit>TOTAL_DEATHS(deaths=59)</unit>
+            <unit>TOTAL_CASES(cases=2554)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+            <unit>NEW_CASES(cases=307,highest=False)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=13,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=59)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=2554)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+                    <unit>NEW_CASES(cases=307,highest=False)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 tem recorde diário e VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] óbito por #COVID19 .</sentence>
+                <sentence>No total , VP[aspect=simple,tense=present,voice=active,person=DEATHS_1,number=DEATHS_1] ser DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] causado pelo vírus .</sentence>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] Registrar ao todo CASES_1 NN[number=CASES_1,gender=male] caso da doença, DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 , ADJ[number=singular,gender=TREND_1] representado por CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="13" gender="male" number="plural">13</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="59" gender="female" number="plural">59</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="2554" gender="male" number="plural">2554</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.14" gender="male" number="singular">14%</reference>
+                    <reference tag="CASES_2" entity="307" gender="male" number="plural">307</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil tem recorde diário e registra 13 novos óbitos por #COVID19.</sentence>
+                <sentence>No total, são 59 mortes causadas pelo vírus.</sentence>
+                <sentence>São registrados ao todo 2554 casos da doença, um aumento diário de 14%, representado por 307 novos casos.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-27 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=3417)</unit>
+            <unit>TOTAL_DEATHS(deaths=92)</unit>
+            <unit>NEW_CASES(cases=432,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=15,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.19)</unit>
+        </meaning>
+        <ordering>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.19)</unit>
+            <unit>NEW_CASES(cases=432,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=15,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=3417)</unit>
+            <unit>TOTAL_DEATHS(deaths=92)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.14)</unit>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.19)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_CASES(cases=432,highest=False)</unit>
+                    <unit>NEW_DEATHS(deaths=15,highest=False)</unit>
+                    <unit>TOTAL_CASES(cases=3417)</unit>
+                    <unit>TOTAL_DEATHS(deaths=92)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 na quantidade de NN[number=plural,gender=male] caso e de VARIATION_2 na quantidade de NN[number=plural,gender=male] óbito por #COVID19 .</sentence>
+                <sentence>De ontem para hoje VP[aspect=simple,tense=past,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] contabilizar mais CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] totalizar CASES_2 NN[number=CASES_2,gender=male] caso e DEATHS_2 NN[number=DEATHS_2,gender=female] morte pela doença.</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.14" gender="male" number="singular">14%</reference>
+                    <reference tag="VARIATION_2" entity="0.19" gender="male" number="singular">19%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="432" gender="male" number="plural">432</reference>
+                    <reference tag="DEATHS_1" entity="15" gender="female" number="plural">15</reference>
+                    <reference tag="CASES_2" entity="3417" gender="male" number="plural">3417</reference>
+                    <reference tag="DEATHS_2" entity="92" gender="female" number="plural">92</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra aumento diário de 14% na quantidade de casos e de 19% na quantidade de óbitos por #COVID19.</sentence>
+                <sentence>De ontem para hoje foram contabilizados mais 432 novos casos e 15 novas mortes, totalizando 3417 casos e 92 mortes pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-30 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=4579)</unit>
+            <unit>TOTAL_DEATHS(deaths=159)</unit>
+            <unit>NEW_DEATHS(deaths=23,highest=False)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+        </meaning>
+        <ordering>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+            <unit>NEW_DEATHS(deaths=23,highest=False)</unit>
+            <unit>TOTAL_DEATHS(deaths=159)</unit>
+            <unit>TOTAL_CASES(cases=4579)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.17)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=23,highest=False)</unit>
+                    <unit>TOTAL_DEATHS(deaths=159)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=4579)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 na quantidade de mortos por #COVID19 .</sentence>
+                <sentence>Com DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] óbito , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar a marca de DEATHS_2 NN[number=DEATHS_2,gender=male] morto .</sentence>
+                <sentence>Número de NN[number=plural,gender=male] caso ADJ[number=plural,gender=male] confirmado de infecção pelo vírus VP[aspect=simple,tense=present,voice=active,person=CASES_1,number=CASES_1] alcançar CASES_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">crescimento</reference>
+                    <reference tag="VARIATION_1" entity="0.17" gender="male" number="singular">17%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="23" gender="male" number="plural">23</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">país</reference>
+                    <reference tag="DEATHS_2" entity="159" gender="male" number="plural">159</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="4579" gender="male" number="plural">4579</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil observa crescimento de 17% na quantidade de mortos por #COVID19.</sentence>
+                <sentence>Com 23 novos óbitos, país chega a marca de 159 mortos.</sentence>
+                <sentence>Número de casos confirmados de infecção pelo vírus alcança 4579.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-31 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=5717)</unit>
+            <unit>TOTAL_DEATHS(deaths=201)</unit>
+            <unit>NEW_CASES(cases=1138,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=42,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=42,highest=True)</unit>
+            <unit>NEW_CASES(cases=1138,highest=True)</unit>
+            <unit>TOTAL_CASES(cases=5717)</unit>
+            <unit>TOTAL_DEATHS(deaths=201)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=42,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_CASES(cases=1138,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=5717)</unit>
+                    <unit>TOTAL_DEATHS(deaths=201)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] reportar maior número de mortes diárias até o momento , DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] falecimento por #COVID19 .</sentence>
+                <sentence>O número de novos casos também é o maior já registrado , CASES_1 ADJ[number=CASES_1,gender=female] novo NN[number=CASES_1,gender=female] infecção ADJ[number=CASES_1,gender=female] confirmado .</sentence>
+                <sentence>No total , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso e DEATHS_1 NN[number=DEATHS_1,gender=female] morte pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="42" gender="male" number="plural">42</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="1138" gender="female" number="plural">1138</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="CASES_1" entity="5717" gender="male" number="plural">5717</reference>
+                    <reference tag="DEATHS_1" entity="201" gender="female" number="plural">201</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil reporta maior número de mortes diárias até o momento, 42 novos falecimentos por #COVID19.</sentence>
+                <sentence>O número de novos casos também é o maior já registrado, 1138 novas infecções confirmadas.</sentence>
+                <sentence>No total, o país contabiliza 5717 casos e 201 mortes pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-02 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=7031)</unit>
+            <unit>TOTAL_DEATHS(deaths=252)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=7031)</unit>
+            <unit>TOTAL_DEATHS(deaths=252)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=7031)</unit>
+                    <unit>TOTAL_DEATHS(deaths=252)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] somar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 e DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] ocasionado pelo vírus .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="7031" gender="male" number="plural">7031</reference>
+                    <reference tag="DEATHS_1" entity="252" gender="female" number="plural">252</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil soma 7031 casos de #COVID19 e 252 mortes ocasionadas pelo vírus.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-05 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=11130)</unit>
+            <unit>TOTAL_DEATHS(deaths=486)</unit>
+            <unit>NEW_CASES(cases=807,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=807,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=11130)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+            <unit>TOTAL_DEATHS(deaths=486)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=807,highest=False)</unit>
+                    <unit>TOTAL_CASES(cases=11130)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=486)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar CASES_2 NN[number=CASES_2,gender=male] caso no total e TREND_1 de VARIATION_1 em relação ao dia anterior .</sentence>
+                <sentence>Número de mortes pelo vírus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] chegar a DEATHS_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="807" gender="male" number="plural">807</reference>
+                    <reference tag="CASES_2" entity="11130" gender="male" number="plural">11130</reference>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.08" gender="male" number="singular">8%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="486" gender="female" number="plural">486</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra 807 novos casos de #COVID19, somando 11130 casos no total e alta de 8% em relação ao dia anterior.</sentence>
+                <sentence>Número de mortes pelo vírus chega a 486.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-25 00:00:00">
+        <meaning>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+            <unit>NEW_CASES(cases=4966,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=293,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=57961)</unit>
+            <unit>TOTAL_DEATHS(deaths=3963)</unit>
+        </meaning>
+        <ordering>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+            <unit>NEW_DEATHS(deaths=293,highest=False)</unit>
+            <unit>TOTAL_DEATHS(deaths=3963)</unit>
+            <unit>NEW_CASES(cases=4966,highest=True)</unit>
+            <unit>TOTAL_CASES(cases=57961)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+                    <unit>NEW_DEATHS(deaths=293,highest=False)</unit>
+                    <unit>TOTAL_DEATHS(deaths=3963)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_CASES(cases=4966,highest=True)</unit>
+                    <unit>TOTAL_CASES(cases=57961)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 no número de mortes causadas por #COVID19 , com DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] registro nas últimas 24 horas , totalizando DEATHS_2 NN[number=DEATHS_2,gender=male] óbito .</sentence>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar ao total de CASES_2 NN[number=CASES_2,gender=male] registro da doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">crescimento</reference>
+                    <reference tag="VARIATION_1" entity="0.08" gender="male" number="singular">8%</reference>
+                    <reference tag="DEATHS_1" entity="293" gender="male" number="plural">293</reference>
+                    <reference tag="DEATHS_2" entity="3963" gender="male" number="plural">3963</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CASES_1" entity="4966" gender="male" number="plural">4966</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="CASES_2" entity="57961" gender="male" number="plural">57961</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil observa crescimento de 8% no número de mortes causadas por #COVID19, com 293 novos registros nas últimas 24 horas, totalizando 3963 óbitos.</sentence>
+                <sentence>Com 4966 novos casos, o país chega ao total de 57961 registros da doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-30 00:00:00">
+        <meaning>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+            <unit>NEW_CASES(cases=7218,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=435,highest=False)</unit>
+            <unit>TOTAL_CASES(cases=85380)</unit>
+            <unit>TOTAL_DEATHS(deaths=5901)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=85380)</unit>
+            <unit>NEW_CASES(cases=7218,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=435,highest=False)</unit>
+            <unit>TOTAL_DEATHS(deaths=5901)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=85380)</unit>
+                    <unit>NEW_CASES(cases=7218,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=435,highest=False)</unit>
+                    <unit>TOTAL_DEATHS(deaths=5901)</unit>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.08)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar ao total de CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 , com CASES_2 ADJ[number=CASES_2,gender=male] novo NN[number=CASES_2,gender=male] caso nas últimas 24 horas .</sentence>
+                <sentence>Desde ontem , VP[aspect=simple,tense=past,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=DEATHS_1] registrar em COUNTRY_1 DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte , que agora VP[aspect=simple,tense=present,voice=active,person=DEATHS_2,number=DEATHS_2] somar DEATHS_2 , representando DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="85380" gender="male" number="plural">85380</reference>
+                    <reference tag="CASES_2" entity="7218" gender="male" number="plural">7218</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="435" gender="female" number="plural">435</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">país</reference>
+                    <reference tag="DEATHS_2" entity="5901" gender="female" number="plural">5901</reference>
+                    <reference tag="TREND_1" entity="high" gender="female" number="singular">alta</reference>
+                    <reference tag="VARIATION_1" entity="0.08" gender="male" number="singular">8%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil chega ao total de 85380 casos de #COVID19, com 7218 novos casos nas últimas 24 horas.</sentence>
+                <sentence>Desde ontem, foram registradas no país 435 novas mortes, que agora somam 5901, representando uma alta diária de 8%.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-14 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=151)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=151)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=151)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="151" gender="male" number="plural">151</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil contabiliza 151 casos de #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-16 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=200)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=200)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=200)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=CASES_1,number=CASES_1,gender=CASES_1] registrar CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="200" gender="male" number="plural">200</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>São registrados 200 casos de #COVID19 no Brasil.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-18 00:00:00">
+        <meaning>
+            <unit>TOTAL_DEATHS(deaths=2001)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEATHS(deaths=2001)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=2001)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] chegar à marca de DEATHS_1 NN[number=DEATHS_1,gender=female] morte por #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="2001" gender="female" number="plural">2001</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil chega à marca de 2001 mortes por #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-20 00:00:00">
+        <meaning>
+            <unit>TOTAL_DEATHS(deaths=3333)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEATHS(deaths=3333)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=3333)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular,gender=male] registrar um total de DEATHS_1 NN[number=DEATHS_1,gender=female] morte ADJ[number=DEATHS_1,gender=female] confirmado por #COVID19 em COUNTRY_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="3333" gender="male" number="plural">3333</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>É registrado um total de 3333 mortes confirmadas por #COVID19 no Brasil.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-28 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=79685)</unit>
+            <unit>TOTAL_DEATHS(deaths=5513)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_CASES(cases=79685)</unit>
+            <unit>TOTAL_DEATHS(deaths=5513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_CASES(cases=79685)</unit>
+                    <unit>TOTAL_DEATHS(deaths=5513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] alcançar CASES_1 NN[number=CASES_1,gender=male] caso ADJ[number=CASES_1,gender=male] confirmado e DEATHS_1 NN[number=DEATHS_1,gender=female] morte por #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="79685" gender="male" number="plural">79685</reference>
+                    <reference tag="DEATHS_1" entity="5513" gender="female" number="plural">5513</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil alcança 79685 casos confirmados e 5513 mortes por #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-29 00:00:00">
+        <meaning>
+            <unit>TOTAL_CASES(cases=87187)</unit>
+            <unit>TOTAL_DEATHS(deaths=6006)</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEATHS(deaths=6006)</unit>
+            <unit>TOTAL_CASES(cases=87187)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEATHS(deaths=6006)</unit>
+                    <unit>TOTAL_CASES(cases=87187)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=DEATHS_1,number=DEATHS_1,gender=DEATHS_1] registrar , no total , DEATHS_1 NN[number=DEATHS_1,gender=female] morte e CASES_1 NN[number=CASES_1,gender=male] caso de #COVID19 em COUNTRY_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DEATHS_1" entity="6006" gender="female" number="plural">6006</reference>
+                    <reference tag="CASES_1" entity="87187" gender="male" number="plural">87187</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>São registradas, no total, 6006 mortes e 87187 casos de #COVID19 no Brasil.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-30 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=20684)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.06)</unit>
+        </meaning>
+        <ordering>
+            <unit>ACTIVE_CASES(active_cases=20684)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.06)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>ACTIVE_CASES(active_cases=20684)</unit>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.06)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>No momento , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo , o que significa DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 na quantidade de pessoas ainda doentes por #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="20684" gender="male" number="plural">20684</reference>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.06" gender="male" number="singular">6%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>No momento, o Brasil observa 20684 casos ativos, o que significa uma queda de 6% na quantidade de pessoas ainda doentes por #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-01 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=66653)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.03)</unit>
+        </meaning>
+        <ordering>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.03)</unit>
+            <unit>ACTIVE_CASES(active_cases=66653)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.03)</unit>
+                    <unit>ACTIVE_CASES(active_cases=66653)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>VP[aspect=simple,tense=present,voice=passive,person=TREND_1,number=TREND_1,gender=TREND_1] registrar em COUNTRY_1 DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 dos casos ativos de #COVID19 , o que quer dizer que atualmente VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] existir ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente ainda ADJ[number=ACTIVE_CASES_1,gender=male] contaminado .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">diminuição</reference>
+                    <reference tag="VARIATION_1" entity="-0.03" gender="male" number="singular">3%</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="66653" gender="male" number="plural">66653</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>É registrada no Brasil uma diminuição de 3% dos casos ativos de #COVID19, o que quer dizer que atualmente existem 66653 pacientes ainda contaminados.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=30076,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar novo recorde , CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 em apenas um dia .</sentence>
+                <sentence>VP[aspect=simple,tense=past,voice=passive,person=TREND_1,number=TREND_1,gender=female] observar DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 nos casos ativos , o que dizer que COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] apresentar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda ADJ[number=ACTIVE_CASES_1,gender=female] doente .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="female" number="plural">283513</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra novo recorde, 30076 novos casos de #COVID19 em apenas um dia.</sentence>
+                <sentence>Foi observada uma queda de 2% nos casos ativos, o que dizer que o país apresenta 283513 pessoas ainda doentes.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Foi registrado novo recorde de mortes por #COVID19 em COUNTRY_1 , DEATHS_1 nas últimas 24 horas .</sentence>
+                <sentence>COUNTRY_1 ainda VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 do número pessoas atualmente infectadas pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="female" number="plural">1466</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O país</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="male" number="plural">283513</reference>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">diminuição</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Foi registrado novo recorde de mortes por #COVID19 no Brasil, 1466 nas últimas 24 horas.</sentence>
+                <sentence>O país ainda resgistra 283513 casos ativos, uma diminuição de 2% do número pessoas atualmente infectadas pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=30076,highest=False)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , DT[number=singular,gender=TREND_1] um TREND_1 ADJ[number=singular,gender=TREND_1] diário de VARIATION_1 no total de infectados .</sentence>
+                <sentence>Com DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 nas últimas 24 horas , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] possuir ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente ainda ADJ[number=ACTIVE_CASES_1,gender=male] infectado pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.06" gender="male" number="singular">6%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="male" number="plural">283513</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil contabiliza 30076 novos casos de #COVID19, um aumento diário de 6% no total de infectados.</sentence>
+                <sentence>Com uma queda de 2% nas últimas 24 horas, o país possui 283513 pacientes ainda infectados pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+        </meaning>
+        <ordering>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+                    <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>De ontem para hoje , COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar TREND_1 de VARIATION_1 dos mortos por #COVID19 , o que representa DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte .</sentence>
+                <sentence>Os casos ativos observaram TREND_1 de VARIATION_1 , o que significa que ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] estar ADJ[number=ACTIVE_CASES_1,gender=female] infectado por #COVID19 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">aumento</reference>
+                    <reference tag="VARIATION_1" entity="0.05" gender="male" number="singular">5%</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="female" number="plural">1466</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">diminuição</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="female" number="plural">283513</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>De ontem para hoje, o Brasil observou aumento de 5% dos mortos por #COVID19, o que representa 1466 novas mortes.</sentence>
+                <sentence>Os casos ativos observaram diminuição de 2%, o que significa que 283513 pessoas ainda estão infectadas por #COVID19.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+                    <unit>NEW_CASES(cases=30076,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] observar novo recorde diário de mortes e casos de #COVID19 , registrando DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] óbito e CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso da doença .</sentence>
+                <sentence>A quantidade de casos ativos registrou TREND_1 de VARIATION_1 , o que significa que ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=female] pessoa ainda VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] estar ADJ[number=ACTIVE_CASES_1,gender=female] contaminado por #COVID19 em COUNTRY_1 .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O Brasil</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="male" number="plural">1466</reference>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="female" number="plural">283513</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>O Brasil observa novo recorde diário de mortes e casos de #COVID19, registrando 1466 novos óbitos e 30076 novos casos da doença.</sentence>
+                <sentence>A quantidade de casos ativos registrou queda de 2%, o que significa que 283513 pessoas ainda estão contaminadas por #COVID19 no país.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_DEATHS(deaths=1466,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>NEW_CASES(cases=30076,highest=False)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar novo recorde , com DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte nas últimas 24 horas .</sentence>
+                <sentence>COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] contabilizar CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso de #COVID19 , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 no total de casos .</sentence>
+                <sentence>DT[number=ACTIVE_CASES_1,gender=male] o NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] somar ACTIVE_CASES_1 , DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 dos pacientes ainda infectados pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">Brasil</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="female" number="plural">1466</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">O país</reference>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">crescimento</reference>
+                    <reference tag="VARIATION_1" entity="0.06" gender="male" number="singular">6%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="male" number="plural">283513</reference>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">diminuição</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Brasil registra novo recorde, com 1466 novas mortes nas últimas 24 horas.</sentence>
+                <sentence>O país contabilizou 30076 novos casos de #COVID19, um crescimento de 6% no total de casos.</sentence>
+                <sentence>Os casos ativos somam 283513, uma diminuição de 2% dos pacientes ainda infectados pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=30076,highest=True)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=30076,highest=True)</unit>
+                </sentence>
+                <sentence>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+                    <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso desde ontem , COUNTRY_1 VP[aspect=simple,tense=past,voice=active,person=COUNTRY_1,number=COUNTRY_1] ter mais um recorde de casos de #COVID19 .</sentence>
+                <sentence>As mortes causadas pela doença tiveram TREND_1 de VARIATION_1 , o que corresponde a DEATHS_1 ADJ[number=DEATHS_1,gender=male] novo NN[number=DEATHS_1,gender=male] óbito .</sentence>
+                <sentence>Com TREND_1 de VARIATION_1 , agora COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] apresentar ACTIVE_CASES_1 NN[number=ACTIVE_CASES_1,gender=male] paciente em acompanhamento .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">crescimento</reference>
+                    <reference tag="VARIATION_1" entity="0.05" gender="male" number="singular">5%</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="male" number="plural">1466</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o país</reference>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="male" number="plural">283513</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Com 30076 novos casos desde ontem, o Brasil teve mais um recorde de casos de #COVID19.</sentence>
+                <sentence>As mortes causadas pela doença tiveram crescimento de 5%, o que corresponde a 1466 novos óbitos.</sentence>
+                <sentence>Com queda de 2%, agora o país apresenta 283513 pacientes em acompanhamento.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-05 00:00:00">
+        <meaning>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+        </meaning>
+        <ordering>
+            <unit>NEW_CASES(cases=30076,highest=False)</unit>
+            <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+            <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+            <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+            <unit>ACTIVE_CASES(active_cases=283513)</unit>
+            <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>NEW_CASES(cases=30076,highest=False)</unit>
+                    <unit>NEW_DEATHS(deaths=1466,highest=False)</unit>
+                    <unit>CASES_VARIATION_LAST_DAY(trend=high,variation=0.06)</unit>
+                    <unit>DEATHS_VARIATION_LAST_DAY(trend=high,variation=0.05)</unit>
+                </sentence>
+                <sentence>
+                    <unit>ACTIVE_CASES(active_cases=283513)</unit>
+                    <unit>ACTIVE_CASES_VARIATION_LAST_DAY(trend=low,variation=-0.02)</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>Com CASES_1 ADJ[number=CASES_1,gender=male] novo NN[number=CASES_1,gender=male] caso e DEATHS_1 ADJ[number=DEATHS_1,gender=female] novo NN[number=DEATHS_1,gender=female] morte em 24 horas , COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=COUNTRY_1,number=COUNTRY_1] registrar TREND_1 de VARIATION_1 dos casos e de VARIATION_2 das mortes confirmadas por #COVID19 .</sentence>
+                <sentence>DT[number=ACTIVE_CASES_1,gender=male] o NN[number=ACTIVE_CASES_1,gender=male] caso ADJ[number=ACTIVE_CASES_1,gender=male] ativo em COUNTRY_1 VP[aspect=simple,tense=present,voice=active,person=ACTIVE_CASES_1,number=ACTIVE_CASES_1] totalizar ACTIVE_CASES_1 , o que significa DT[number=singular,gender=TREND_1] um TREND_1 de VARIATION_1 no total de pessoas ainda infectadas pela doença .</sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="CASES_1" entity="30076" gender="male" number="plural">30076</reference>
+                    <reference tag="DEATHS_1" entity="1466" gender="female" number="plural">1466</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">o Brasil</reference>
+                    <reference tag="TREND_1" entity="high" gender="male" number="singular">crescimento</reference>
+                    <reference tag="VARIATION_1" entity="0.06" gender="male" number="singular">6%</reference>
+                    <reference tag="VARIATION_2" entity="0.05" gender="male" number="singular">5%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="ACTIVE_CASES_1" entity="283513" gender="male" number="plural">283513</reference>
+                    <reference tag="COUNTRY_1" entity="Brasil" gender="male" number="singular">país</reference>
+                    <reference tag="TREND_1" entity="low" gender="female" number="singular">queda</reference>
+                    <reference tag="VARIATION_1" entity="-0.02" gender="male" number="singular">2%</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>Com 30076 novos casos e 1466 novas mortes em 24 horas, o Brasil registra crescimento de 6% dos casos e de 5% das mortes confirmadas por #COVID19.</sentence>
+                <sentence>Os casos ativos no país totalizam 283513, o que significa uma queda de 2% no total de pessoas ainda infectadas pela doença.</sentence>
+            </paragraph>
+        </text>
+    </entry>
+</entries>

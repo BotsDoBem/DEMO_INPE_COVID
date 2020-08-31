@@ -1,0 +1,1609 @@
+<?xml version="1.0" ?>
+<entries>
+    <entry date="2019-04-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="134.9",year="2019",month="4",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="18",year="2019",month="4",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2019",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>CAUSE(area="89",cause="DESMATAMENTO_CR",year="2019",month="4",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="134.9",year="2019",month="4",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="18",year="2019",month="4",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2019",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>CAUSE(area="89",cause="DESMATAMENTO_CR",year="2019",month="4",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="134.9",year="2019",month="4",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="18",year="2019",month="4",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3",year="2019",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="89",cause="DESMATAMENTO_CR",year="2019",month="4",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo dados de INSTITUTE_1 , o desmatamento de LOCATION_1 foi de AREA_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Neste período , o principal foco de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] acontecer em STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                     DT[number=CITY_1,gender=CITY_1] o NN[number=CITY_1,gender=CITY_1] município com maior área desmatada VP[aspect=simple,tense=past,voice=active,person=3rd,number=CITY_1] ser CITY_1 , com ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral, a principal causa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , que somou AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >a Amazônia legal</reference>
+                    <reference tag="AREA_1" entity="134" gender="male" number="plural" >134 km²</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">Abril</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">o Pará</reference>
+                    <reference tag="AREA_1" entity="18" gender="male" number="plural">18 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Itaituba" gender="male" number="singular">Itaituba</reference>
+                    <reference tag="AREA_1" entity="3" gender="male" number="plural">3 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="89" gender="male" number="plural">89 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo dados do INPE, o desmatamento da Amazônia legal foi de 134.9 km², em Abril de 2019.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Neste período, o principal foco de desmatamento aconteceu no Pará (18 km²).
+                </sentence>
+                <sentence>
+                    O município com maior área desmatada foi Itaituba(PA), com 3 km².
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral, a principal causa de desmatamento foi o Desmatamento com Solo Exposto, que somou 89 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-05-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="931.06",year="2019",month="5",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="5.9",month="5",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="268",year="2019",month="5",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31",year="2019",month="5",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="45",year="2019",month="5",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="5",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="623",cause="DESMATAMENTO_CR",year="2019",month="5",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="931.06",year="2019",month="5",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="5.9",month="5",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="268",year="2019",month="5",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31",year="2019",month="5",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="45",year="2019",month="5",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="5",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="623",cause="DESMATAMENTO_CR",year="2019",month="5",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="931.06",year="2019",month="5",location="deter-amz")</unit>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="5.9",month="5",year="2019",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="268",year="2019",month="5",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="31",year="2019",month="5",location="deter-amz",state="PA",city="Itaituba")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="45",year="2019",month="5",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="5",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="623",cause="DESMATAMENTO_CR",year="2019",month="5",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo dados de INSTITUTE_1 , em MONTH_1 de YEAR_1 , o desmatamento de LOCATION_1 foi de AREA_1 , representando uma variação de VARIATION_1 com relação ao mês anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Neste período , o principal foco de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] acontecer em STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    O município com maior área desmatada foi CITY_1 - AREA_1 .
+                </sentence>
+                <sentence>
+                    As Unidades de Conservação com taxas de desmatamento mais elevadas VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser  UC_1 - AREA_1  e UC_2 - AREA_2 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral , a principal causa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , que somou AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular" >Maio</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia Legal</reference>
+                    <reference tag="AREA_1" entity="931.06" gender="male" number="plural" >931.06 km²</reference>
+                    <reference tag="VARIATION_1" entity="5.9" gender="male" number="singular">590%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">o Pará</reference>
+                    <reference tag="AREA_1" entity="268" gender="male" number="plural" >268 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Itaituba" gender="male" number="singular">Itaituba</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">PA</reference>
+                    <reference tag="AREA_1" entity="31" gender="male" number="plural" >31 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_2" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA)</reference>
+                    <reference tag="AREA_1" entity="45" gender="male" number="plural" >45 km²</reference>
+                    <reference tag="AREA_2" entity="16" gender="male" number="plural" >16 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="623" gender="male" number="plural">623 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo dados do INPE, em Maio de 2019, o desmatamento da Amazônia legal foi de  931.06 km², representando uma variação de 590% com relação ao mês anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Neste período, o principal foco de desmatamento aconteceu no Pará (268 km²).
+                </sentence>
+                <sentence>
+                    O município com maior área desmatada foi Itaituba(PA) - 31 km².
+                </sentence>
+                <sentence>
+                    As Unidades de Conservação com taxas de desmatamento mais elevadas foram a FLORESTA NACIONAL DO JAMANXIM (PA) - 45 km² e ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA) - 16 km².
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral, a principal causa de desmatamento foi o Desmatamento com Solo Exposto, que somou 623 km².
+                </sentence>
+            </paragraph>
+        </text>
+        <references/>
+    </entry>
+    <entry date="2019-06-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="1844.94",year="2019",month="6",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.98",month="6",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="488",year="2019",month="6",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="6",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="6",location="deter-amz",state="RR",city="Mucajai",UC="FLORESTA NACIONAL DE RORAIMA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="6",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="855",cause="DESMATAMENTO_CR",year="2019",month="6",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="1844.94",year="2019",month="6",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.98",month="6",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="488",year="2019",month="6",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="6",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="6",location="deter-amz",state="RR",city="Mucajai",UC="FLORESTA NACIONAL DE RORAIMA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="6",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="855",cause="DESMATAMENTO_CR",year="2019",month="6",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1844.94",year="2019",month="6",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.98",month="6",year="2019",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="488",year="2019",month="6",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="6",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="6",location="deter-amz",state="RR",city="Mucajai",UC="FLORESTA NACIONAL DE RORAIMA")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="6",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="855",cause="DESMATAMENTO_CR",year="2019",month="6",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 registrou desmatamento de AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    Este número representa um aumento percentual de VARIATION_1 , em comparação com o mês anterior .
+                </sentence>
+                <sentence>
+                    O estado com maior área desmatada no período VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 , com AREA_1 .
+                </sentence>
+                <sentence>
+                    No âmbito de Unidades de Conservação , destaque para UC_1 - AREA_1  , UC_2 - AREA_2  , e UC_3 - AREA_3 .
+                </sentence>
+                <sentence>
+                    A principal causa de desmatamento, no período, VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , com AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="1844.94" gender="male" number="plural" >1844.94 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular" >Junho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="0.98" gender="female" number="singular" >98%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="488" gender="male" number="plural" >488 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DE RORAIMA" gender="female" number="singular">a FLORESTA NACIONAL DE RORAIMA (RR)</reference>
+                    <reference tag="UC_3" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA)</reference>
+                    <reference tag="AREA_1" entity="13" gender="male" number="plural" >13 km²</reference>
+                    <reference tag="AREA_2" entity="12" gender="male" number="plural" >12 km²</reference>
+                    <reference tag="AREA_3" entity="8" gender="male" number="plural" >8 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular" >o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="855" gender="male" number="plural" >855 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE registrou desmatamento de 1844.94 km² na Amazônia legal, em Junho de 2019.
+                </sentence>
+                <sentence>
+                    Este número representa um aumento percentual de 98%, em comparação com o mês anterior.
+                </sentence>
+                <sentence>
+                    O estado com maior área desmatada no período foi o Pará, com 488 km².
+                </sentence>
+                <sentence>
+                    No âmbito de Unidades de Conservação, destaque para a FLORESTA NACIONAL DO JAMANXIM (PA) - 13 km², a FLORESTA NACIONAL DE RORAIMA (RR) - 12 km², e a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA) - 8 km².
+                </sentence>
+                <sentence>
+                    A principal causa de desmatamento, no período, foi o Desmatamento com Solo Exposto, com 855 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="3911.26",year="2019",month="7",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="1.12",month="7",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1131",year="2019",month="7",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="56",year="2019",month="7",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="7",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="7",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="7",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",year="2019",month="7",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="3911.26",year="2019",month="7",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="1.12",month="7",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1131",year="2019",month="7",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="56",year="2019",month="7",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="7",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="7",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="7",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",year="2019",month="7",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3911.26",year="2019",month="7",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="1.12",month="7",year="2019",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1131",year="2019",month="7",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="56",year="2019",month="7",location="deter-amz",state="PA",city="Itaituba")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="16",year="2019",month="7",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="7",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="12",year="2019",month="7",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",year="2019",month="7",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 relatou um desmatamento de AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    Estes dados apontam uma variação de VARIATION_1 se comparados ao mês anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    A nível de muncípio, destaque para CITY_1 , com desmatamento de AREA_1 .
+                </sentence>
+                <sentence>
+                    No período , as Unidades de Conservação com recorde de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser UC_1 ( AREA_1 ) ; UC_2 ( AREA_2 ) ; e UC_3 ( AREA_3 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território sob análise ,  CAUSE_1 , com AREA_1 , VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a causa de desmatamento mais recorrente .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="3911.26" gender="male" number="plural" >3911.26 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">Julho</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="1.12" gender="female" number="singular">112%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">o estado do Pará</reference>
+                    <reference tag="AREA_1" entity="1131" gender="male" number="plural">1131 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Itaituba" gender="male" number="singular">Itaituba</reference>
+                    <reference tag="AREA_1" entity="56"  gender="male" number="plural">56 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_3" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES (AC)</reference>
+                    <reference tag="AREA_1" entity="16" gender="male" number="plural">16 km²</reference>
+                    <reference tag="AREA_2" entity="13" gender="male" number="plural">13 km²</reference>
+                    <reference tag="AREA_3" entity="12" gender="male" number="plural">12 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="2005" gender="male" number="plural">2005 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE relatou um desmatamento de 3911.26 km² na Amazônia legal, em Julho de 2019.
+                </sentence>
+                <sentence>
+                    Estes dados apontam uma variação de 112% se comparados ao mês anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento foi o estado do Pará (1131 km²).
+                </sentence>
+                <sentence>
+                    A nível de muncípio, destaque para Itaituba(PA), com desmatamento de 56 km².
+                </sentence>
+                <sentence>
+                    No período, as Unidades de Conservação com recorde de desmatamento foram a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA) (16 km²); a FLORESTA NACIONAL DO JAMANXIM (PA) (13 km²); a RESERVA EXTRATIVISTA CHICO MENDES (AC) (12 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território sob análise,  o Desmatamento com Solo Exposto,com 2005 km², foi a causa de desmatamento mais recorrente.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-08-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="4465.69",year="2019",month="8",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.14",month="8",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1982",year="2019",month="8",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75",year="2019",month="8",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="97",year="2019",month="8",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="8",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="1669",cause="DESMATAMENTO_CR",year="2019",month="8",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="4465.69",year="2019",month="8",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.14",month="8",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1982",year="2019",month="8",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75",year="2019",month="8",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="97",year="2019",month="8",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="8",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="1669",cause="DESMATAMENTO_CR",year="2019",month="8",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="4465.69",year="2019",month="8",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.14",month="8",year="2019",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1982",year="2019",month="8",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="75",year="2019",month="8",location="deter-amz",state="PA",city="Itaituba")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="97",year="2019",month="8",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="8",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="1669",cause="DESMATAMENTO_CR",year="2019",month="8",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo INSTITUTE_1 , VP[aspect=simple,tense=past,voice=passive,gender=male,person=3rd,number=AREA_1] desmatar AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    INSTITUTE_1 relatou uma variação de VARIATION_1 na taxa de desmatamento , se comparada ao mês anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Destacou-se STATE_1 , com área desmatada de AREA_1 .
+                </sentence>
+                <sentence>
+                    Em CITY_1 VP[aspect=simple,tense=past,voice=passive,gender=male,person=3rd,number=plural] desmatar AREA_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento foram UC_1 ( AREA_1 ) ; e UC_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    CAUSE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a principal causa de desmatamento no território analisado , somando AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia legal</reference>
+                    <reference tag="AREA_1" entity="4465.69" gender="male" number="plural">4465.69 km²</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular" >Agosto</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o órgão</reference>
+                    <reference tag="VARIATION_1" entity="0.14" gender="female" number="singular">14%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="1982" gender="male" number="plural" >1982 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Itaituba" gender="male" number="singular" >Itaituba</reference>
+                    <reference tag="AREA_2" entity="75" gender="male" number="plural" >75 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ALTAMIRA" gender="female" number="singular" >a FLORESTA NACIONAL DE ALTAMIRA (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="AREA_1" entity="97" gender="male" number="plural" >97 km²</reference>
+                    <reference tag="AREA_2" entity="61" gender="male" number="plural" >61 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="1669" gender="male" number="plural">1669 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo o INPE, foram desmatados 4465.69 km² na Amazônia legal, em Agosto de 2019.
+                </sentence>
+                <sentence>
+                    O órgão relatou uma variação de 14% na taxa de desmatamento , se comparada ao mês anterior.
+                    ao mês anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Destacou-se o Pará, com área desmatada de 1982 km².
+                </sentence>
+                <sentence>
+                    Em Itaituba(PA) foram desmatados 75 km².
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento foram a FLORESTA NACIONAL DE ALTAMIRA (PA) (97 km²); e a FLORESTA NACIONAL DO JAMANXIM (PA) (61 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O Desmatamento com Solo Exposto foi a principal causa de desmatamento no território analisado,
+                    somando 1669 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-09-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="6355.34",year="2019",month="9",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.42",month="9",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2022",year="2019",month="9",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="176",year="2019",month="9",location="deter-amz",state="PA",city="Altamira")</unit>
+            <unit>TOTAL_DEFORESTATION(area="55",year="2019",month="9",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="30",year="2019",month="9",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="19",year="2019",month="9",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>CAUSE(area="3921",cause="CICATRIZ_DE_QUEIMADA",year="2019",month="9",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="6355.34",year="2019",month="9",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.42",month="9",year="2019",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2022",year="2019",month="9",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="176",year="2019",month="9",location="deter-amz",state="PA",city="Altamira")</unit>
+            <unit>TOTAL_DEFORESTATION(area="55",year="2019",month="9",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="30",year="2019",month="9",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="19",year="2019",month="9",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>CAUSE(area="3921",cause="CICATRIZ_DE_QUEIMADA",year="2019",month="9",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="6355.34",year="2019",month="9",location="deter-amz")</unit>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.42",month="9",year="2019",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2022",year="2019",month="9",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="176",year="2019",month="9",location="deter-amz",state="PA",city="Altamira")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="55",year="2019",month="9",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="30",year="2019",month="9",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="19",year="2019",month="9",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="3921",cause="CICATRIZ_DE_QUEIMADA",year="2019",month="9",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo dados de INSTITUTE_1 , em MONTH_1 de YEAR_1 , o desmatamento de LOCATION_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser de AREA_1 , representando uma variação de VARIATION_1 com relação ao mês anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    DT[gender=CITY_1,number=CITY_1] o NN[gender=CITY_1,number=CITY_1] município de CITY_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=CITY_1] ter destaque, com AREA_1 de desmatamento .
+                </sentence>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser UC_1 ( AREA_1 ) ; UC_2 ( AREA_2  ) ; e UC_3  ( AREA_3  )  .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território da Amazônia, CAUSE_1 , com AREA_1 , VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a causa de desmatamento mais recorrente .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular" >Setembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia Legal</reference>
+                    <reference tag="AREA_1" entity="6355.34" gender="male" number="plural" >6355.34 km²</reference>
+                    <reference tag="VARIATION_1" entity="0.42" gender="male" number="singular">42%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="2022" gender="male" number="plural" >2022 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular">Altamira</reference>
+                    <reference tag="AREA_1" entity="176" gender="male" number="plural" >176 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DE ALTAMIRA" gender="female" number="singular" >a FLORESTA NACIONAL DE ALTAMIRA (PA)</reference>
+                    <reference tag="UC_3" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular" >a RESERVA EXTRATIVISTA CHICO MENDES (AC)</reference>
+                    <reference tag="AREA_1" entity="55" gender="male" number="plural" >55 km²</reference>
+                    <reference tag="AREA_2" entity="30" gender="male" number="plural" >30 km²</reference>
+                    <reference tag="AREA_3" entity="19" gender="male" number="plural" >19 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="CICATRIZ_DE_QUEIMADA" gender="male" number="singular">a Cicatriz de Incêndio Florestal</reference>
+                    <reference tag="AREA_1" entity="3921" gender="male" number="plural">3921 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo dados do INPE, em Setembro de 2019, o desmatamento da Amazônia legal foi de 6355.34 km², representando uma variação de 42% com relação ao mês anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento foi o Pará (2022 km²).
+                </sentence>
+                <sentence>
+                    O município de Altamira(PA) teve destaque, com 176 km² de desmatamento.
+                </sentence>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento foram a FLORESTA NACIONAL DO JAMANXIM (PA) (55 km²); a FLORESTA NACIONAL DE ALTAMIRA (PA) (30 km²); e a RESERVA EXTRATIVISTA CHICO MENDES (AC) (19 km²)
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território da Amazônia, a Cicatriz de Incêndio Florestal, com 3921 km², foi a causa de desmatamento mais recorrente.
+                </sentence>
+            </paragraph>
+        </text>
+
+    </entry>
+    <entry date="2019-10-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="1635.71",year="2019",month="10",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="620",year="2019",month="10",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="10",location="deter-amz",state="PA",city="Altamira")</unit>
+            <unit>TOTAL_DEFORESTATION(area="14",year="2019",month="10",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",year="2019",month="10",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+            <unit>CAUSE(area="545",cause="DESMATAMENTO_CR",year="2019",month="10",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="1635.71",year="2019",month="10",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="620",year="2019",month="10",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="10",location="deter-amz",state="PA",city="Altamira")</unit>
+            <unit>TOTAL_DEFORESTATION(area="14",year="2019",month="10",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",year="2019",month="10",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+            <unit>CAUSE(area="545",cause="DESMATAMENTO_CR",year="2019",month="10",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1635.71",year="2019",month="10",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="620",year="2019",month="10",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="61",year="2019",month="10",location="deter-amz",state="PA",city="Altamira")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="14",year="2019",month="10",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="6",year="2019",month="10",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="545",cause="DESMATAMENTO_CR",year="2019",month="10",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 registrou desmatamento de AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior área desmatada no período VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 , com AREA_1 .
+                </sentence>
+                <sentence>
+                    Destaque para DT[gender=CITY_1,number=CITY_1] o NN[gender=CITY_1,number=CITY_1] município de CITY_1 , com AREA_1 de desmatamento .
+                </sentence>
+                <sentence>
+                    No âmbito de Unidades de Conservação , destaque para UC_1 ( AREA_1 ) , e UC_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa de desmatamento, no período, VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , com AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="1635.71" gender="male" number="plural" >1635.71 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="10" gender="male" number="singular" >Outubro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="620" gender="male" number="plural" >620 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular" >Altamira</reference>
+                    <reference tag="AREA_1" entity="61" gender="male" number="plural" >61 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DE SARACÁ-TAQUERA" gender="female" number="singular" >a FLORESTA NACIONAL DE SARACÁ-TAQUERA (PA)</reference>
+                    <reference tag="AREA_1" entity="14" gender="male" number="plural" >14 km²</reference>
+                    <reference tag="AREA_2" entity="6" gender="male" number="plural" >6 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular" >o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="545" gender="male" number="plural" >545 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE registrou desmatamento de 1635.71 km² na Amazônia legal, em Outubro de 2019.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior área desmatada no período foi o Pará, com 620 km².
+                </sentence>
+                <sentence>
+                    Destaque para o município de Altamira(PA), com 61 km² de desmatamento.
+                </sentence>
+                <sentence>
+                    No âmbito de Unidades de Conservação, destaque para a FLORESTA NACIONAL DO JAMANXIM (PA) (14 km²), e a FLORESTA NACIONAL DE SARACÁ-TAQUERA (PA) (6 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa de desmatamento, no período, foi o Desmatamento com Solo Exposto, com 545 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="1319.65",year="2019",month="11",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="673",year="2019",month="11",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="11",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2019",month="11",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",year="2019",month="11",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="1319.65",year="2019",month="11",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="673",year="2019",month="11",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="11",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2019",month="11",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",year="2019",month="11",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1319.65",year="2019",month="11",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="673",year="2019",month="11",location="deter-amz",state="PA")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="13",year="2019",month="11",location="deter-amz",state="PA",city="Altamira,Trairao,Itaituba",UC="FLORESTA NACIONAL DE ALTAMIRA")</unit>
+                     <unit>TOTAL_DEFORESTATION(area="4",year="2019",month="11",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",year="2019",month="11",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=passive,gender=male,person=3rd,number=plural] desmatar em MONTH_1 de YEAR_1 em LOCATION_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    No período, destacou-se STATE_1 , com área desmatada de AREA_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Unidades de Conservação com maior taxa de desmatamento foram UC_1 ( AREA_1 ); e UC_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Somando AREA_1 , CAUSE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a principal causa de desmatamento no território analisado.
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >a Amazônia legal</reference>
+                    <reference tag="AREA_1" entity="1319.65" gender="male" number="plural" >1319.65 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o estado do Pará</reference>
+                    <reference tag="AREA_1" entity="673" gender="male" number="plural" >673 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ALTAMIRA" gender="female" number="singular" > a FLORESTA NACIONAL DE ALTAMIRA (PA)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" > a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="AREA_1" entity="13" gender="male" number="plural" >13 km²</reference>
+                    <reference tag="AREA_2" entity="4" gender="male" number="plural" >4 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="549" gender="male" number="plural">549 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo o INPE , 1319.65 km² foram desmatados em Novembro de 2019 na Amazônia legal.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    No período, destacou-se o estado do Pará , com área desmatada de 673 km² .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Unidades de Conservação com maior taxa de desmatamento foram a FLORESTA NACIONAL DE ALTAMIRA (PA) (13 km²); e a FLORESTA NACIONAL DO JAMANXIM (PA) (4 km²) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Somando 549 km², o Desmatamento com Solo Expostos foi a principal causa de desmatamento no território analisado.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-12-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="290.32",year="2019",month="12",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="101",year="2019",month="12",location="deter-amz",state="MT")</unit>
+            <unit>TOTAL_DEFORESTATION(area="88",year="2019",month="12",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="43",year="2019",month="12",location="deter-amz",state="RO")</unit>
+            <unit>TOTAL_DEFORESTATION(area="27",year="2019",month="12",location="deter-amz",state="MT",city="Uniao do Sul")</unit>
+            <unit>TOTAL_DEFORESTATION(area="23",year="2019",month="12",location="deter-amz",state="AM",city="Labrea")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",year="2019",month="12",location="deter-amz",state="MT",city="Marcelandia")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="12",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",year="2019",month="12",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="290.32",year="2019",month="12",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="101",year="2019",month="12",location="deter-amz",state="MT")</unit>
+            <unit>TOTAL_DEFORESTATION(area="88",year="2019",month="12",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="43",year="2019",month="12",location="deter-amz",state="RO")</unit>
+            <unit>TOTAL_DEFORESTATION(area="27",year="2019",month="12",location="deter-amz",state="MT",city="Uniao do Sul")</unit>
+            <unit>TOTAL_DEFORESTATION(area="23",year="2019",month="12",location="deter-amz",state="AM",city="Labrea")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",year="2019",month="12",location="deter-amz",state="MT",city="Marcelandia")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="12",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",year="2019",month="12",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="290.32",year="2019",month="12",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="101",year="2019",month="12",location="deter-amz",state="MT")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="88",year="2019",month="12",location="deter-amz",state="PA")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="43",year="2019",month="12",location="deter-amz",state="RO")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="27",year="2019",month="12",location="deter-amz",state="MT",city="Uniao do Sul")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="23",year="2019",month="12",location="deter-amz",state="AM",city="Labrea")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="21",year="2019",month="12",location="deter-amz",state="MT",city="Marcelandia")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="8",year="2019",month="12",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",year="2019",month="12",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 apontou que VP[aspect=simple,tense=past,voice=passive,gender=male,person=3rd,number=plural] desmatar AREA_1 de LOCATION_1 em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    Dentre os que apresentaram maior taxa de desmatamento, destacaram-se STATE_1 - AREA_1  , STATE_2 - AREA_2  , e STATE_3 - AREA_3  ; e os municípios de CITY_1 - AREA_4 , CITY_2 - AREA_5 , e  CITY_3 - AREA_6 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A Unidade de Conservação com maior taxa de desmatamento foi UC_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De maneira geral, a causa de desmatamento mais frequente foi o CAUSE_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="290.32" gender="male" number="plural" >290.32 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" > a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="12" gender="male" number="singular">Dezembro</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="101" gender="male" number="plural" >101 km²</reference>
+                    <reference tag="STATE_2" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_2" entity="88" gender="male" number="plural" >88 km²</reference>
+                    <reference tag="STATE_3" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="AREA_3" entity="43" gender="male" number="plural" >43 km²</reference>
+                    <reference tag="CITY_1" entity="Uniao do Sul" gender="male" number="singular">União do Sul</reference>
+                    <reference tag="AREA_4" entity="27" gender="male" number="plural" >27 km²</reference>
+                    <reference tag="CITY_2" entity="Labrea" gender="male" number="singular">Lábrea</reference>
+                    <reference tag="AREA_5" entity="23" gender="male" number="plural" >23 km²</reference>
+                    <reference tag="CITY_3" entity="Marcelandia" gender="male" number="singular">Marcelândia</reference>
+                    <reference tag="AREA_6" entity="21" gender="male" number="plural" >21 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS" gender="female" number="singular" >a RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS (PA)</reference>
+                    <reference tag="AREA_1" entity="8" gender="male" number="plural" >8 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="183" gender="male" number="plural">183 km²</reference>
+                </sentence>
+            </paragraph>
+
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE apontou que foram desmatados 290.32 km² da Amazônia legal em Dezembro de 2019.
+                </sentence>
+                <sentence>
+                    Dentre os que apresentaram maior taxa de desmatamento, destacaram-se os estados de Mato Grosso - 101 km², Pará - 88 km², e Rondônia - 43 km²; e os municípios de União do Sul(MT) - 27 km², Lábrea(AM) - 23 km², e  Marcelândia(MT) - 21 km².
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A Unidade de Conservação com maior taxa de desmatamento foi a RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS (PA) (8 km²)
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De maneira geral, a causa de desmatamento mais frequente foi o Desmatamento com Solo Exposto (183 km²)
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-01-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="567.55",year="2020",month="1",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="167",year="2020",month="1",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="14",year="2020",month="1",location="deter-amz",state="PA",city="Faro")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2020",month="1",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",year="2020",month="1",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+            <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",year="2020",month="1",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="567.55",year="2020",month="1",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="167",year="2020",month="1",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="14",year="2020",month="1",location="deter-amz",state="PA",city="Faro")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",year="2020",month="1",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",year="2020",month="1",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+            <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",year="2020",month="1",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="567.55",year="2020",month="1",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="167",year="2020",month="1",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="14",year="2020",month="1",location="deter-amz",state="PA",city="Faro")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="16",year="2020",month="1",location="deter-amz",state="PA",city="Terra Santa,Oriximina,Faro",UC="FLORESTA NACIONAL DE SARACÁ-TAQUERA")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="6",year="2020",month="1",location="deter-amz",state="PA",city="Santarem",UC="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",year="2020",month="1",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 registrou desmatamento de AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    O estado com maior área desmatada no período VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    Destaque para CITY_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    No âmbito de Unidades de Conservação , destaque para UC_1 ( AREA_1 ) , e UC_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa de desmatamento, no período, VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , com AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="567.55" gender="male" number="plural" >567.55 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="1" gender="male" number="singular" >Janeiro</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular" >2020</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="167" gender="male" number="plural" >167 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Faro" gender="male" number="plural">Faro</reference>
+                    <reference tag="AREA_1" entity="14" gender="male" number="plural" >14 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE SARACÁ-TAQUERA" gender="female" number="singular" >a FLORESTA NACIONAL DE SARACÁ-TAQUERA (PA)</reference>
+                    <reference tag="UC_2" entity="RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS," gender="female" number="singular">a RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS (PA)</reference>
+                    <reference tag="AREA_1" entity="16" gender="male" number="plural">16 km²</reference>
+                    <reference tag="AREA_2" entity="6" gender="male" number="plural">6 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular" >o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="264" gender="male" number="plural" >264 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE registrou desmatamento de 567.55 km² na Amazônia legal, em Janeiro de 2020.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior área desmatada no período foi o Pará (167 km²).
+                </sentence>
+                <sentence>
+                    Destaque para Faro (14 km²).
+                </sentence>
+                <sentence>
+                    No âmbito de Unidades de Conservação, destaque para a FLORESTA NACIONAL DE SARACÁ-TAQUERA (PA) (16 km²), e a RESERVA EXTRATIVISTA TAPAJÓS-ARAPIUNS (PA) (6 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    A principal causa de desmatamento, no período, foi o Desmatamento com Solo Exposto, com 264 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-02-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="278.12",year="2020",month="2",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="56",year="2020",month="2",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="AM",city="Borba,Apui",UC="PARQUE NACIONAL DO ACARI")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",year="2020",month="2",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="278.12",year="2020",month="2",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="56",year="2020",month="2",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="AM",city="Borba,Apui",UC="PARQUE NACIONAL DO ACARI")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",year="2020",month="2",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                     <unit>TOTAL_DEFORESTATION(area="278.12",year="2020",month="2",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="56",year="2020",month="2",location="deter-amz",state="PA")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="AM",city="Borba,Apui",UC="PARQUE NACIONAL DO ACARI")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="1",year="2020",month="2",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",year="2020",month="2",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo dados de INSTITUTE_1 , o desmatamento de LOCATION_1 foi de AREA_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    Neste período , o principal foco de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ocorrer no estado de STATE_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Áreas Protegidas com taxas de desmatamento mais elevadas foram UC_1 ( AREA_1 ) e UC_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral,a principal causa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser CAUSE_1 , que somou AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" > a Amazônia legal</reference>
+                    <reference tag="AREA_1" entity="278.12" gender="male" number="plural" >278.12 km²</reference>
+                    <reference tag="MONTH_1" entity="1" gender="male" number="singular">Fevereiro</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">o Pará</reference>
+                    <reference tag="AREA_1" entity="56" gender="male" number="plural">56 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="PARQUE NACIONAL DO ACARI" gender="female" number="singular" >o PARQUE NACIONAL DO ACARI (AM)</reference>
+                    <reference tag="AREA_1" entity="1" gender="male" number="plural" >1 km²</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="AREA_2" entity="1" gender="male" number="plural" >1 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular"> o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="180" gender="male" number="plural">180 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo dados do INPE, o desmatamento da Amazônia legal foi de 278.12 km², em Fevereiro de 2020.
+                </sentence>
+                <sentence>
+                    Neste período, o principal foco de desmatamento ocorreu no estado do Pará (56 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    As Áreas Protegidas com taxas de desmatamento mais elevadas foram PARQUE NACIONAL DO ACARI (AM) (1 km²) e FLORESTA NACIONAL DO JAMANXIM (PA) (1 km²)
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    De forma geral, a principal causa de desmatamento foi o Desmatamento com Solo Exposto, que somou 180 km².
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="357.48",year="2020",month="3",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.29",month="3",year="2020",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="127",year="2020",month="3",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",year="2020",month="3",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="357.48",year="2020",month="3",location="deter-amz")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.29",month="3",year="2020",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="127",year="2020",month="3",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+            <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",year="2020",month="3",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="357.48",year="2020",month="3",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(variation="0.29",month="3",year="2020",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="127",year="2020",month="3",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="AC",city="Brasileia,Assis Brasil,Rio Branco,Epitaciolandia,Xapuri,Capixaba,Sena Madureira",UC="RESERVA EXTRATIVISTA CHICO MENDES")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="3",year="2020",month="3",location="deter-amz",state="PA",city="Trairao,Jacareacanga,Itaituba",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",year="2020",month="3",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                   INSTITUTE_1 relatou um desmatamento de AREA_1 em LOCATION_1 , em MONTH_1 de YEAR_1 .
+                </sentence>
+                <sentence>
+                    Estes dados apontam uma variação de VARIATION_1 se comparados ao mês anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    No período , as Unidades de Conservação com recorde de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser UC_1 ( AREA_1 ) ; UC_2 ( AREA_2 ) ; e UC_3 ( AREA_3 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território ,  CAUSE_1 , com AREA_1 , VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a causa de desmatamento mais recorrente .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="AREA_1" entity="357.48" gender="male" number="plural">357.48 km²</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia legal</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">Março</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="0.29" gender="female" number="singular">29%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o Pará</reference>
+                    <reference tag="AREA_1" entity="127" gender="male" number="plural" >127 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES (AC)</reference>
+                    <reference tag="UC_2" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_3" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA)</reference>
+                    <reference tag="AREA_1" entity="3" gender="male" number="plural">3 km²</reference>
+                    <reference tag="AREA_2" entity="3" gender="male" number="plural">3 km²</reference>
+                    <reference tag="AREA_3" entity="3" gender="male" number="plural">3 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="317" gender="male" number="plural">317 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    O INPE relatou um desmatamento de 357.48 km² na Amazônia legal, em Março de 2020.
+                </sentence>
+                <sentence>
+                    Estes dados apontam uma variação de 29% se comparados ao mês anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento foi o estado do Pará (127 km²).
+                </sentence>
+                <sentence>
+                    No período, as Unidades de Conservação com recorde de desmatamento foram a RESERVA EXTRATIVISTA CHICO MENDES (AC) (3 km²); a FLORESTA NACIONAL DO JAMANXIM (PA) (3 km²); e a ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS (PA) (3 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território,  o Desmatamento com Solo Exposto,com 317 km², foi a causa de desmatamento mais recorrente.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="240.16",year="2020",month="4",location="deter-amz")</unit>
+            <unit>12_MONTH_VARIATION_DEFORESTATION(variation="0.7802816901408449",month="4",year="2020",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="40",year="2020",month="4",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="9",year="2020",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="5",year="2020",month="4",location="deter-amz",state="PA",city="Jacareacanga")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Trairao,Itaituba",UC="PARQUE NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="191",cause="DESMATAMENTO_CR",year="2020",month="4",location="deter-amz")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="240.16",year="2020",month="4",location="deter-amz")</unit>
+            <unit>12_MONTH_VARIATION_DEFORESTATION(variation="0.7802816901408449",month="4",year="2020",location="deter-amz")</unit>
+            <unit>TOTAL_DEFORESTATION(area="40",year="2020",month="4",location="deter-amz",state="PA")</unit>
+            <unit>TOTAL_DEFORESTATION(area="9",year="2020",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+            <unit>TOTAL_DEFORESTATION(area="5",year="2020",month="4",location="deter-amz",state="PA",city="Jacareacanga")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+            <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Trairao,Itaituba",UC="PARQUE NACIONAL DO JAMANXIM")</unit>
+            <unit>CAUSE(area="191",cause="DESMATAMENTO_CR",year="2020",month="4",location="deter-amz")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="240.16",year="2020",month="4",location="deter-amz")</unit>
+                </sentence>
+                <sentence>
+                    <unit>12_MONTH_VARIATION_DEFORESTATION(variation="0.7802816901408449",month="4",year="2020",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="40",year="2020",month="4",location="deter-amz",state="PA")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="9",year="2020",month="4",location="deter-amz",state="PA",city="Itaituba")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="5",year="2020",month="4",location="deter-amz",state="PA",city="Jacareacanga")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Novo Progresso",UC="FLORESTA NACIONAL DO JAMANXIM")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="4",year="2020",month="4",location="deter-amz",state="PA",city="Trairao,Itaituba",UC="PARQUE NACIONAL DO JAMANXIM")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="191",cause="DESMATAMENTO_CR",year="2020",month="4",location="deter-amz")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Segundo dados de INSTITUTE_1 , em MONTH_1 de YEAR_1 , o desmatamento de LOCATION_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser de AREA_1 .
+                </sentence>
+                <sentence>
+                    Estes dados representam uma variação de VARIATION_1 com relação ao mesmo mês no ano anterior .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser STATE_1 ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    Destaque para os municípios de CITY_1 ( AREA_1 ) e CITY_2 ( AREA_2 ) .
+                </sentence>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento VP[aspect=simple,tense=past,voice=active,person=3rd,number=plural] ser UC_1 ( AREA_1 ) ; e UC_2 ( AREA_2  ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território , CAUSE_1 , com AREA_1 , VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] ser a principal causa de desmatamento .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o INPE</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular" >Abril</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular" >2020</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">a Amazônia Legal</reference>
+                    <reference tag="AREA_1" entity="6355.34" gender="male" number="plural" >240.16 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="0.7802816901408449" gender="male" number="singular">78%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >o estado do Pará</reference>
+                    <reference tag="AREA_1" entity="40" gender="male" number="plural" >40 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Itaituba" gender="male" number="singular">Itaituba</reference>
+                    <reference tag="AREA_1" entity="9" gender="male" number="plural" >9 km²</reference>
+                    <reference tag="CITY_2" entity="Jacareacanga" gender="male" number="singular">Jacareacanga</reference>
+                    <reference tag="AREA_2" entity="5" gender="male" number="plural" >5 km²</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >a FLORESTA NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="UC_2" entity="PARQUE NACIONAL DO JAMANXIM" gender="male" number="singular" >o PARQUE NACIONAL DO JAMANXIM (PA)</reference>
+                    <reference tag="AREA_1" entity="4" gender="male" number="plural" >4 km²</reference>
+                    <reference tag="AREA_2" entity="30" gender="male" number="plural" >4 km²</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">o Desmatamento com Solo Exposto</reference>
+                    <reference tag="AREA_1" entity="191" gender="male" number="plural">191 km²</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Segundo dados do INPE, em Abril de 2020, o desmatamento da Amazônia legal foi de 240.16 km².
+                </sentence>
+                <sentence>
+                    Estes dados representam uma variação de 78% com relação ao mesmo mês no ano anterior.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    O estado com maior taxa de desmatamento foi o estado do Pará (40 km²),
+                </sentence>
+                <sentence>
+                    Destaque para os municípios de Itaituba (9 km²) e Jacareacanga (5 km²).
+                </sentence>
+                <sentence>
+                    As Áreas Protegidas com maior taxa de desmatamento foram a FLORESTA NACIONAL DO JAMANXIM (PA) (4 km²); e o PARQUE NACIONAL DO JAMANXIM (PA) (4 km²).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Em todo o território, a Desmatamento com Solo Exposto, com 191 km², foi a principal causa de desmatamento.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+</entries>
