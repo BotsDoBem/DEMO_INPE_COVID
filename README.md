@@ -1,6 +1,6 @@
 # Towards Fully Automated News Reporting in Brazilian Portuguese
 
-This repo contains the code of the twitter robot-journalists [@CoronaReporter](https://twitter.com/CoronaReporter) and [@DaMataReporter](https://twitter.com/DaMataReporter) described at the ENIAC 2020 paper entitled *"Towards Fully Automated News Reporting in Brazilian Portuguese"*.
+This repo contains the code of the twitter robot-journalists [@CoronaReporter](https://twitter.com/CoronaReporter) and [@DaMataReporter](https://twitter.com/DaMataReporter) described at the ENIAC 2020 paper entitled *"[Towards Fully Automated News Reporting in Brazilian Portuguese](https://doi.org/10.5753/eniac.2020.12158)"*.
 
 # Requirements
 
