@@ -1,6 +1,17 @@
-# Towards Fully Automated News Reporting in Brazilian Portuguese
+This repository contains code and corpora for the twitter robot-journalists [@DaMataNews](https://twitter.com/DaMataNews), [@DaMataReporter](https://twitter.com/DaMataReporter) and [@CoronaReporter](https://twitter.com/CoronaReporter). This work was described in the following articles:
 
-This repo contains the code of the twitter robot-journalists [@CoronaReporter](https://twitter.com/CoronaReporter) and [@DaMataReporter](https://twitter.com/DaMataReporter) described at the ENIAC 2020 paper entitled *"[Towards Fully Automated News Reporting in Brazilian Portuguese](https://doi.org/10.5753/eniac.2020.12158)"*.
+## DaMata: A Robot-Journalist Covering the Brazilian Amazon Deforestation
+_INLG 2020 -  13th International Conference on Natural Language Generation_
+
+URL: https://www.aclweb.org/anthology/2020.inlg-1.15
+
+
+## Towards Fully Automated News Reporting in Brazilian Portuguese
+_ENIAC 2020 - XVII Encontro Nacional de Inteligência Artificial e Computacional_
+
+DOI: https://doi.org/10.5753/eniac.2020.12158
+
+
 
 # Requirements
 
