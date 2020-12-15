@@ -7,7 +7,8 @@ import nlg.contractions as contractions
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 
 class Realization:
-    def __init__(self, lexicon_path):
+    def __init__(self, lexicon_path, language='pt-br'):
+        self.language= language
         self.adjectives = json.load(open(os.path.join(lexicon_path, 'adjectives.json')))
         self.determiners = json.load(open(os.path.join(lexicon_path, 'determiners.json')))
         self.nouns = json.load(open(os.path.join(lexicon_path, 'nouns.json')))
@@ -17,10 +18,6 @@ class Realization:
 
 
     def generate(self, text):
-        assert self.verbs
-        assert self.adjectives
-        assert self.nouns
-        assert self.determiners
         new_text, i = [], 0
         while i < len(text):
             token = text[i]
@@ -64,8 +61,12 @@ class Realization:
             for j, sentence in enumerate(paragraph):
                 snt = self.detokenizer.detokenize(self.generate(sentence.split()))
                 snt = snt[0].upper() + snt[1:]
-                paragraphs[i][j] = contractions.realize(snt).replace(' )', ')').replace(' ,', ',').replace(' .', '.')
-                text += snt
+                if self.language == 'pt-br':
+                    snttext = contractions.realize(snt)
+                else:
+                    snttext = snt
+                paragraphs[i][j] = snttext.replace(' )', ')').replace(' ,', ',').replace(' .', '.')
+                text += snttext
                 text += ' '
             text = text.strip() + '\n\n'
         return paragraphs

@@ -1,0 +1,1619 @@
+<?xml version="1.0" ?>
+<entries>
+    <entry date="2019-6-01">
+        <meaning>
+            <unit>CAUSE(area="835",cause="DESMATAMENTO_CR",location="deter-amz",month="6",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",city="Novo Progresso",location="deter-amz",month="6",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="454",location="deter-amz",month="6",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="914",location="deter-amz",month="6",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="95",city="Altamira",location="deter-amz",month="6",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="914",location="deter-amz",month="6",year="2019")</unit>
+            <unit>CAUSE(area="835",cause="DESMATAMENTO_CR",location="deter-amz",month="6",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="454",location="deter-amz",month="6",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="95",city="Altamira",location="deter-amz",month="6",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12",city="Novo Progresso",location="deter-amz",month="6",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="914",location="deter-amz",month="6",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="835",cause="DESMATAMENTO_CR",location="deter-amz",month="6",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="454",location="deter-amz",month="6",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="95",city="Altamira",location="deter-amz",month="6",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="12",city="Novo Progresso",location="deter-amz",month="6",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    In MONTH_1 YEAR_1 , AREA_1 of the LOCATION_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1] deforest , according to data from INSTITUTE_1 .
+                </sentence>
+                <sentence>
+                    The main cause of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state with the most deforestation in the month was STATE_1 ( AREA_1 ) , and the most devastated municipality was CITY_1 / STATE_2 , where deforestation amounted to AREA_2 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most devastated Nature Protected Area in the month was UC_1 in STATE_1 , where deforestation amounted to AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">June</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="AREA_1" entity="914" gender="male" number="plural">914 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which leaves the soil clear of any vegetation</reference>
+                    <reference tag="AREA_1" entity="835" gender="male" number="plural">835 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="454" gender="male" number="plural">454 sq km</reference>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular">Altamira</reference>
+                    <reference tag="STATE_2" entity="PA" gender="male" number="singular">PA</reference>
+                    <reference tag="AREA_2" entity="95" gender="male" number="plural">95 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="12" gender="male" number="plural">12 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    In June 2019, 914 sq km of the Legal Amazon were deforested, according to data from the National Institute for Space Research (INPE).
+                </sentence>
+                <sentence>
+                    The main cause of deforestation was clear-cut deforestation, which leaves the soil clear of any vegetation, responsible for 835 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state with the most deforestation in the month was Pará (454 sq km), and the most devastated municipality was Altamira/Pará, where deforestation amounted to 95 sq km.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most devastated Nature Protected Area  in the month was the JAMANXIM NATIONAL FOREST in Pará, where deforestation amounted to 12 sq km.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-7-01">
+        <meaning>
+            <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",location="deter-amz",month="7",year="2019")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="7",variation="1.47",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="15",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="7",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="178",city="Altamira",location="deter-amz",month="7",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2255",location="deter-amz",month="7",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="891",location="deter-amz",month="7",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="2255",location="deter-amz",month="7",year="2019")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="7",variation="1.47",year="2019")</unit>
+            <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",location="deter-amz",month="7",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="178",city="Altamira",location="deter-amz",month="7",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="891",location="deter-amz",month="7",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="15",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="7",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2255",location="deter-amz",month="7",year="2019")</unit>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="7",variation="1.47",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="2005",cause="DESMATAMENTO_CR",location="deter-amz",month="7",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="178",city="Altamira",location="deter-amz",month="7",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="891",location="deter-amz",month="7",state="PA",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="15",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="7",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 estimated that the deforestation of LOCATION_1 amounted to AREA_1 in MONTH_1 YEAR_1 ,
+                    which represents an increase of VARIATION_1 compared to the previous month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Amounting to AREA_1 , the main cause of land degradation was CAUSE_1 ,
+                    which removes all vegetation of the soil .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested municipality in the month was CITY_1 ( AREA_1 ) , in the state of STATE_1 , and the most affected state overall was STATE_2 ( AREA_2 ) .
+                </sentence>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was UC_1 , in STATE_1 , where AREA_1 of land were cut down .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">The National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="2255" gender="male" number="plural">2255 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="VARIATION_1" entity="1.47" gender="male" number="singular">147%</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="AREA_1" entity="2005" gender="male" number="plural">2005 sq km</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which removes all vegetetation of the soil</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular">Altamira</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="178" gender="male" number="plural">178 sq km</reference>
+                    <reference tag="STATE_2" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_2" entity="15" gender="male" number="plural">891 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">the TAPAJÓS ENVIRONMENTAL PROTECTION AREA</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">the state of Pará</reference>
+                    <reference tag="AREA_1" entity="15" gender="male" number="plural">15 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) estimated that the deforestation of the Legal Amazon
+                    amounted to 2255 sq km in July 2019, which represents an increase of 147% compared to the previous month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Amounting to 2005 sq km, the main cause of land degradation was clear-cut deforestation,
+                    which removes all vegetation of the soil.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested municipality in the month was Altamira(178 sq km), in the state of Pará, and the most affected state overall was Pará (891 sq km).
+                </sentence>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the TAPAJÓS ENVIRONMENTAL PROTECTION AREA, in the state of Pará, where 15 sq km of land were cut down.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-8-01">
+        <meaning>
+            <unit>CAUSE(area="1671",cause="DESMATAMENTO_CR",location="deter-amz",month="8",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="154",city="Sao Felix do Xingu",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1707",location="deter-amz",month="8",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="22",city="Novo Progresso",location="deter-amz",month="8",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="820",location="deter-amz",month="8",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="1707",location="deter-amz",month="8",year="2019")</unit>
+            <unit>CAUSE(area="1671",cause="DESMATAMENTO_CR",location="deter-amz",month="8",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="820",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="154",city="Sao Felix do Xingu",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="22",city="Novo Progresso",location="deter-amz",month="8",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1707",location="deter-amz",month="8",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="1671",cause="DESMATAMENTO_CR",location="deter-amz",month="8",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="820",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="154",city="Sao Felix do Xingu",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="22",city="Novo Progresso",location="deter-amz",month="8",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Deforestation amounted to AREA_1 in LOCATION_1 in MONTH_1 YEAR_1 , according to data from INSTITUTE_1 .
+                </sentence>
+                <sentence>
+                    The main cause of destruction of the Amazon in the month ( AREA_1 ) was CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state that had the most deforestation in the month was STATE_1 , amounting to AREA_1  of devasted area .
+                </sentence>
+                <sentence>
+                    CITY_1 , in the state of STATE_1 was the most affected municipality , where AREA_1
+                    VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural] deforest .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    UC_1 , in the state of STATE_1 , was the most devastated Nature Protected Area in MONTH_1 , where deforestation amounted to AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="AREA_1" entity="1707" gender="male" number="plural">1707 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="1671" gender="male" number="plural">1671 sq km</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">the deforestation that clears all vegetation of the soil, called clear-cut deforestation</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="820" gender="male" number="plural">820 sq km</reference>
+                </sentence>
+                 <sentence>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">São Felix do Xingu</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="154" gender="male" number="plural">154 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">The JAMANXIN NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    <reference tag="AREA_1" entity="22" gender="male" number="plural">22 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Deforestation amounted to 1707 sq km in the Legal Amazon in August 2019, according to data from the National Institute for Space Research (INPE).
+                </sentence>
+                <sentence>
+                    The main cause of destruction of the Amazon in the month (1671 sq km) was the deforestation that clears all vegetation of the soil, called clear-cut deforestation.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state that had the most deforestation in the month was Pará, amounting to 820 sq km of devasted area.
+                </sentence>
+                <sentence>
+                    São Felix do Xingu, in the state of Pará,  was the most affected municipality, where 154 sq km were deforested.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The JAMANXIN NATIONAL FOREST in the state of Pará was the most devastated Nature Protected Area in August, where deforestation amounted to 22 sq km.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-9-01">
+        <meaning>
+            <unit>CAUSE(area="1434",cause="DESMATAMENTO_CR",location="deter-amz",month="9",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="102",city="Porto Velho",location="deter-amz",month="9",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1451",location="deter-amz",month="9",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",city="Assis Brasil,Brasileia,Xapuri,Epitaciolandia,Rio Branco,Sena Madureira,Capixaba",location="deter-amz",month="9",state="AC",UC="RESERVA EXTRATIVISTA CHICO MENDES",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="500",location="deter-amz",month="9",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="1451",location="deter-amz",month="9",year="2019")</unit>
+            <unit>CAUSE(area="1434",cause="DESMATAMENTO_CR",location="deter-amz",month="9",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="500",location="deter-amz",month="9",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="102",city="Porto Velho",location="deter-amz",month="9",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",city="Assis Brasil,Brasileia,Xapuri,Epitaciolandia,Rio Branco,Sena Madureira,Capixaba",location="deter-amz",month="9",state="AC",UC="RESERVA EXTRATIVISTA CHICO MENDES",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1451",location="deter-amz",month="9",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="1434",cause="DESMATAMENTO_CR",location="deter-amz",month="9",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="500",location="deter-amz",month="9",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="102",city="Porto Velho",location="deter-amz",month="9",state="RO",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="16",city="Assis Brasil,Brasileia,Xapuri,Epitaciolandia,Rio Branco,Sena Madureira,Capixaba",location="deter-amz",month="9",state="AC",UC="RESERVA EXTRATIVISTA CHICO MENDES",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 estimated that deforestation of the Legal Amazon amounted to AREA_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    Most of the deforested area ( AREA_1 ) was a result of CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state of STATE_1 , where deforestation amounted to AREA_1 , was the most affected in MONTH_1 , and CITY_1 , state of STATE_2 , was the municipality with the most deforestation ( AREA_1 ) in the same period .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most affected Nature Protected Area in the month was UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be lost .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">The National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1451" gender="male" number="plural">1451 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">September</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="1434" gender="male" number="plural">1434 sq km</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which removes all vegetation coverage from the soil</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">September</reference>
+                    <reference tag="AREA_1" entity="500" gender="male" number="plural">500 sq km</reference>
+                    <reference tag="CITY_1" entity="Porto Velho" gender="male" number="singular">Porto Velho</reference>
+                    <reference tag="STATE_2" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="AREA_2" entity="102" gender="male" number="plural">102 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="sigular">the CHICO MENDES  EXTRACTIVIST RESERVE</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">Acre</reference>
+                    <reference tag="AREA_1" entity="16" gender="male" number="plural">16 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) estimated that deforestation of the Legal Amazon amounted to 1451 sq km in September 2019.
+                </sentence>
+                <sentence>
+                    Most of the deforested area (1434 sq km) was a result of clear-cutting, which removes all vegetation coverage from the soil.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The state of Pará was the most affected in September, where deforestation amounted to 500 sq km, and Porto Velho, state of Rondônia, was the municipality with the most deforestation (102 sq km) in the same period.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most affected Nature Protected Area in the month was the CHICO MENDES  EXTRACTIVIST RESERVE / Acre, where 16 sq km of forest were lost.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-10-01">
+        <meaning>
+            <unit>TOTAL_DEFORESTATION(area="286",location="deter-amz",month="10",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="10",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="48",city="Portel",location="deter-amz",month="10",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="555",location="deter-amz",month="10",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="555",location="deter-amz",month="10",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="286",location="deter-amz",month="10",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="48",city="Portel",location="deter-amz",month="10",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="10",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="555",location="deter-amz",month="10",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="286",location="deter-amz",month="10",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="48",city="Portel",location="deter-amz",month="10",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="10",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 detected AREA_1 of forest clearing in LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    The most affected state and municipality were respectively STATE_1 ( AREA_1 ) and CITY_1 , in the state of STATE_2 ( AREA_2 ) .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most affected Nature Protected Area in October was UC_1 ( in the state of STATE_1 ) , where devastation amounted to AREA_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">The National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="555" gender="male" number="plural">555 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="10" gender="male" number="singular">October</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="286" gender="male" number="plural">286 sq km</reference>
+                    <reference tag="CITY_1" entity="Portel" gender="male" number="singular">Portel</reference>
+                    <reference tag="STATE_2" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_2" entity="48" gender="male" number="plural">48 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="MONTH_1" entity="10" gender="male" number="singular">October</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="3" gender="male" number="plural">3 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) detected 555 sq km of forest clearing in the Legal Amazon in October 2019.
+                </sentence>
+                <sentence>
+                    The most affected state and municipality were respectively the state of Pará (286 sq km) and Portel, in the state of Pará (48 sq km).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most affected Nature Protected Area in October was the JAMANXIM NATIONAL FOREST (in the state of Pará), where devastation amounted to 3 sq km.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-01">
+        <meaning>
+            <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",location="deter-amz",month="11",year="2019")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="11",variation="0.02",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="11",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="343",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="563",location="deter-amz",month="11",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="11",variation="0.02",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="563",location="deter-amz",month="11",year="2019")</unit>
+            <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",location="deter-amz",month="11",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="343",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="11",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="11",variation="0.02",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="563",location="deter-amz",month="11",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(area="549",cause="DESMATAMENTO_CR",location="deter-amz",month="11",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="31",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="343",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="11",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 estimated that deforestation amounted to AREA_1 in LOCATION_1 in MONTH_1 YEAR_1 ,
+                    an increase of VARIATION_1 in deforestation rate compared to the previous month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Responsible for AREA_1 of deforested area , the main cause of destruction was CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested municipality was CITY_1 ( AREA_1 ) , state of STATE_1 , and the most affected state was STATE_2 ( AREA_2 ) .
+                </sentence>
+                <sentence>
+                    UC_1 , in the state of STATE_1 , where deforestation amounted to AREA_1 , was the most affected Nature Protected Area in August .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">The National Institute for Space Research (INPE)</reference>
+                    <reference tag="VARIATION_1" entity="0.02" gender="male" number="singular">2%</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="AREA_1" entity="563" gender="male" number="plural">563 sq km</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="AREA_1" entity="549" gender="male" number="plural">549 sq km</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which leaves the soil without any vegetation coverage</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">São Félix do Xingu</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="31" gender="male" number="plural">31 sq km</reference>
+                    <reference tag="STATE_2" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_2" entity="343" gender="male" number="plural">343 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="3" gender="male" number="plural">3 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">The  JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) estimated that deforestation amounted to 563 sq km in the Legal Amazon in November 2019, an increase of 2% in deforestation rate compared to the previous month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Responsible for 549 sq km of deforested area, the main cause of destruction was clear-cutting, which removes all vegetation coverage from the soil.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested municipality was São Félix do Xingu (31 sq km), state of Pará, and the most affected state was Pará (343 sq km).
+                </sentence>
+                <sentence>
+                    The  JAMANXIM NATIONAL FOREST, in the state of Pará, where deforestation amounted to 3 sq km, was the most affected Nature Protected Area in August
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-12-01">
+        <meaning>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="183",cause="DESMATAMENTO_CR",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    According to INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out of LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the state with the highest deforestation rate ( AREA_1 ) in the observation period.
+                </sentence>
+                <sentence>
+                    CITY_1 ( STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was UC_1 , state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="190" gender="male" number="plural" >190 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="12" gender="male" number="singular">December</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which removes all vegetation</reference>
+                    <reference tag="AREA_1" entity="183" gender="male" number="plural">183 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="76" gender="male" number="plural">76 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Marcelandia" gender="male" number="singular">Marcelândia</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
+                    <reference tag="AREA_1" entity="21" gender="male" number="plural">21 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">PA</reference>
+                    <reference tag="AREA_1" entity="1" gender="male" number="plural">1 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    According to the National Institute for Space Research (INPE), 190 sq km were chopped out of the Legal Amazon in December 2019.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which removes all vegetation, responsible for 183 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Mato Grosso was the state with the highest deforestation rate (76 sq km) in the observation period.
+                </sentence>
+                <sentence>
+                    Marcelândia  was the most deforested municipality (21 sq km) in the month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the JAMANXIM NATIONAL FOREST/PA, where 1 sq km of forest was chopped out.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-12-01">
+        <meaning>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_VEG",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>CAUSE(area="183",cause="DESMATAMENTO_VEG",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="183",cause="DESMATAMENTO_VEG",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    According to INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out of LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the state with the highest deforestation rates ( AREA_1 ) in the observation period .
+                </sentence>
+                <sentence>
+                    CITY_1 (in the state of STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="190" gender="male" number="plural" >190 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="12" gender="male" number="singular">December</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">deforestation with vegetation, which partially removes the vegetation from the soil,</reference>
+                    <reference tag="AREA_1" entity="183" gender="male" number="plural">183 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="76" gender="male" number="plural">76 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Marcelandia" gender="male" number="singular">Marcelândia</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="21" gender="male" number="plural">21 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular" >the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="1" gender="male" number="plural">1 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    According to the National Institute for Space Research (INPE), 190 sq km were chopped out of the Legal Amazon in December 2019.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was deforestation with vegetation, which partially removes the vegetation from the soil, responsible for 183 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Mato Grosso was the state with the highest deforestation rates (76 sq km) in the observation period.
+                </sentence>
+                <sentence>
+                    Marcelândia (in the state of Mato Grosso) was the most deforested municipality (21 sq km) in the month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the JAMANXIM NATIONAL FOREST, in the state of Pará, where 1 sq km of forest was chopped out.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-12-01">
+        <meaning>
+            <unit>CAUSE(area="183",cause="MINERACAO",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+            <unit>CAUSE(area="183",cause="MINERACAO",location="deter-amz",month="12",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="190",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="183",cause="MINERACAO",location="deter-amz",month="12",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="76",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="21",city="Marcelandia",location="deter-amz",month="12",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="12",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    According to INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out of LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the state with the highest deforestation rates ( AREA_1 ) in the observation period .
+                </sentence>
+                <sentence>
+                    CITY_1 ( in the state of STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="190" gender="male" number="plural" >190 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="12" gender="male" number="singular">December</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="male" number="singular">mining</reference>
+                    <reference tag="AREA_1" entity="183" gender="male" number="plural">183 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="76" gender="male" number="plural">76 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Marcelandia" gender="male" number="singular">Marcelândia</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="21" gender="male" number="plural">21 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="1" gender="male" number="plural">1 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    According to the National Institute for Space Research (INPE), 190 sq km were chopped out of the Legal Amazon in December 2019.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was mining, responsible for 183 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Mato Grosso was the state with the highest deforestation rates (76 sq km) in the observation period.
+                </sentence>
+                <sentence>
+                    Marcelândia (in the state of Mato Grosso) was the most deforested municipality (21 sq km) in the month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the JAMANXIM NATIONAL FOREST, in the state of Pará, where 1 sq km of forest was chopped out.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-1-01">
+        <meaning>
+            <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",location="deter-amz",month="1",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="1",variation="0.5",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="124",location="deter-amz",month="1",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="1",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="26",city="Paranatinga",location="deter-amz",month="1",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="284",location="deter-amz",month="1",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="284",location="deter-amz",month="1",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="1",variation="0.5",year="2020")</unit>
+            <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",location="deter-amz",month="1",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="124",location="deter-amz",month="1",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="26",city="Paranatinga",location="deter-amz",month="1",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="1",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="284",location="deter-amz",month="1",year="2020")</unit>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="1",variation="0.5",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="264",cause="DESMATAMENTO_CR",location="deter-amz",month="1",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="124",location="deter-amz",month="1",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="26",city="Paranatinga",location="deter-amz",month="1",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2",city="Jacareacanga,Itaituba,Trairao",location="deter-amz",month="1",state="PA",UC="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 says that AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared across LOCATION_1 in MONTH_1 , YEAR_1 , which is a VARIATION_1 increase from the previous month .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+                <sentence>
+                    The most deforested state was STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped of .
+                </sentence>
+                <sentence>
+                    The most affected city was CITY_1 , in the state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .
+                </sentence>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was UC_1 , in the state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >INPE</reference>
+                    <reference tag="MONTH_1" entity="1" gender="male" number="singular">January</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="AREA_1" entity="284" gender="male" number="plural" >284 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="VARIATION_1" entity="0.5" gender="female" number="singular">50%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation,  which leaves the soil clear of vegetation</reference>
+                    <reference tag="AREA_1" entity="264" gender="male" number="plural">264 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="124" gender="male" number="plural">124 square kilometers</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Paranatinga" gender="male" number="singular">Paranatinga</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="26" gender="male" number="plural">26 square kilometers</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular">the TAPAJÓS ENVIRONMENTAL PROTECTION AREA</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="2" gender="male" number="plural">2 square kilometers</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    INPE says that 284 sq km of forest were cleared across the Legal Amazon in January, 2020, which is a 50% increase from the previous month.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation,  which leaves the soil clear of vegetation, responsible for 264 sq km of deforested area.
+                </sentence>
+                <sentence>
+                    The most deforested state was Mato Grosso, where 124 square kilometers of forest were chopped of.
+                </sentence>
+                <sentence>
+                    The most affected city was Paranatinga, in the state of Mato Grosso, where 26 square kilometers of land were deforested.
+                </sentence>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the TAPAJÓS ENVIRONMENTAL PROTECTION AREA, in the state of Pará, where 2 square kilometers of land were deforested.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-2-01">
+        <meaning>
+            <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",location="deter-amz",month="2",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="2",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="186",location="deter-amz",month="2",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="37",city="Marcelandia",location="deter-amz",month="2",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75",location="deter-amz",month="2",state="MT",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="186",location="deter-amz",month="2",year="2020")</unit>
+            <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",location="deter-amz",month="2",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75",location="deter-amz",month="2",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="37",city="Marcelandia",location="deter-amz",month="2",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="2",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="186",location="deter-amz",month="2",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="180",cause="DESMATAMENTO_CR",location="deter-amz",month="2",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="75",location="deter-amz",month="2",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="37",city="Marcelandia",location="deter-amz",month="2",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1",city="Novo Progresso",location="deter-amz",month="2",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    An area of approximately AREA_1 was deforested in LOCATION_1 , in MONTH_1 YEAR_1 , according to INSTITUTE_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the most affected state , where AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .
+                </sentence>
+                <sentence>
+                    CITY_1 ( in the state of STATE_1 ) , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out , ranked the worst in terms of deforestation .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="AREA_1" entity="186" gender="male" number="singular" >186 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="2" gender="male" number="singular">February</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which leaves the land clear of vegetation</reference>
+                    <reference tag="AREA_1" entity="264" gender="male" number="plural">180 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="75" gender="male" number="plural">75 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Marcelandia" gender="male" number="singular">Marcelândia</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="37" gender="male" number="plural">37 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="1" gender="male" number="plural">1 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    An area of approximately 186 sq km was deforested in the legal Amazon, in February 2020, according to the National Institute for Space Research (INPE).
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation, which leaves the land clear of vegetation, responsible for 180 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Mato Grosso was the most affected state, where 75 sq km were deforested.
+                </sentence>
+                <sentence>
+                    Marcelandia (in the state of Mato Grosso), where 37 sq km of forest were chopped out, ranked the worst in terms of deforestation.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where there was the most deforestation was the JAMANXIM NATIONAL FOREST, in the state of Pará, where 1 sq km of forest was chopped out.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-3-01">
+        <meaning>
+            <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",location="deter-amz",month="3",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="3",variation="0.76",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="122",location="deter-amz",month="3",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="3",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="326",location="deter-amz",month="3",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="77",city="Altamira",location="deter-amz",month="3",state="PA",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="326",location="deter-amz",month="3",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="3",variation="0.76",year="2020")</unit>
+            <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",location="deter-amz",month="3",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="122",location="deter-amz",month="3",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="77",city="Altamira",location="deter-amz",month="3",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="3",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="326",location="deter-amz",month="3",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="3",variation="0.76",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="317",cause="DESMATAMENTO_CR",location="deter-amz",month="3",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="122",location="deter-amz",month="3",state="PA",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="77",city="Altamira",location="deter-amz",month="3",state="PA",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3",city="Novo Progresso",location="deter-amz",month="3",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 reported that AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested in LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    Compared to the previous month, deforestation increased by VARIATION_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the state where there was the most impact of deforestation ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    CITY_1 was the most affected municipality ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    In MONTH_1 , the Nature Protected Area that held the record for deforestation was UC_1 , in the state of STATE_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="326" gender="male" number="plural" >326 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">March</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="0.76" gender="female" number="singular">76%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which clears the soil of vegetation</reference>
+                    <reference tag="AREA_1" entity="317" gender="male" number="plural">317 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="122" gender="male" number="plural">122 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular">Altamrira</reference>
+                    <reference tag="AREA_1" entity="77" gender="male" number="plural">77 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">March</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="3" gender="male" number="plural">3 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) reported that 326 sq km of land were deforested in the Legal Amazon in March 2020.
+                </sentence>
+                <sentence>
+                    Compared to the previous month, deforestation increased by 76%.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which clears the soil of vegetation, responsible for 317 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Pará was the state where there was the most impact of deforestation (122 sq km).
+                </sentence>
+                <sentence>
+                    Altamira was the most affected municipality (77 sq km).
+                </sentence>
+                <sentence>
+                    In March, the Nature Protected Area that held the record for deforestation was the  JAMANXIM NATIONAL FOREST, in the state of Pará (3 sq km).
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-4-01">
+        <meaning>
+            <unit>12_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="171",year="2020")</unit>
+            <unit>CAUSE(area="393",cause="DESMATAMENTO_CR",location="deter-amz",month="4",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="0.25",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="145",location="deter-amz",month="4",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="39",city="Porto Velho",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="407",location="deter-amz",month="4",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",city="Novo Progresso",location="deter-amz",month="4",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="407",location="deter-amz",month="4",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="0.25",year="2020")</unit>
+            <unit>12_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="171",year="2020")</unit>
+            <unit>CAUSE(area="393",cause="DESMATAMENTO_CR",location="deter-amz",month="4",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="145",location="deter-amz",month="4",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="39",city="Porto Velho",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="6",city="Novo Progresso",location="deter-amz",month="4",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="407",location="deter-amz",month="4",year="2020")</unit>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="0.25",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>12_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="4",variation="171",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="393",cause="DESMATAMENTO_CR",location="deter-amz",month="4",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="145",location="deter-amz",month="4",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="39",city="Porto Velho",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="6",city="Novo Progresso",location="deter-amz",month="4",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 reported that AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared across LOCATION_1 in MONTH_1 YEAR_1 , which represents a VARIATION_1 increase from the previous month .
+                </sentence>
+                <sentence>
+                    Those numbers represent a VARIATION_1 increase in deforestation rate in MONTH_1 of the current year from the same month of the previous year .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested state was STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped of .
+                </sentence>
+                <sentence>
+                    The municipality that concentrated the most deforestation was CITY_1 , state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .
+                </sentence>
+                <sentence>
+                    In MONTH_1 , the most affected Nature Protected Area , where AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared of vegetation , was UC_1 , in the state of STATE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="407" gender="male" number="plural" >407 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular" >the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="VARIATION_1" entity="0.25" gender="female" number="singular">25%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="171" gender="female" number="singular">171%</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which completely clears the soil of vegetation</reference>
+                    <reference tag="AREA_1" entity="393" gender="male" number="plural">393 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="AREA_1" entity="145" gender="male" number="plural">145 square kilometers</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Porto Velho" gender="male" number="singular">Porto Velho</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="AREA_1" entity="39" gender="male" number="plural">39 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="AREA_1" entity="6" gender="male" number="plural">6 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) reported that 407 sq km of forest were cleared across the Legal Amazon in April 2020, which represents a 25% increase from the previous month.
+                </sentence>
+                <sentence>
+                    Those numbers represent a 171% increase in deforestation rate in April of the current year from the same month of the previous year.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation, which completely clears the soil of vegetation, responsible for 393 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The most deforested state was Mato Grosso, where 145 square kilometers of forest were chopped of.
+                </sentence>
+                <sentence>
+                    The municipality that concentrated the most deforestation was Porto Velho, state of Rondônia, where 39 sq km of land were deforested.
+                </sentence>
+                <sentence>
+                    In April, the most affected Nature Protected Area, where 6 sq km were cleared of vegetation, was the JAMANXIM NATIONAL FOREST, in the state of Pará.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-5-01">
+        <meaning>
+            <unit>CAUSE(area="841",cause="DESMATAMENTO_CR",location="deter-amz",month="5",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="5",variation="1.18",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",city="Novo Progresso",location="deter-amz",month="5",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="161",city="Altamira",location="deter-amz",month="5",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="418",location="deter-amz",month="5",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="885",location="deter-amz",month="5",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>TOTAL_DEFORESTATION(area="885",location="deter-amz",month="5",year="2020")</unit>
+            <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="5",variation="1.18",year="2020")</unit>
+            <unit>CAUSE(area="841",cause="DESMATAMENTO_CR",location="deter-amz",month="5",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="418",location="deter-amz",month="5",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="161",city="Altamira",location="deter-amz",month="5",state="PA",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="16",city="Novo Progresso",location="deter-amz",month="5",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="885",location="deter-amz",month="5",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>LAST_MONTH_VARIATION_DEFORESTATION(location="deter-amz",month="5",variation="1.18",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(area="841",cause="DESMATAMENTO_CR",location="deter-amz",month="5",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="418",location="deter-amz",month="5",state="PA",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="161",city="Altamira",location="deter-amz",month="5",state="PA",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="16",city="Novo Progresso",location="deter-amz",month="5",state="PA",UC="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    According to INSTITUTE_1 , AREA_1 of forestland VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested in LOCATION_1 in MONTH_1 YEAR_1 .
+                </sentence>
+                <sentence>
+                    Compared to the previous month , there was a VARIATION_1 increase in deforestation rate .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    STATE_1 was the state where there was the most impact of deforestation ( AREA_1 ) .
+                </sentence>
+                <sentence>
+                    The most affected municipality was CITY_1 ( AREA_1 ), in the state of STATE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where the most deforestation occurred was UC_1 , in the state of STATE_1 ( AREA_1 ) .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="885" gender="male" number="plural">885 sq km</reference>
+                    <reference tag="LOCATION_1" entity="deter-amz" gender="female" number="singular">the Legal Amazon</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular" >May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular" >2020</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="VARIATION_1" entity="118" gender="female" number="singular">118%</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="841" gender="male" number="plural">841 sq km</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, that leaves the soil clear of vegetation</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >Pará</reference>
+                    <reference tag="AREA_1" entity="418" gender="male" number="plural" >418 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Altamira" gender="male" number="singular" >Altamira</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >Pará</reference>
+                    <reference tag="AREA_2" entity="161" gender="male" number="plural" >161 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ALTAMIRA" gender="female" number="singular" >the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular" >Pará</reference>
+                    <reference tag="AREA_1" entity="16" gender="male" number="plural" >16 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    According to the National Institute for Space Research (INPE), 885 sq km of forestland were deforested in the Legal Amazon in May 2020.
+                </sentence>
+                <sentence>
+                    Compared to the previous month, there was a 118% increase in deforestation rate.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation, that leaves the soil clear of vegetation, responsible for 841 sq km of deforested area.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Pará was the state where there was the most impact of deforestation (418 sq km).
+                </sentence>
+                <sentence>
+                    The most affected municipality was Altamira, in the state of Pará (161 sq km).
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The Nature Protected Area where the most deforestation occurred was the  JAMANXIM NATIONAL FOREST, in the state of PA (16 sq km).
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+</entries>

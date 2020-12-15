@@ -1,0 +1,244 @@
+{
+    "CAUSE(area=AREA_1,cause=CAUSE_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1)":[
+        {
+            "template":"The main cause of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .",
+            "frequency":1
+        },
+        {
+            "template":"Amounting to AREA_1 , the main cause of land degradation was CAUSE_1 , which removes all vegetation of the soil .",
+            "frequency":1
+        },
+        {
+            "template":"The main cause of destruction of the Amazon in the month ( AREA_1 ) was CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Most of the deforested area ( AREA_1 ) was a result of CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Responsible for AREA_1 of deforested area , the main cause of destruction was CAUSE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area.",
+            "frequency":1
+        },
+        {
+            "template":"The main class of deforestation was CAUSE_1 , responsible for AREA_1 of deforested area .",
+            "frequency":7
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,UC=UC_1,year=YEAR_1)":[
+        {
+            "template":"The most devastated Nature Protected Area in the month was UC_1 in STATE_1 , where deforestation amounted to AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"The Nature Protected Area where there was the most deforestation was UC_1 , in STATE_1 , where AREA_1 of land were cut down .",
+            "frequency":1
+        },
+        {
+            "template":"UC_1 , in the state of STATE_1 , was the most devastated Nature Protected Area in MONTH_1 , where deforestation amounted to AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"The most affected Nature Protected Area in the month was UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be lost .",
+            "frequency":1
+        },
+        {
+            "template":"The most affected Nature Protected Area in October was UC_1 ( in the state of STATE_1 ) , where devastation amounted to AREA_1 .",
+            "frequency":1
+        },
+        {
+            "template":"UC_1 , in the state of STATE_1 , where deforestation amounted to AREA_1 , was the most affected Nature Protected Area in August .",
+            "frequency":1
+        },
+        {
+            "template":"The Nature Protected Area where there was the most deforestation was UC_1 , state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .",
+            "frequency":1
+        },
+        {
+            "template":"The Nature Protected Area where there was the most deforestation was the UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .",
+            "frequency":1
+        },
+        {
+            "template":"The Nature Protected Area where there was the most deforestation was UC_1 , in the state of STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out .",
+            "frequency":2
+        },
+        {
+            "template":"The Nature Protected Area where there was the most deforestation was UC_1 , in the state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .",
+            "frequency":1
+        },
+        {
+            "template":"In MONTH_1 , the Nature Protected Area that held the record for deforestation was UC_1 , in the state of STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"In MONTH_1 , the most affected Nature Protected Area , where AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared of vegetation , was UC_1 , in the state of STATE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"The Nature Protected Area where the most deforestation occurred was UC_1 , in the state of STATE_1 ( AREA_1 ) .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_2,city=CITY_1,location=LOCATION_2,month=MONTH_2,state=STATE_2,year=YEAR_2)":[
+        {
+            "template":"The state with the most deforestation in the month was STATE_1 ( AREA_1 ) , and the most devastated municipality was CITY_1 / STATE_2 , where deforestation amounted to AREA_2 .",
+            "frequency":2
+        },
+        {
+            "template":"The state of STATE_1 , where deforestation amounted to AREA_1 , was the most affected in MONTH_1 , and CITY_1 , state of STATE_2 , was the municipality with the most deforestation ( AREA_1 ) in the same period .",
+            "frequency":2
+        },
+        {
+            "template":"The most affected state and municipality were respectively STATE_1 ( AREA_1 ) and CITY_1 , in the state of STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1)":[
+        {
+            "template":"In MONTH_1 YEAR_1 , AREA_1 of the LOCATION_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1] deforest , according to data from INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Deforestation amounted to AREA_1 in LOCATION_1 in MONTH_1 YEAR_1 , according to data from INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 estimated that deforestation of the Legal Amazon amounted to AREA_1 in MONTH_1 YEAR_1 .",
+            "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 detected AREA_1 of forest clearing in LOCATION_1 in MONTH_1 YEAR_1 .",
+            "frequency":1
+        },
+        {
+            "template":"According to INSTITUTE_1 , AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out of LOCATION_1 in MONTH_1 YEAR_1 .",
+            "frequency":3
+        },
+        {
+            "template":"An area of approximately AREA_1 was deforested in LOCATION_1 , in MONTH_1 YEAR_1 , according to INSTITUTE_1 .",
+            "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 reported that AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested in LOCATION_1 in MONTH_1 YEAR_1 .",
+            "frequency":1
+        },
+        {
+            "template":"According to INSTITUTE_1 , AREA_1 of forestland VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested in LOCATION_1 in MONTH_1 YEAR_1 .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,year=YEAR_1);LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_2,month=MONTH_2,variation=VARIATION_1,year=YEAR_2)":[
+        {
+            "template":"INSTITUTE_1 estimated that the deforestation of LOCATION_1 amounted to AREA_1 in MONTH_1 YEAR_1 , which represents an increase of VARIATION_1 compared to the previous month .",
+            "frequency":2
+        },
+        {
+            "template":"INSTITUTE_1 says that AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared across LOCATION_1 in MONTH_1 , YEAR_1 , which is a VARIATION_1 increase from the previous month .",
+            "frequency":2
+        },
+        {
+            "template":"INSTITUTE_1 reported that AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be cleared across LOCATION_1 in MONTH_1 YEAR_1 , which represents a VARIATION_1 increase from the previous month .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_2,location=LOCATION_2,month=MONTH_2,state=STATE_2,year=YEAR_2)":[
+        {
+            "template":"The most deforested municipality in the month was CITY_1 ( AREA_1 ) , in the state of STATE_1 , and the most affected state overall was STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        },
+        {
+            "template":"The most deforested municipality was CITY_1 ( AREA_1 ) , state of STATE_1 , and the most affected state was STATE_2 ( AREA_2 ) .",
+            "frequency":2
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
+        {
+            "template":"CITY_1 , in the state of STATE_1 was the most affected municipality , where AREA_1 VP[aspect=simple,tense=past,voice=passive,person=3rd,number=plural] deforest .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 ( STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 (in the state of STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 ( in the state of STATE_1 ) was the most deforested municipality ( AREA_1 ) in the month .",
+            "frequency":1
+        },
+        {
+            "template":"The most affected city was CITY_1 , in the state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 ( in the state of STATE_1 ) , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped out , ranked the worst in terms of deforestation .",
+            "frequency":1
+        },
+        {
+            "template":"CITY_1 was the most affected municipality ( AREA_1 ) .",
+            "frequency":1
+        },
+        {
+            "template":"The municipality that concentrated the most deforestation was CITY_1 , state of STATE_1 , where AREA_1 of land VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .",
+            "frequency":1
+        },
+        {
+            "template":"The most affected municipality was CITY_1 ( AREA_1 ), in the state of STATE_1 .",
+            "frequency":1
+        }
+    ],
+    "TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
+        {
+            "template":"The state that had the most deforestation in the month was STATE_1 , amounting to AREA_1 of devasted area .",
+            "frequency":1
+        },
+        {
+            "template":"STATE_1 was the state with the highest deforestation rate ( AREA_1 ) in the observation period.",
+            "frequency":1
+        },
+        {
+            "template":"STATE_1 was the state with the highest deforestation rates ( AREA_1 ) in the observation period .",
+            "frequency":2
+        },
+        {
+            "template":"The most deforested state was STATE_1 , where AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be chopped of .",
+            "frequency":2
+        },
+        {
+            "template":"STATE_1 was the most affected state , where AREA_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested .",
+            "frequency":1
+        },
+        {
+            "template":"STATE_1 was the state where there was the most impact of deforestation ( AREA_1 ) .",
+            "frequency":2
+        }
+    ],
+    "LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_1,location=LOCATION_2,month=MONTH_2,year=YEAR_2)":[
+        {
+            "template":"INSTITUTE_1 estimated that deforestation amounted to AREA_1 in LOCATION_1 in MONTH_1 YEAR_1 , an increase of VARIATION_1 in deforestation rate compared to the previous month .",
+            "frequency":2
+        }
+    ],
+    "LAST_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1)":[
+        {
+            "template":"Compared to the previous month, deforestation increased by VARIATION_1 .",
+            "frequency":1
+        },
+        {
+            "template":"Compared to the previous month , there was a VARIATION_1 increase in deforestation rate .",
+            "frequency":1
+        }
+    ],
+    "12_MONTH_VARIATION_DEFORESTATION(location=LOCATION_1,month=MONTH_1,variation=VARIATION_1,year=YEAR_1)":[
+        {
+            "template":"Those numbers represent a VARIATION_1 increase in deforestation rate in MONTH_1 of the current year from the same month of the previous year .",
+            "frequency":1
+        }
+    ]
+}

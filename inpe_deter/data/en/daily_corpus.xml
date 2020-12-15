@@ -1,0 +1,1664 @@
+<?xml version="1.0" ?>
+<entries>
+    <entry date="2019-06-18 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="3.472148256306645",city="None",daily_accumulation="8",day="18",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="8.334555363319664",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="6",state="RO",uc="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered deforestation that amounted to AREA_1 in UC_1 , state of STATE_1 , which accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with deforestation alerts in the month .
+                </sentence>
+                <sentence>
+                    Deforestation totaled AREA_1 in UC_1 , in the analyzed month .
+                </sentence>s
+                <sentence>
+                    Deforestation was mainly caused by CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="18" gender="male" number="singular">18th</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">June</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="3.472148256306645" gender="male" number="plural" >3.5 sq km</reference>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular" >the TAPAJÓS ENVIRONMENTAL PROTECTION AREA</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="8" gender="male" number="plural">8</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="UC_1" entity="ÁREA DE PROTEÇÃO AMBIENTAL DO TAPAJÓS" gender="female" number="singular" >the TAPAJÓS ENVIRONMENTAL PROTECTION AREA</reference>
+                    <reference tag="AREA_1" entity="8.334555363319664" gender="male" number="plural">8.334555363319664 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mining</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On june 18th, 2019, the National Institute for Space Research (INPE) registered deforestation that amounted to 3.5 sq km in the TAPAJÓS ENVIRONMENTAL PROTECTION AREA, state of Rondônia, which accumulated 8 days with deforestation alerts in the month.
+                </sentence>
+                <sentence>
+                    Deforestation totaled 8.334555363319664 sq km in the TAPAJÓS ENVIRONMENTAL PROTECTION AREA, in the analyzed month.
+                </sentence>
+                <sentence>
+                    Deforestation was mainly caused by mining.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-08 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="12.007300834420757",city="Apui",daily_accumulation="11",day="8",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="75.16054508934322",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Apui",location="deter-amz",month="7",state="AM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered deforestation alerts amounting to AREA_1 in CITY_1 , state of STATE_1 , which accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month .
+                </sentence>
+                <sentence>
+                    The area with deforestation warnings totaled AREA_1 in CITY_1 in MONTH_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="11" gender="male" number="plural">11</reference>
+                    <reference tag="AREA_1" entity="12.007300834420757" gender="male" number="plural">12.007300834420757 sq km</reference>
+                    <reference tag="DAY_1" entity="8" gender="male" number="singular">8</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="CITY_1" entity="Apui" gender="female" number="singular">the city of Apuí</reference>
+
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Apui" gender="female" number="singular">Apuí</reference>
+                    <reference tag="AREA_1" entity="75.16054508934322" gender="male" number="plural">75.16054508934322 sq km</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely removes vegetation coverage from the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On July 8, 2019, the National Institute for Space Research (INPE) registered deforestation alerts
+                    amounting to 12.007300834420757 sq km in the city of Apuí, state of Amazonas, which accumulated 11 days with alerts in the month.
+                </sentence>
+                <sentence>
+                    The area with deforestation warnings totaled 75.16054508934322 sq km in Apuí in July.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which completely removes vegetation coverage from the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-31 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="31",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 published alerts on deforestation totaling AREA_1 in the municipality of CITY_1 , in the state of STATE_1 , which accumulates DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month .
+                </sentence>
+                <sentence>
+                    Deforestation amounted to AREA_1 in CITY_1 in MONTH_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="31" gender="male" number="singular">31</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1,315173359776571" gender="male" number="plural">1,315173359776571 sq km</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta D'oeste" gender="male" number="singular">the municipality of Alta Floresta D'oeste</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Alta Floresta D'oeste" gender="male" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="AREA_1" entity="12.685352175179451" gender="male" number="plural">12.685352175179451 sq km</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On July 31, 2019, the National Institute for Space Research (INPE) published alerts on deforestation totaling 1,315173359776571 sq km in the municipality of Alta Floresta D'oeste, in the state of Rondônia, which accumulates 7 days with alerts in the month.
+                </sentence>
+                <sentence>
+                    Deforestation amounted to 12.685352175179451 sq km  in Alta Floresta D'oeste in July.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-07-15 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.315173359776571",city="Alta Floresta D'oeste",daily_accumulation="7",day="15",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="12.685352175179451",city="Alta Floresta D'oeste",location="deter-amz",month="7",state="RO",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 published alerts on deforestation amounting to AREA_1 in CITY_1 , state of STATE_1 , which registerd DAILY_ACCUMULATION_1 NN[number=plural,gender=male] day with alerts in the month .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+                <sentence>
+                    Deforestation toll in CITY_1 was estimated AREA_1 in MONTH_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta" gender="female" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="DAY_1" entity="15" gender="male" number="singular">15</reference>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="AREA_1" entity="1.315173359776571" gender="male" number="plural">1.315173359776571 sq km</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely exposes the soil</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="7" gender="male" number="singular">July</reference>
+                    <reference tag="CITY_1" entity="Alta Floresta" gender="male" number="singular">Alta Floresta D'oeste</reference>
+                    <reference tag="AREA_1" entity="12.685352175179451" gender="male" number="plural">12.685352175179451 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On July 15, 2019, the National Institute for Space Research (INPE) published alerts on deforestation amounting to 1,315173359776571 sq km in the municipality of Alta Floresta D'oeste, state of Rondônia, which registerd 7 days with alerts in the month.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which completely exposes the soil.
+                </sentence>
+                <sentence>
+                    Deforestation toll in Alta Floresta D'oeste was estimated 12.685352175179451 sq km in July.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-08-16 00:00:00">
+            <meaning>
+                <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            </meaning>
+            <ordering>
+                <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+            </ordering>
+            <structuring>
+                <paragraph>
+                    <sentence>
+                        <unit>DAILY_ALERT(area="2.381176608019067",city="Santa Maria das Barreiras",daily_accumulation="6",day="16",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                    </sentence>
+                    <sentence>
+                        <unit>TOTAL_DEFORESTATION(area="9.562673442768272",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                    </sentence>
+                    <sentence>
+                        <unit>CAUSE(cause="DESMATAMENTO_CR",city="Santa Maria das Barreiras",location="deter-amz",month="8",state="PA",year="2019")</unit>
+                    </sentence>
+                </paragraph>
+            </structuring>
+            <lexicalization>
+                <paragraph>
+                    <sentence>
+                        According to INSTITUTE_1 , CITY_1 , in the state of STATE_1 , had alerts on deforestation totaling AREA_1 ,  on MONTH_1 DAY_1 , YEAR_1 .
+                    </sentence>
+                    <sentence>
+                       CITY_1 accumulated AREA_1 of deforestation in MONTH_1 .
+                    </sentence>
+                    <sentence>
+                        The main class of deforestation was CAUSE_1 .
+                    </sentence>
+                </paragraph>
+            </lexicalization>
+            <references>
+                <paragraph>
+                    <sentence>
+                        <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                        <reference tag="CITY_1" entity="Santa Maria das Barreiras" gender="male" number="singular">the municipality of Santa Maria das Barreiras</reference>
+                        <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                        <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                        <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                        <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                        <reference tag="AREA_1" entity="2.381176608019067" gender="male" number="plural">2.381176608019067 sq km</reference>
+                    </sentence>
+                    <sentence>
+                        <reference tag="AREA_1" entity="9.562673442768272" gender="male" number="plural">9.562673442768272 sq km</reference>
+                        <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    </sentence>
+                    <sentence>
+                        <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which results in complete soil exposure</reference>
+                    </sentence>
+                </paragraph>
+            </references>
+            <text>
+                <paragraph>
+                    <sentence>
+                        According to the National Institute for Space Research (INPE), the municipality of Santa Maria das Barreiras, in the state of Pará, had alerts on deforestation totaling 2.381176608019067 sq km,  on August 16, 2019.
+                    </sentence>
+                    <sentence>
+                        Santa Maria das Barreiras accumulated 9.562673442768272  sq km of deforestation in August.
+                    </sentence>
+                    <sentence>
+                        The main class of deforestation was clear-cut deforestation, which results in complete soil exposure.
+                    </sentence>
+                </paragraph>
+            </text>
+        </entry>
+    <entry date="2019-09-10 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.1339092004039526",city="None",daily_accumulation="6",day="10",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3.6678642045861496",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="None",location="deter-amz",month="9",state="AM",uc="FLORESTA NACIONAL DE ITAITUBA II",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered alerts on deforestation which totaled AREA_1 in UC_1 ( in the state of STATE_1 ) , which accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month.
+                </sentence>
+                <sentence>
+                    In MONTH_1 , UC_1 totaled AREA_1 of deforestation .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="10" gender="male" number="singular">10</reference>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">September</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.1339092004039526" gender="male" number="plural">1.1339092004039526 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ITAITUBA II" gender="female" number="singular">the ITAITUBA II NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="6" gender="male" number="plural">6</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="9" gender="male" number="singular">September</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE ITAITUBA II" gender="female" number="singular">ITAITUBA II NATIONAL FOREST</reference>
+                    <reference tag="AREA_1" entity="3.6678642045861496" gender="male" number="plural">3.6678642045861496 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On September 10, 2019, the National Institute for Space Research (INPE) registered alerts on deforestation which totaled 1.1339092004039526 sq km  in the ITAITUBA II NATIONAL FOREST (in the state of Amazonas), which accumulated 6 days with alerts in the month.
+                </sentence>
+                <sentence>
+                    In September, ITAITUBA II NATIONAL FOREST totaled 3.6678642045861496 sq km of deforestation.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-10-25 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.100682967815203",city="Feijo",day="25",location="deter-amz",month="10",state="AC",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Feijo",location="deter-amz",month="10",state="AC",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 tracked deforestation alerts in CITY_1 ( state of STATE_1 ) amounting to AREA_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    CAUSE_1 , was the main type of deforestation.
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="25" gender="male" number="singular">25</reference>
+                    <reference tag="MONTH_1" entity="10" gender="male" number="singular">October</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="CITY_1" entity="Feijo" gender="male" number="singular">Feijó</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">Acre</reference>
+                    <reference tag="AREA_1" entity="1.100682967815203" gender="male" number="plural">1.100682967815203 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">Clear-cutting, which completely removes vegetation coverage, exposing the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On October 25, 2019, the National Institute for Space Research (INPE) tracked deforestation alerts in Feijó (state of Acre) amounting to 1,100682967815203 sq km.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Clear-cutting, which completely removes vegetation coverage, exposing the soil, was the main type of deforestation.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-09 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.114346200086877",city="Humaita",daily_accumulation="3",day="9",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="3.025832946917279",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Humaita",location="deter-amz",month="11",state="AM",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered alerts on deforestation that totaled AREA_1 , in CITY_1 , state of  STATE_1 , which accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month .
+                </sentence>
+                <sentence>
+                   In MONTH_1 , deforestation amounted to AREA_1 in CITY_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="9" gender="male" number="singular">9</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.114346200086877" gender="male" number="plural" >2.114346200086877 sq km</reference>
+                    <reference tag="CITY_1" entity="Humaita" gender="male" number="singular">Humaitá</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="3" gender="male" number="plural">3</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="AREA_1" entity="3.025832946917279" gender="male" number="plural" >3.025832946917279 sq km</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="CITY_1" entity="Humaita" gender="male" number="singular">Humaitá</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="female" number="singular">clear-cut deforestation, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On November 9, 2019, the National Institute for Space Research (INPE) registered alerts on deforestation that totaled 2.114346200086877 sq km, in Humaitá, state of Amazonas, which accumulated 3 days with alerts in the month.
+                </sentence>
+                <sentence>
+                   In November, deforestation amounted to 3,025832946917279 sq km in Humaitá.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cut deforestation, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-08-15 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+         </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered alerts on deforestation amounting to AREA_1 in CITY_1 , state of  STATE_1 .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="15" gender="male" number="singular">15</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.003911446362719" gender="male" number="plural" >1.003911446362719 sq km</reference>
+                    <reference tag="CITY_1" entity="Caceres" gender="male" number="singular">Cáceres</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">deforestation with vegetation, which partially exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On August 15, 2019, the National Institute for Space Research (INPE) registered alerts on deforestation amounting to 1.003911446362719 sq km in Cáceres, state of Mato Grosso.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was deforestation with vegetation, which partially exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-10 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.1843662732562241",city="Sao Felix do Xingu",daily_accumulation="7",day="10",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="31.014961152007995",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Sao Felix do Xingu",location="deter-amz",month="11",state="PA",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    Data from INSTITUTE_1 showed AREA_1 of land VP[aspect=simple,tense=past,voice=passive,person=3rd,number=AREA_1] deforest in CITY_1 , in the state of STATE_1 , on MONTH_1 DAY_1 , YEAR_1 - the city acumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month , totaling AREA_2 of devastation .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alert by INSTITUTE_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.1843662732562241" gender="male" number="plural">1,18 sq km</reference>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">São Félix do Xingu</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                    <reference tag="DAY_1" entity="10" gender="male" number="singular">10</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="CITY_1" entity="Sao Felix do Xingu" gender="male" number="singular">the municipality of São Félix do Xingu</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="7" gender="male" number="plural">7</reference>
+                    <reference tag="AREA_2" entity="31.014961152007995" gender="male" number="plural">31 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">INPE</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    Data from the National Institute for Space Research (INPE) showed 1.18 sq km of land were deforested in the municipality of São Félix do Xingu, in the state of Pará, on November 10, 2019 - the city acumulated 7 days with alerts in the month, totaling 31 sq km of devastation.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts by INPE was clear-cutting, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-16 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1.3174107156084307",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , alerts on deforestation in CITY_1 , state of STATE_1 , amounting to AREA_1 , were generated by INSTITUTE_1 .
+                </sentence>
+                <sentence>
+                    CITY_1 accumulated AREA_1 of deforestation in MONTH_1 YEAR_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Deforestation in CITY_1 was mainly caused by CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 sq km</reference>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 sq km</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On November 16, 2019, alerts on deforestation in the city of Colíder, state of Mato Grosso, amounting to 1.32 sq km , were generated by the National Institute for Space Research (INPE).
+                </sentence>
+                <sentence>
+                    Colíder accumulated 1,32 of deforestation in November 2019.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    Deforestation in Colíder was mainly caused by clear-cut deforestation, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2019-11-16 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.3174107156084307",city="Colider",day="16",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Colider",location="deter-amz",month="11",state="MT",year="2019")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 estimated AREA_1 of deforestation in CITY_1 , in the state of STATE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for deforestation in CITY_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="16" gender="male" number="singular">16</reference>
+                    <reference tag="MONTH_1" entity="11" gender="male" number="singular">November</reference>
+                    <reference tag="YEAR_1" entity="2019" gender="male" number="singular">2019</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.3174107156084307" gender="male" number="plural">1,32 sq km</reference>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Colider" gender="male" number="singular">Colíder</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On November 16, 2019, the National Institute for Space Research (INPE) estimated 1.32 sq km of deforestation in Colíder, in the state of Mato Grosso.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for deforestation in Colíder was clear-cutting, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-03-03 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.8284082682298486",city="None",daily_accumulation="2",day="3",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_VEG",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2.916004531580576",city="None",location="deter-amz",month="3",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 registered alerts on deforestation amounting to AREA_1 km at UC_1 , in the state of STATE_1 , on MONTH_1 DAY_1 , YEAR_1 - UC_1 accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts this month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts in UC_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    UC_1 / STATE_1 accumulated AREA_1 of deforestation in MONTH_1 YEAR_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.8284082682298486" gender="male" number="plural">2.83 sq km</reference>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">the CHICO MENDES EXTRACTIVE RESERVE</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">Acre</reference>
+                    <reference tag="DAY_1" entity="3" gender="male" number="singular">3</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">March</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="UC_1" entity="" gender="female" number="singular">the region</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="2" gender="male" number="plural">2</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">the region</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">deforestation with vegetation, in which not all the vegetation is cut down</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">the CHICO MENDES EXTRACTIVE RESERVE</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                    <reference tag="AREA_1" entity="2.916004531580576" gender="male" number="plural">2.92 sq km</reference>
+                    <reference tag="MONTH_1" entity="3" gender="male" number="singular">March</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) registered alerts on deforestation amounting to 2.83 sq km at the CHICO MENDES EXTRACTIVE RESERVE, in the state of Acre, on March 3, 2020 - the region accumulated 2 days with alerts this month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts in the region was deforestation with vegetation, in which not all the vegetation is cut down.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The CHICO MENDES EXTRACTIVE RESERVE / AC accumulated 2.92 sq km of deforestation in March 2020.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-05 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="3.657273194728159",city="None",daily_accumulation="2",day="5",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="3.728677725954658",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="4",state="AM",uc="PARQUE NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 identified , a AREA_1 deforestation in UC_1 , in the state of STATE_1 - alerts have already been generated in DAILY_ACCUMULATION_1 different NN[number=DAILY_ACCUMULATION_1,gender=male] day , amounting to AREA_2 in the month .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The alerts indicate degradation due to CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="DAY_1" entity="5" gender="male" number="singular">5</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="AREA_1" entity="3.657273194728159" gender="male" number="plural">3.66 sq km</reference>
+                    <reference tag="UC_1" entity="PARQUE NACIONAL DO JAMANXIM" gender="male" number="singular">the PARQUE NACIONAL DO JAMANXIM</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="2" gender="male" number="plural">2</reference>
+                    <reference tag="AREA_2" entity="3.728677725954658" gender="male" number="plural">3.72 sq km</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mining, associated with wildcat miners</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On April 5, 2020, the National Institute for Space Research (INPE) identified a 3.66 sq km deforestation in the PARQUE NACIONAL DO JAMANXIM, in the state of Amazonas - alerts have already been generated in 2 different days, amounting to 3.72 sq km in the month.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The alerts indicate degradation due to mining, associated with wildcat miners.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-19 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="1.7278899623903703",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 detected deforestation amounting to AREA_1 in CITY_1 , state of STATE_1 , mainly due to CAUSE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The municipality of CITY_1 / STATE_1 had AREA_1 of land deforested in MONTH_1 YEAR_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="19" gender="male" number="singular">19</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1.73 sq km</reference>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which removes all vegetation coverage, exposing the soil</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">RO</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1.73 sq km</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On April 19, 2020, the National Institute for Space Research (INPE) detected deforestation amounting to 1.73 sq km in Guajará-Mirim, state of Rondônia, mainly due to clear-cut deforestation, which removes all vegetation coverage, exposing the soil.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The municipality of Guajará-Mirim / Rondônia had 1.73 sq km of land deforested in April 2020.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-04-19 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.7278899623903703",city="Guajara-Mirim",day="19",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Guajara-Mirim",location="deter-amz",month="4",state="RO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 detected deforestation amounting to AREA_1 in CITY_1 , in the state of STATE_1 , mainly due to CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="19" gender="male" number="singular">19</reference>
+                    <reference tag="MONTH_1" entity="4" gender="male" number="singular">April</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.7278899623903703" gender="male" number="plural">1.73 sq km</reference>
+                    <reference tag="CITY_1" entity="Guajara-Mirim" gender="male" number="singular">Guajará-Mirim</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which leaves the soil without any vegetation coverage</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On April 19, 2020, the National Institute for Space Research (INPE) detected deforestation amounting to 1.73 sq km in Guajará-Mirim , in the state of Rondônia, mainly due to clear-cut deforestation, which leaves the soil without any vegetation coverage.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="2.1834475753649714",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , the monitoring system of INSTITUTE_1 detected the deforestation of AREA_1 in CITY_1 , state of STATE_1 .
+                </sentence>
+                <sentence>
+                    In MONTH_1 , AREA_1 of forest VP[aspect=simple,tense=past,voice=active,person=3rd,number=AREA_1] be deforested in CITY_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts on deforestation tracked by INSTITUTE_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.1834475753649714" gender="male" number="plural">2.18 sq km</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">Paranaita</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
+                    <reference tag="AREA_1" entity="" gender="male" number="plural">2.18 sq km</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">the city</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the Institute</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">wildcat mining in the forest</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On May 1, 2020, the monitoring system of the National Institute for Space Research (INPE) detected the deforestation of 2.18 sq km in Paranaita , state of Mato Grosso.
+                </sentence>
+                <sentence>
+                    In May, 2.18 sq km of forest were deforested in the city.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts on deforestation tracked by the Institute was wildcat mining in the forest.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="2.1834475753649714",city="Paranaita",day="1",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="Paranaita",location="deter-amz",month="5",state="MT",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , the monitoring system of INSTITUTE_1 detected the deforestation of AREA_1 in CITY_1 , state of STATE_1 .
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts on deforestation tracked by INSTITUTE_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="2.1834475753649714" gender="male" number="plural">2.18 sq km</reference>
+                    <reference tag="CITY_1" entity="Paranaita" gender="male" number="singular">Paranaita</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the Institute</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">wildcat mining in the forest</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On May 1, 2020, the monitoring system of the National Institute for Space Research (INPE) detected the deforestation of 2.18 sq km in Paranaita, state of Mato Grosso.
+                </sentence>
+            </paragraph>
+            <paragraph>
+                <sentence>
+                    The main cause for the daily alerts on deforestation tracked by the Institute was wildcat mining in the forest.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-04 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.172942498413374",city="None",daily_accumulation="4",day="4",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>CAUSE(cause="MINERACAO",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                    <unit>TOTAL_DEFORESTATION(area="8.592691383933117",city="None",location="deter-amz",month="5",state="MT",uc="FLORESTA NACIONAL DO JAMANXIM",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 reported alerts on devastation ( AREA_1 ) caused by CAUSE_1 , on MONTH_1 DAY_1 , YEAR_1 , in UC_1 , in the state of STATE_1 - in that month there are already DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts and deforestation totaled AREA_2 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.172942498413374" gender="male" number="plural">1.17 sq km</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">wildcat mining</reference>
+                    <reference tag="DAY_1" entity="4" gender="male" number="singular">4</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO JAMANXIM" gender="female" number="singular">the JAMANXIM NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">Mato Grosso</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="4" gender="male" number="plural">4</reference>
+                    <reference tag="AREA_2" entity="8.592691383933117" gender="male" number="plural">8.59 sq km</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research (INPE) reported alerts on devastation (1.17 sq km) caused by wildcat mining, on May 4, 2020, in the JAMANXIM NATIONAL FOREST, in the state of Mato Grosso - in that month there are already 4 days with alerts and deforestation totaled 8.59 sq km.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-27 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.0754636401539456",city="Trairao",day="27",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Trairao",location="deter-amz",month="5",state="PA",uc="FLORESTA NACIONAL DO TRAIRÃO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 identified deforestation that amounted to AREA_1 in UC_1 , state of STATE_1 .
+                </sentence>
+                <sentence>
+                    CAUSE_1 , was the main cause for daily alerts generated by INPE for the Nature Protected Area .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="27" gender="male" number="singular">27</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="0.0754636401539456" gender="male" number="plural">0.07 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO TRAIRÃO" gender="female" number="singular">the TRAIRÃO NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="PA" gender="male" number="singular">Pará</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On May 27, 2020, the National Institute for Space Research (INPE) identified deforestation that amounted to 0.07 sq km in the TRAIRÃO NATIONAL FOREST, state of Pará.
+                </sentence>
+                <sentence>
+                    Clear-cut deforestation, which completely exposes the soil, was the main cause for daily alerts generated by INPE for the Nature Protected Area.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-05-29 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.7044784478611199",city="Porto Velho",day="29",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Porto Velho",location="deter-amz",month="5",state="RO",uc="FLORESTA NACIONAL DO BOM FUTURO",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 detected deforestation ( AREA_1 ) in UC_1 , in the state of STATE_1 - the main cause for the alerts was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="29" gender="male" number="singular">29</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">May</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="0.7044784478611199" gender="male" number="plural">0.70 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO BOM FUTURO" gender="female" number="singular">the BOM FUTURO NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which removes all vegetation, exposing the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On May 29, 2020, the National Institute for Space Research (INPE) detected deforestation (0.70 sq km) in the BOM FUTURO NATIONAL FOREST, in the state of Rondônia - the main cause for the alerts was clear-cut deforestation, which removes all vegetation, exposing the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.0770138642201099",city="Novo Aripuana",day="1",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Novo Aripuana",location="deter-amz",month="6",state="AM",uc="FLORESTA NACIONAL DO ARIPUANÃ",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 issued alerts on deforestation amounting to AREA_1 , in UC_1 , in the state of STATE_1 , on MONTH_1 DAY_1 , YEAR_1 .
+                </sentence>
+                <sentence>
+                    The main reason for the daily alerts generated by INSTITUTE_1 for UC_1 was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research</reference>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">June</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="AREA_1" entity="0.0770138642201099" gender="male" number="plural">0,08 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO ARIPUANÃ" gender="female" number="singular">the ARIPUANÃ NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the Institute</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DO ARIPUANÃ" gender="female" number="singular">the ARIPUANÃ NATIONAL FOREST</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which removes all forest coverage</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research issued alerts on deforestation amounting to 0.08 sq km, in the ARIPUANÃ NATIONAL FOREST, in the state of Amazonas, on June 1, 2020.
+                </sentence>
+                <sentence>
+                    The main reason for the daily alerts generated by the Institute for the ARIPUANÃ NATIONAL FOREST was clear-cut deforestation, which removes all forest coverage.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-06-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.00121863040201726",city="Candeias do Jamari",day="1",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Candeias do Jamari",location="deter-amz",month="6",state="RO",uc="FLORESTA NACIONAL DE JACUNDÁ",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    INSTITUTE_1 identified deforestation of AREA_1 in UC_1 , state of STATE_1 , on MONTH_1 DAY_1 , YEAR_1 - the main cause for the alerts was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research</reference>
+                    <reference tag="AREA_1" entity="0.00121863040201726" gender="male" number="plural">0.01 sq km</reference>
+                    <reference tag="UC_1" entity="FLORESTA NACIONAL DE JACUNDÁ" gender="female" number="singular">the JACUNDÁ NATIONAL FOREST</reference>
+                    <reference tag="STATE_1" entity="RO" gender="male" number="singular">Rondônia</reference>
+                    <reference tag="DAY_1" entity="1" gender="male" number="singular">1º</reference>
+                    <reference tag="MONTH_1" entity="6" gender="male" number="singular">June</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cut deforestation, which wipes out all vegetation in the area</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    The National Institute for Space Research identified deforestation of 0.01 sq km in the JACUNDÁ NATIONAL FOREST, state of Rondônia, on June 1, 2020 - the main cause for the alerts was clear-cut deforestation, which wipes out all vegetation in the area.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-08-29 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>DAILY_ALERT(area="1.7026773875621204",city="Xapuri",daily_accumulation="8",day="29",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="15.762299953809572",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="1.7026773875621204",city="Xapuri",daily_accumulation="8",day="29",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+            <unit>TOTAL_DEFORESTATION(area="15.762299953809572",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+             <unit>CAUSE(cause="DESMATAMENTO_CR",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="1.7026773875621204",city="Xapuri",daily_accumulation="8",day="29",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>TOTAL_DEFORESTATION(area="15.762299953809572",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+                <sentence>
+                     <unit>CAUSE(cause="DESMATAMENTO_CR",city="Xapuri",location="deter-amz",month="8",state="AC",uc="RESERVA EXTRATIVISTA CHICO MENDES",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 registered alerts on deforestation which totaled AREA_1 in UC_1 ( in the state of STATE_1 ) , which accumulated DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] day with alerts in the month.
+                </sentence>
+                <sentence>
+                    In MONTH_1 , UC_1 totaled AREA_1 of deforestation .
+                </sentence>
+                <sentence>
+                    The main class of deforestation was CAUSE_1 .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="29" gender="male" number="singular">29</reference>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="1.7026773875621204" gender="male" number="plural">1.7026773875621204 sq km</reference>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">the CHICO MENDES EXTRACTIVE RESERVE</reference>
+                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">Acre</reference>
+                    <reference tag="DAILY_ACCUMULATION_1" entity="8" gender="male" number="plural">8</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="MONTH_1" entity="8" gender="male" number="singular">August</reference>
+                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">CHICO MENDES EXTRACTIVE RESERVE</reference>
+                    <reference tag="AREA_1" entity="15.762299953809572" gender="male" number="plural">15.762299953809572 sq km</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="DESMATAMENTO_CR" gender="male" number="singular">clear-cutting, which completely exposes the soil</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On September 29, 2020, the National Institute for Space Research (INPE) registered alerts on deforestation which totaled 1.7026773875621204 sq km in the CHICO MENDES EXTRACTIVE RESERVE (in the state of Acre), which accumulated 8 days with alerts in the month.
+                </sentence>
+                <sentence>
+                    In September, CHICO MENDES EXTRACTIVE RESERVE totaled 15.762299953809572 sq km of deforestation.
+                </sentence>
+                <sentence>
+                    The main class of deforestation was clear-cutting, which completely exposes the soil.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+    <entry date="2020-09-01 00:00:00">
+        <meaning>
+            <unit>CAUSE(cause="MINERACAO",city="Japura",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+            <unit>DAILY_ALERT(area="0.6183851358783904",city="Japura",day="1",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+        </meaning>
+        <ordering>
+            <unit>DAILY_ALERT(area="0.6183851358783904",city="Japura",day="1",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+            <unit>CAUSE(cause="MINERACAO",city="Japura",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+        </ordering>
+        <structuring>
+            <paragraph>
+                <sentence>
+                    <unit>DAILY_ALERT(area="0.6183851358783904",city="Japura",day="1",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+                </sentence>
+                <sentence>
+                    <unit>CAUSE(cause="MINERACAO",city="Japura",location="deter-amz",month="9",state="AM",uc="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ",year="2020")</unit>
+                </sentence>
+            </paragraph>
+        </structuring>
+        <lexicalization>
+            <paragraph>
+                <sentence>
+                    On MONTH_1 DAY_1 , YEAR_1 , INSTITUTE_1 identified deforestation that amounted to AREA_1 in UC_1 , state of STATE_1 .
+                </sentence>
+                <sentence>
+                    CAUSE_1 was the main cause for daily alerts generated by INPE for the Nature Protected Area .
+                </sentence>
+            </paragraph>
+        </lexicalization>
+        <references>
+            <paragraph>
+                <sentence>
+                    <reference tag="DAY_1" entity="27" gender="male" number="singular">1</reference>
+                    <reference tag="MONTH_1" entity="5" gender="male" number="singular">September</reference>
+                    <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
+                    <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">the National Institute for Space Research (INPE)</reference>
+                    <reference tag="AREA_1" entity="0.6183851358783904" gender="male" number="plural">0.6 sq km</reference>
+                    <reference tag="UC_1" entity="ESTAÇÃO ECOLÓGICA JUAMI-JAPURÁ" gender="female" number="singular">the JUAMI-JAPURÁ ECOLOGICAL STATION</reference>
+                    <reference tag="STATE_1" entity="AM" gender="male" number="singular">Amazonas</reference>
+                </sentence>
+                <sentence>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mining</reference>
+                </sentence>
+            </paragraph>
+        </references>
+        <text>
+            <paragraph>
+                <sentence>
+                    On May 1, 2020, the National Institute for Space Research (INPE) identified deforestation that amounted to 0.6 sq km in he JUAMI-JAPURÁ ECOLOGICAL STATION, state of Amazonas.
+                </sentence>
+                <sentence>
+                    Mining was the main cause for daily alerts generated by INPE for the Nature Protected Area.
+                </sentence>
+            </paragraph>
+        </text>
+    </entry>
+</entries>

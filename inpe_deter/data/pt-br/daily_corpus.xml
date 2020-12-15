@@ -480,7 +480,7 @@
         <lexicalization>
             <paragraph>
                 <sentence>
-                    Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 rastreou alertas de desmatamento em CITY_1 / STATE_1, VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar
+                    Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 rastreou alertas de desmatamento em CITY_1 / STATE_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar
                     AREA_1 .
                 </sentence>
             </paragraph>
@@ -597,12 +597,12 @@
     </entry>
     <entry date="2019-08-15 00:00:00">
         <meaning>
-            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
             <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
         </meaning>
         <ordering>
             <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
-            <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+            <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
          </ordering>
         <structuring>
             <paragraph>
@@ -610,14 +610,14 @@
                     <unit>DAILY_ALERT(area="1.003911446362719",city="Caceres",day="15",location="deter-amz",month="8",state="MT",year="2019")</unit>
                 </sentence>
                 <sentence>
-                    <unit>CAUSE(cause="DESMATAMENTO_CR",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
+                    <unit>CAUSE(cause="DESMATAMENTO_VEG",city="Caceres",location="deter-amz",month="8",state="MT",year="2019")</unit>
                 </sentence>
             </paragraph>
         </structuring>
         <lexicalization>
             <paragraph>
                 <sentence>
-                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em UC_1 / STATE_1 .
+                    No dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em CITY_1 / STATE_1 .
                 </sentence>
                 <sentence>
                     O principal tipo foi CAUSE_1 .
@@ -632,8 +632,8 @@
                     <reference tag="YEAR_1" entity="2019" gender="male" number="singular" >2019</reference>
                     <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular" >o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
                     <reference tag="AREA_1" entity="1.003911446362719" gender="male" number="plural" >1.003911446362719 km²</reference>
-                    <reference tag="UC_1" entity="RESERVA EXTRATIVISTA CHICO MENDES" gender="female" number="singular">a RESERVA EXTRATIVISTA CHICO MENDES</reference>
-                    <reference tag="STATE_1" entity="AC" gender="male" number="singular">AC</reference>
+                    <reference tag="CITY_1" entity="Caceres" gender="male" number="singular">Cáceres</reference>
+                    <reference tag="STATE_1" entity="MT" gender="male" number="singular">MT</reference>
                 </sentence>
                 <sentence>
                     <reference tag="CAUSE_1" entity="DESMATAMENTO_VEG" gender="male" number="singular">o desmatamento com vegetação, que deixa o solo parcialmente desmatado</reference>
@@ -643,8 +643,8 @@
         <text>
             <paragraph>
                 <sentence>
-                    No dia 3 de março de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou alertas de
-                    desmatamento somando 1.003911446362719 km² na RESERVA EXTRATIVISTA CHICO MENDES/AC.
+                    No dia 15 de agosto de 2019, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou alertas de
+                    desmatamento somando 1.003911446362719 km² em Cáceres/MT.
                 </sentence>
                 <sentence>
                     O principal tipo foi o desmatamento com vegetação, que deixa o solo parcialmente desmatado.
@@ -1030,7 +1030,7 @@
             </paragraph>
             <paragraph>
                 <sentence>
-                    O alerta gerado indica degradação por causa da mineração, associada à atividade de garimpo.
+                    O alerta gerado indica degradação por causa da mineração, associada à atividade de garimpo .
                 </sentence>
             </paragraph>
         </text>
@@ -1331,7 +1331,7 @@
                 <sentence>
                     <reference tag="INSTITUTE_1" entity="INPE" gender="male" number="singular">o Instituto Nacional de Pesquisas Espaciais (INPE)</reference>
                     <reference tag="AREA_1" entity="1.172942498413374" gender="male" number="plural">1,17 km²</reference>
-                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, devido à ação de garimpos</reference>
+                    <reference tag="CAUSE_1" entity="MINERACAO" gender="female" number="singular">mineração, devido à ação de garimpos </reference>
                     <reference tag="DAY_1" entity="4" gender="male" number="singular">4</reference>
                     <reference tag="MONTH_1" entity="5" gender="male" number="singular">maio</reference>
                     <reference tag="YEAR_1" entity="2020" gender="male" number="singular">2020</reference>
@@ -1345,7 +1345,7 @@
         <text>
             <paragraph>
                 <sentence>
-                    O Instituto Nacional de Pesquisas Espaciais (INPE) gerou alerta para devastação (1,17 km²) causada por mineração, devido à ação de garimpos, no dia 4 de maio de 2020 na FLORESTA NACIONAL DO JAMANXIM/MT - no mês já são 4 dias com alertas e 8,59 km² desmatados.
+                    O Instituto Nacional de Pesquisas Espaciais (INPE) gerou alerta para devastação (1,17 km²) causada por mineração, devido à ação de garimpos , no dia 4 de maio de 2020 na FLORESTA NACIONAL DO JAMANXIM/MT - no mês já são 4 dias com alertas e 8,59 km² desmatados.
                 </sentence>
             </paragraph>
         </text>

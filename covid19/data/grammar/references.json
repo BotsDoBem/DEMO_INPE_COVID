@@ -2,10 +2,16 @@
     "Brasil":{
         "new":[
             {
+                "refex":"brasil",
+                "gender":"male",
+                "number":"singular",
+                "frequency":29
+            },
+            {
                 "refex":"o Brasil",
                 "gender":"male",
                 "number":"singular",
-                "frequency":3
+                "frequency":7
             }
         ],
         "old":[
@@ -13,7 +19,13 @@
                 "refex":"o pa\u00eds",
                 "gender":"male",
                 "number":"singular",
-                "frequency":8
+                "frequency":14
+            },
+            {
+                "refex":"pa\u00eds",
+                "gender":"male",
+                "number":"singular",
+                "frequency":3
             }
         ]
     },
@@ -79,7 +91,7 @@
                 "refex":"aumento",
                 "gender":"male",
                 "number":"singular",
-                "frequency":4
+                "frequency":6
             },
             {
                 "refex":"alta",
@@ -91,7 +103,7 @@
                 "refex":"crescimento",
                 "gender":"male",
                 "number":"singular",
-                "frequency":2
+                "frequency":5
             }
         ],
         "old":[
@@ -851,13 +863,13 @@
                 "refex":"queda",
                 "gender":"female",
                 "number":"singular",
-                "frequency":1
+                "frequency":6
             },
             {
                 "refex":"diminui\u00e7\u00e3o",
                 "gender":"female",
                 "number":"singular",
-                "frequency":1
+                "frequency":4
             }
         ]
     },
@@ -888,6 +900,78 @@
                 "gender":"male",
                 "number":"plural",
                 "frequency":1
+            }
+        ]
+    },
+    "30076":{
+        "new":[
+            {
+                "refex":"30076",
+                "gender":"male",
+                "number":"plural",
+                "frequency":6
+            }
+        ]
+    },
+    "-0.02":{
+        "new":[
+            {
+                "refex":"2%",
+                "gender":"male",
+                "number":"singular",
+                "frequency":8
+            }
+        ]
+    },
+    "283513":{
+        "new":[
+            {
+                "refex":"283513",
+                "gender":"female",
+                "number":"plural",
+                "frequency":3
+            },
+            {
+                "refex":"283513",
+                "gender":"male",
+                "number":"plural",
+                "frequency":5
+            }
+        ]
+    },
+    "1466":{
+        "new":[
+            {
+                "refex":"1466",
+                "gender":"female",
+                "number":"plural",
+                "frequency":4
+            },
+            {
+                "refex":"1466",
+                "gender":"male",
+                "number":"plural",
+                "frequency":2
+            }
+        ]
+    },
+    "0.06":{
+        "new":[
+            {
+                "refex":"6%",
+                "gender":"male",
+                "number":"singular",
+                "frequency":3
+            }
+        ]
+    },
+    "0.05":{
+        "new":[
+            {
+                "refex":"5%",
+                "gender":"male",
+                "number":"singular",
+                "frequency":3
             }
         ]
     }

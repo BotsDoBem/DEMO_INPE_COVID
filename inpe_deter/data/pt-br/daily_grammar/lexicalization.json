@@ -33,6 +33,10 @@
         {
             "template":"Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] registrar NN[gender=female,number=plural] alerta de desmatamento em UC_1 / STATE_1 que somaram AREA_1 , acumulando DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em o m\u00eas .",
             "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 registrou alerta de desmatamento de AREA_1 em UC_1 / STATE_1 em DAY_1 de MONTH_1 de YEAR_1 - UC_1 j\u00e1 teve DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em esse m\u00eas .",
+            "frequency":1
         }
     ],
     "TOTAL_DEFORESTATION(area=AREA_1,city=CITY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,uc=UC_1,year=YEAR_1)":[
@@ -93,6 +97,14 @@
             "frequency":1
         },
         {
+            "template":"Em o dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 informou que houve alertas de desmatamento que somam AREA_1 em CITY_1 / STATE_1 , acumulando DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em o m\u00eas em a regi\u00e3o.",
+            "frequency":1
+        },
+        {
+            "template":"INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] relatar NN[gender=male,number=plural] alerta de desmatamento em CITY_1 / STATE_1 , em o dia DAY_1 de MONTH_1 de YEAR_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar AREA_1 , e a regi\u00e3o acumulou DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em o m\u00eas .",
+            "frequency":1
+        },
+        {
             "template":"Segundo INSTITUTE_1 , CITY_1 / STATE_1 teve alertas de desmatamento em o dia DAY_1 de MONTH_1 de YEAR_1 que somaram AREA_1 .",
             "frequency":1
         },
@@ -135,23 +147,13 @@
             "frequency":1
         }
     ],
-    "DAILY_ALERT(area=AREA_1,city=CITY_1,daily_accumulation=MONTH_1,day=DAY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
-        {
-            "template":"Em o dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 informou que houve alertas de desmatamento que somam AREA_1 em CITY_1 / STATE_1 , acumulando DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em o m\u00eas em a regi\u00e3o.",
-            "frequency":1
-        },
-        {
-            "template":"INSTITUTE_1 VP[aspect=simple,tense=past,voice=active,person=3rd,number=singular] relatar NN[gender=male,number=plural] alerta de desmatamento em CITY_1 / STATE_1 , em o dia DAY_1 de MONTH_1 de YEAR_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar AREA_1 , e a regi\u00e3o acumulou DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em o m\u00eas .",
-            "frequency":1
-        }
-    ],
     "DAILY_ALERT(area=AREA_1,city=CITY_1,day=DAY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,year=YEAR_1)":[
         {
-            "template":"Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 rastreou alertas de desmatamento em CITY_1 / STATE_1, VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar AREA_1 .",
+            "template":"Em DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 rastreou alertas de desmatamento em CITY_1 / STATE_1 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] somar AREA_1 .",
             "frequency":1
         },
         {
-            "template":"Em o dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em UC_1 / STATE_1 .",
+            "template":"Em o dia DAY_1 de MONTH_1 de YEAR_1 , INSTITUTE_1 registrou alertas de desmatamento somando AREA_1 em CITY_1 / STATE_1 .",
             "frequency":1
         },
         {
@@ -169,12 +171,6 @@
             "frequency":2
         }
     ],
-    "DAILY_ALERT(area=AREA_1,city=CITY_1,daily_accumulation=DAILY_ACCUMULATION_1,day=MONTH_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,uc=UC_1,year=YEAR_1)":[
-        {
-            "template":"INSTITUTE_1 registrou alerta de desmatamento de AREA_1 em UC_1 / STATE_1 em DAY_1 de MONTH_1 de YEAR_1 - UC_1 j\u00e1 teve DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas em esse m\u00eas .",
-            "frequency":1
-        }
-    ],
     "DAILY_ALERT(area=AREA_1,city=CITY_1,daily_accumulation=DAILY_ACCUMULATION_1,day=DAY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,uc=UC_1,year=YEAR_1);TOTAL_DEFORESTATION(area=AREA_2,city=CITY_2,location=LOCATION_2,month=MONTH_2,state=STATE_2,uc=UC_2,year=YEAR_2)":[
         {
             "template":"INSTITUTE_1 identificou em o dia DAY_1 de MONTH_1 de YEAR_1 o desmatamento de AREA_1 em UC_1 / STATE_1 - j\u00e1 foram gerados alertas em DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia , somando AREA_2 ADJ[number=AREA_2,gender=male] desmatado em esse m\u00eas .",
@@ -187,7 +183,7 @@
             "frequency":4
         }
     ],
-    "DAILY_ALERT(area=AREA_1,city=CITY_1,daily_accumulation=DAY_1,day=DAY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,uc=UC_1,year=YEAR_1);CAUSE(cause=CAUSE_1,city=CITY_2,location=LOCATION_2,month=MONTH_2,state=STATE_2,uc=UC_2,year=YEAR_2);TOTAL_DEFORESTATION(area=AREA_2,city=CITY_3,location=LOCATION_3,month=MONTH_3,state=STATE_3,uc=UC_3,year=YEAR_3)":[
+    "DAILY_ALERT(area=AREA_1,city=CITY_1,daily_accumulation=DAILY_ACCUMULATION_1,day=DAY_1,location=LOCATION_1,month=MONTH_1,state=STATE_1,uc=UC_1,year=YEAR_1);CAUSE(cause=CAUSE_1,city=CITY_2,location=LOCATION_2,month=MONTH_2,state=STATE_2,uc=UC_2,year=YEAR_2);TOTAL_DEFORESTATION(area=AREA_2,city=CITY_3,location=LOCATION_3,month=MONTH_3,state=STATE_3,uc=UC_3,year=YEAR_3)":[
         {
             "template":"INSTITUTE_1 gerou alerta para devasta\u00e7\u00e3o ( AREA_1 ) causada por CAUSE_1 , em o dia DAY_1 de MONTH_1 de YEAR_1 em UC_1 / STATE_1 - em o m\u00eas j\u00e1 s\u00e3o DAILY_ACCUMULATION_1 NN[number=DAILY_ACCUMULATION_1,gender=male] dia com alertas e AREA_2 ADJ[number=AREA_2,gender=male] desmatado .",
             "frequency":3
